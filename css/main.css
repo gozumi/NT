@@ -1,3 +1,9 @@
+html,
+body {
+	height: 100%;
+	margin: 0;
+}
+
 body {
 	background: url(/assets/this_is_art.jpg) #000000;
 	color: #aaaaaa;
@@ -12,6 +18,14 @@ a {
 h1,
 h1 a {
 	color: #ffffff;
+}
+
+h1, h2 {
+	margin: 0;
+}
+
+.header {
+	height: 100px
 }
 
 .navigation {
@@ -32,14 +46,22 @@ h1 a {
 	color: #ff6e00;
 }
 
-.content {
+.content-wrapper {
+	position: relative;
 	margin: 0 auto 0 auto;
 	background-color: #000000;
 	background-color: rgba(0, 0, 0, 0.8);
 }
 
+.content {
+/*	position: absolute;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	left: 10px;
+*/}
 
-@media screen and (min-width: 500px) {
+@media screen and (min-width: 1100px) {
 	.navigation {
 		position: fixed;
 		top: 100px;
@@ -48,13 +70,13 @@ h1 a {
 		background-color: rgba(0, 0, 0, 0.8);
 	}
 
-	.content {
+	.content-wrapper {
 		width: 800px;
 	}
 }
 
 @media screen and (max-width: 499px) {
-	.content {
+	.content-wrapper {
 		width: 400px;
 	}
 }
