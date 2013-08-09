@@ -6,6 +6,7 @@ body {
 
 body {
 	background: url(/assets/this_is_art.jpg) #000000;
+	background-attachment: fixed;
 	color: #aaaaaa;
 	font-family: Helvetica Narrow, sans-serif;
 }
