@@ -25,14 +25,17 @@ h1, h2 {
 	margin: 0;
 }
 
-.header {
-	height: 100px
+.banner {
+	margin: 10px auto 0 auto;
+	height: 110px;
 }
 
 .navigation {
 	position: fixed;
 	font-weight: bold;
 	font-size: large;
+	background-color: #000000;
+	background-color: rgba(255, 108, 0, 0.2);
 }
 
 .navigation ul {
@@ -56,11 +59,14 @@ h1, h2 {
 }
 
 @media screen and (min-width: 1100px) {
+	.banner {
+		background: url(/assets/banner.png);
+		width: 800px;
+	}
+	
 	.navigation {
 		top: 100px;
 		left: 20px;
-		background-color: #000000;
-		background-color: rgba(0, 0, 0, 0.8);
 	}
 
 	.content-wrapper {
@@ -69,11 +75,13 @@ h1, h2 {
 }
 
 @media screen and (min-width: 880px) and (max-width: 1099px) {
+	.banner {
+		background: url(/assets/banner.png) 0 -112px;
+		width: 600px;
+	}
 	.navigation {
 		top: 100px;
 		left: 20px;
-		background-color: #000000;
-		background-color: rgba(0, 0, 0, 0.8);
 	}
 
 	.content-wrapper {
@@ -82,7 +90,9 @@ h1, h2 {
 }
 
 @media screen and (min-width: 500px) and (max-width: 879px) {
-	.header {
+	.banner {
+		background: url(/assets/banner.png) 0 -224px;
+		width: 400px;
 		margin-top: 100px;
 	}
 
@@ -100,7 +110,9 @@ h1, h2 {
 }
 
 @media screen and (max-width: 499px) {
-	.header {
+	.banner {
+		background: url(/assets/banner.png) 0 -224px;
+		width: 400px;
 		margin-top: 100px;
 	}
 
