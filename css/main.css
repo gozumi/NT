@@ -26,29 +26,42 @@ h1, h2 {
 }
 
 .banner {
-	margin: 10px auto 0 auto;
+	background: url(/assets/banner.png);
+	margin: 10px auto 40px auto;
 	height: 110px;
 }
 
-.navigation {
+.navigation-wrapper {
 	position: fixed;
 	font-weight: bold;
-	font-size: large;
-	background-color: #000000;
-	background-color: rgba(255, 108, 0, 0.2);
+	font-size: medium;
+	padding: 0;
+	text-align: right;
+	z-index: 1000;
 }
 
-.navigation ul {
+.navigation-wrapper ul {
 	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
 
-.navigation a {
-	color: #ffffff;
+.navigation-wrapper li {
+	padding: 10px;
 }
 
-.navigation a:hover,
-.navigation .active {
+.navigation-wrapper a {
+	color: #000000;
+}
+
+.navigation-wrapper a:hover,
+.navigation-wrapper .active {
 	color: #ff6e00;
+}
+
+.navigation {
+	background-color: #000000;
+	background-color: rgba(255, 255, 255, 0.9);
 }
 
 .content-wrapper {
@@ -58,15 +71,23 @@ h1, h2 {
 	background-color: rgba(0, 0, 0, 0.8);
 }
 
+.showcase-frame {
+	position: fixed;
+	top: 0;
+	border: 0;
+	left: 0;
+	right: 0;
+}
+
+
 @media screen and (min-width: 1100px) {
 	.banner {
-		background: url(/assets/banner.png);
 		width: 800px;
 	}
 	
-	.navigation {
+	.navigation-wrapper {
 		top: 100px;
-		left: 20px;
+		left: 0;
 	}
 
 	.content-wrapper {
@@ -76,12 +97,12 @@ h1, h2 {
 
 @media screen and (min-width: 880px) and (max-width: 1099px) {
 	.banner {
-		background: url(/assets/banner.png) 0 -112px;
+		background-position: 0 -112px;
 		width: 600px;
 	}
-	.navigation {
+	.navigation-wrapper {
 		top: 100px;
-		left: 20px;
+		left: 0;
 	}
 
 	.content-wrapper {
@@ -91,40 +112,75 @@ h1, h2 {
 
 @media screen and (min-width: 500px) and (max-width: 879px) {
 	.banner {
-		background: url(/assets/banner.png) 0 -224px;
+		background-position: 0 -224px;
 		width: 400px;
-		margin-top: 100px;
+		margin-top: 45px;
+	}
+
+	.navigation-wrapper {
+		top: 0;
+		left: 0;
+		right: 0;
+		height: 30px;
+		line-height: 30px;
+		margin: 0 auto 0 auto;
 	}
 
 	.navigation {
-		top: 0;
+		width: 400px;
+		height: 100%;
+		margin: 0 auto 0 auto;
 	}
 
-	.navigation li {
+	.navigation-wrapper li {
 		float: left;
+		margin: 0 0 0 10px;
+		padding: 0;
 	}
 
 	.content-wrapper {
 		width: 400px;
 	}
+
+	.showcase-frame {
+		position: static;
+	}
+
 }
 
 @media screen and (max-width: 499px) {
 	.banner {
-		background: url(/assets/banner.png) 0 -224px;
+		background-position: 0 -224px;
 		width: 400px;
-		margin-top: 100px;
+		margin-top: 45px;
+	}
+
+	.navigation-wrapper {
+		top: 0;
+		left: 0;
+		right: 0;
+		height: 30px;
+		line-height: 30px;
+		margin: 0 auto 0 auto;
 	}
 
 	.navigation {
-		top: 0;
+		width: 400px;
+		height: 100%;
+		margin: 0 auto 0 auto;
 	}
 
-	.navigation li {
+	.navigation-wrapper li {
 		float: left;
+		margin: 0 0 0 10px;
+		padding: 0;
 	}
 
 	.content-wrapper {
 		width: 400px;
+	}
+
+	.showcase-frame {
+		position: static;
 	}
 }
