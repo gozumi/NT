@@ -7,19 +7,20 @@
 		<meta name="viewport" content="width=device-width">
 
 		<!-- Custom CSS -->
-		<link rel="stylesheet" href="/css/main.css">
+		<link rel="stylesheet" href="css/main.css">
 
 	</head>
 	<body>
 		<div class="header">
 	 		<h1 class="title"><a href="/">{{ site.name }}</a></h1>
+	 		<h2>{{ page.url }}</h2>
 		</div>
 		<div class="navigation">
 			<ul>
-				<li><a href="/work">work</a></li>
-				<li><a href="/news">news</a></li>
-				<li><a href="/contact">contact</a></li>
-				<li><a href="/archive">archive</a></li>
+				<li><a href="work">work</a></li>
+				<li><a href="news">news</a></li>
+				<li><a href="contact">contact</a></li>
+				<li><a href="archive">archive</a></li>
 			</ul>
 		</div>
 		<div class="content">{{ content }}</div>
