@@ -14,12 +14,6 @@ h1 a {
 	color: #ffffff;
 }
 
-.navigation {
-	position: fixed;
-	top: 100px;
-	left: 20px;
-	background-color: rgba(0, 0, 0, 0.8);
-}
 
 .navigation ul {
 	list-style-type: none;
@@ -35,16 +29,28 @@ h1 a {
 }
 
 .content {
-	width: 800px;
 	margin: 0 auto 0 auto;
+	background-color: #000000;
 	background-color: rgba(0, 0, 0, 0.8);
 }
 
-.video-frame {
-	position: fixed;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-	z-index: -1000;
+
+@media screen and (min-width: 500px) {
+	.navigation {
+		position: fixed;
+		top: 100px;
+		left: 20px;
+		background-color: #000000;
+		background-color: rgba(0, 0, 0, 0.8);
+	}
+
+	.content {
+		width: 800px;
+	}
+}
+
+@media screen and (max-width: 499px) {
+	.content {
+		width: 400px;
+	}
 }
