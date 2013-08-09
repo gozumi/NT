@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>{{ page.title }}</title>
+		<meta name="viewport" content="width=device-width">
+
+		<!-- Custom CSS -->
+		<link rel="stylesheet" href="/css/main.css?cachebust">
+
+	</head>
+	<body>
+		<div class="header">
+	 		<h1 class="title"><a href="/">{{ site.name }}</a></h1>
+		</div>
+		<div class="navigation">
+			<ul>
+				<li><a href="/work">work</a></li>
+				<li><a href="/news">news</a></li>
+				<li><a href="/contact">contact</a></li>
+				<li><a href="/archive">archive</a></li>
+			</ul>
+		</div>
+		<div class="content">{{ content }}</div>
+	</body>
+</html>
