@@ -1,6 +1,7 @@
 ---
 layout: default
-title: NT Presents - Archive
+title: Archive
+group: navigation
 ---
 
 Archive Page

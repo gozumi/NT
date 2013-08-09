@@ -1,3 +1,45 @@
+body {
+	background: url(/assets/this_is_art.jpg) #000000;
+	color: #aaaaaa;
+	font-family: Helvetica Narrow, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #ff6e00;
+}
+
+h1,
+h1 a {
+	color: #ffffff;
+}
+
+.navigation {
+	position: fixed;
+	top: 100px;
+	left: 20px;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+.navigation ul {
+	list-style-type: none;
+}
+
+.navigation a {
+	color: #ffffff;
+}
+
+.navigation a:hover,
+.navigation .active {
+	color: #ff6e00;
+}
+
+.content {
+	width: 800px;
+	margin: 0 auto 0 auto;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
 .video-frame {
 	position: fixed;
 	top: 0;

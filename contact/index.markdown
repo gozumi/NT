@@ -1,6 +1,7 @@
 ---
 layout: default
-title: NT Presents - Contact
+title: Contact
+group: navigation
 ---
 
 Contact Page

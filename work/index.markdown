@@ -1,6 +1,7 @@
 ---
 layout: default
-title: NT Presents - Work
+title: Work
+group: navigation
 ---
 
 Work

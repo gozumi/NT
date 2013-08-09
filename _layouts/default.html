@@ -7,26 +7,21 @@
 		<meta name="viewport" content="width=device-width">
 
 		<!-- Custom CSS -->
-		<link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="/css/main.css">
 
 	</head>
 	<body>
 		<div class="header">
 			<h1 class="title"><a href="/">{{ site.name }}</a></h1>
-			<h2>{{ page.url | upcase }}</h2>
-			<h3>{{ page.url | length }}</h3> 
 		</div>
 		<div class="navigation">
-			{% for node in site.pages %}
-				{% if page.url == node.url %}
-					<li class="active"><a href="{{node.url}}" class="active">{{node.title}}</a></li>
-				{% else %}
-					<li><a href="{{node.url}}">{{node.title}}</a></li>
-				{% endif %}
-			{% endfor %}
+			<ul>
+				{% assign pages_list = site.pages %}
+				{% assign group = 'navigation' %}
+				{% include pages_list %}
+			</ul>
 		</div>
 
 		<div class="content">{{ content }}</div>
-
 	</body>
 </html>

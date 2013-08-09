@@ -1,6 +1,7 @@
 ---
 layout: default
-title: NT Presents - News
+title: News
+group: navigation
 ---
 
 News Page
