@@ -120,10 +120,6 @@ h1, h2 {
 	margin: auto;
 }
 
-.nt-presents .navigation-wrapper {
-	opacity: 0;
-}
-
 @media screen and (min-width: 1100px) {
 	.banner {
 		width: 800px;
@@ -132,6 +128,10 @@ h1, h2 {
 	.navigation-wrapper {
 		top: 100px;
 		left: 0;
+	}
+
+	.nt-presents .navigation-wrapper {
+		opacity: 0;
 	}
 
 	.content-wrapper {
@@ -147,6 +147,10 @@ h1, h2 {
 	.navigation-wrapper {
 		top: 100px;
 		left: 0;
+	}
+
+	.nt-presents .navigation-wrapper {
+		opacity: 0;
 	}
 
 	.content-wrapper {
