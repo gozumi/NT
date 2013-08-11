@@ -2,6 +2,7 @@
 layout: default
 title: News
 group: navigation
+class: news
 ---
 
 News Page

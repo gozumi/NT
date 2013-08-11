@@ -2,6 +2,7 @@
 layout: default
 title: Archive
 group: navigation
+class: archive
 ---
 
 Archive Page
