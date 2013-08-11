@@ -1,0 +1,50 @@
+---
+layout: default
+title: News
+group: navigation
+class: news
+---
+
+<!-- <div>
+  <h1>News</h1>
+    {% for post in site.posts %}
+    	<div class="post">
+			<h2>{{ post.title }}</h2>
+			<h4>{{ post.date | date_to_string }}</h4>
+			<p>{{ post.content }}</p>
+    	</div>
+    {% endfor %}
+</div>
+ -->
+
+<div class="posts">
+	<h1>News</h1>
+	{% for post in paginator.posts %}
+		<div class="post">
+			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			<h4>{{ post.date | date_to_string }}</h4>
+			<p>{{ post.content }}</p>
+		</div>
+	{% endfor %}
+
+	<!-- Pagination links -->
+	<div class="pagination">
+		{% if paginator.previous_page %}
+			{% if paginator.previous_page == 1 %}
+				<a href="{{ site.url }}/news"><div class="previous-active"></div></a>
+			{% else %}
+				<a href="{{ site.url }}/news/page{{ paginator.previous_page }}"><div class="previous-active"></div></a>
+			{% endif %}
+		{% else %}
+			<div class="previous"></div>
+		{% endif %}
+		
+		<p>Page: {{ paginator.page }} of {{ paginator.total_pages }}</p>
+		
+		{% if paginator.next_page %}
+			<a href="{{ site.url }}/news/page{{ paginator.next_page }}"><div class="next-active"></div></a>
+		{% else %}
+			<div class="next"></div>
+		{% endif %}
+	</div>
+</div>

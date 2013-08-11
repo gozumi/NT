@@ -13,16 +13,12 @@ body {
 
 a {
 	text-decoration: none;
-	color: #ff6e00;
-}
-
-h1,
-h1 a {
+	/*color: #ff6e00;*/
 	color: #ffffff;
 }
 
 h1, h2 {
-	margin: 0;
+	color: #ffffff;
 }
 
 .background-curtain {
@@ -124,9 +120,54 @@ h1, h2 {
 	opacity: 0;
 }
 
+.posts .previous,
+.posts .previous-active {
+	position: absolute;
+	left: 0;
+	width: 50px;
+	height: 50px;
+	background: url(/assets/arrows.png);
+	opacity: 0.1;
+}
+
+.posts .previous-active {
+	opacity: 0.5;
+}
+
+.posts .next,
+.posts .next-active {
+	position: absolute;
+	right: 0;
+	background: url(/assets/arrows.png) -100px 0;
+	width: 50px;
+	height: 50px;
+	opacity: 0.1;
+}
+
+.posts .next-active {
+	opacity: 0.5;
+}
+
+.pagination p {
+	text-align: center;
+	width: 100%;
+}
+
+/*.posts .previous:hover {
+	background: url(/assets/arrows.png) -50px 0;
+}
+
+.posts .next:hover {
+	background: url(/assets/arrows.png) -150px 0;
+}
+*/
 @media screen and (min-width: 1100px) {
 	.banner {
 		width: 800px;
+	}
+
+	.content-wrapper img {
+		max-width: 800px;
 	}
 	
 	.navigation-wrapper {
@@ -144,6 +185,11 @@ h1, h2 {
 		background-position: 0 -112px;
 		width: 600px;
 	}
+
+	.content-wrapper img {
+		max-width: 600px;
+	}
+
 	.navigation-wrapper {
 		top: 100px;
 		left: 0;
@@ -160,6 +206,10 @@ h1, h2 {
 		background-position: 0 -224px;
 		width: 320px;
 		margin-top: 45px;
+	}
+
+	.content-wrapper img {
+		max-width: 320px;
 	}
 
 	.navigation-wrapper {
