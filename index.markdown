@@ -1,6 +1,7 @@
 ---
 layout: default
 title: NT Presents
+class: nt-presents
 ---
 
 NT Presents
@@ -19,9 +20,10 @@ NT Presents
 require([
 	'dojo/dom',
 	'dojo/dom-class',
+	'dojo/dom-style',
 	'dojo/_base/fx',
 	'dojo/domReady!'
-], function(dom, domClass, fx){
+], function(dom, domClass, domStyle, fx){
 
 	var cover = dom.byId('showcase-cover');
 
@@ -30,7 +32,8 @@ require([
 		duration: 5000,
 		delay: 3000,
 		onEnd: function() {
-			domClass.add(dom.byId('logo'), 'logo')
+			domClass.add(dom.byId('logo'), 'logo');
+			domStyle.set(dom.byId('navigation-wrapper'), 'opacity', '1');
 		}
 	}).play();
 
