@@ -1,3 +1,5 @@
 name: NT Presents
 markdown: redcarpet
 pygments: true
+paginate: 1
+paginate_path: "news/page:num"
