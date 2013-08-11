@@ -120,6 +120,10 @@ h1, h2 {
 	opacity: 0;
 }
 
+.content {
+	text-align: justify;
+}
+
 .posts .previous,
 .posts .previous-active {
 	position: absolute;
@@ -146,6 +150,10 @@ h1, h2 {
 
 .posts .next-active {
 	opacity: 0.5;
+}
+
+.post {
+	margin-bottom: 10em;
 }
 
 .pagination p {
@@ -248,51 +256,4 @@ h1, h2 {
 		display: none;
 	}
 }
-/*
-@media screen and (max-width: 499px) {
-	.banner {
-		background-position: 0 -224px;
-		width: 400px;
-		margin-top: 45px;
-	}
-
-	.navigation-wrapper {
-		top: 0;
-		left: 0;
-		right: 0;
-		height: 30px;
-		line-height: 30px;
-		margin: 0 auto 0 auto;
-	}
-
-	.navigation {
-		width: 400px;
-		height: 100%;
-		margin: 0 auto 0 auto;
-	}
-
-	.navigation-wrapper li {
-		float: left;
-		margin: 0 0 0 10px;
-		padding: 0;
-	}
-
-	.content-wrapper {
-		width: 400px;
-	}
-
-	.showcase-frame {
-		position: static;
-		width: 400px;
-		height: 300px;
-	}
-
-	.showcase-cover {
-		display: none;
-	}
-
-	.logo {
-		display: none;
-	}
-}
-*/
+ 
