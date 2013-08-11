@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 group: navigation
+class: contact
 ---
 
 Contact Page

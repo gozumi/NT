@@ -10,8 +10,9 @@
 		<link rel="stylesheet" href="/css/main.css">
 		<script type="text/javascript" src="/js/dojo.js" data-dojo-config="async: true"></script>
 	</head>
-	<body>
-		<div class="navigation-wrapper">
+	<body class="{{ page.class }}">
+		<div class="background-curtain"></div>
+		<div id="navigation-wrapper" class="navigation-wrapper">
 			<div class="navigation">
 				<ul>
 					{% assign pages_list = site.pages %}
