@@ -31,7 +31,7 @@ require([
 		onEnd: function() {
 			domClass.add(dom.byId('logo'), 'logo');
 			domStyle.set(dom.byId('navigation-wrapper'), 'opacity', '1');
-			domStyle.set(cover, 'display', 'none');
+			// domStyle.set(cover, 'display', 'none');
 		}
 	}).play();
 
