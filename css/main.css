@@ -25,6 +25,15 @@ h1, h2 {
 	margin: 0;
 }
 
+.logo {
+	background: url(/assets/NT-logo.svg);
+	position: fixed;
+	top: 20px;
+	left: 20px;
+	width: 50px;
+	height: 50px;
+}
+
 .banner {
 	background: url(/assets/banner.png);
 	margin: 10px auto 40px auto;
@@ -72,6 +81,7 @@ h1, h2 {
 }
 
 .showcase-frame {
+	background-color: #000000;
 	position: fixed;
 	top: 0;
 	border: 0;
@@ -81,6 +91,19 @@ h1, h2 {
 	height: 100%;
 }
 
+.showcase-cover {
+	background-color: #ffffff;
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+}
+
+.showcase-cover h1 {
+	color: #999999;
+}
 
 @media screen and (min-width: 1100px) {
 	.banner {
@@ -150,7 +173,7 @@ h1, h2 {
 		height: 300px;
 	}
 
-	.video-cover {
+	.showcase-cover {
 		display: none;
 	}
 }
@@ -193,15 +216,8 @@ h1, h2 {
 		height: 300px;
 	}
 
-	.video-cover {
+	.showcase-cover {
 		display: none;
 	}
 }
 
-.video-cover {
-	position: fixed;
-	top: 0;
-	right: 0;
-	bottom: 0;
-	left: 0;
-}
