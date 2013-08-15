@@ -19,6 +19,7 @@ a {
 
 h1, h2 {
 	color: #ffffff;
+	font-weight: normal;
 }
 
 .footer {
@@ -81,16 +82,9 @@ h1, h2 {
 	color: #ff6e00;
 }
 
-.navigation {
-	/*background-color: #000000;*/
-	/*background-color: rgba(255, 108, 0, 0.5);*/
-}
-
 .content-wrapper {
 	position: relative;
 	margin: 0 auto 0 auto;
-	/*background-color: #000000;*/
-	/*background-color: rgba(0, 0, 0, 0.3);*/
 }
 
 .showcase-frame {
@@ -193,6 +187,23 @@ h1, h2 {
 	margin-top: 5px;
 }
 
+.gallery-wrapper .info {
+	position: absolute;
+	background: #000000;
+	background: rgba(0, 0, 0, 0.7);
+	opacity: 0;
+}
+
+.gallery-wrapper .info p {
+	margin: 5px;
+	text-align: justify;
+	color: #cccccc;
+}
+
+
+.gallery-wrapper .info:hover {
+	opacity: 1;
+}
 /*----------------------------------------------
 	Responsive design
 ----------------------------------------------*/
@@ -239,14 +250,33 @@ h1, h2 {
 		float: right;
 	}
 
-	.gallery-wrapper .two p,
-	.gallery-wrapper .five p {
+	.gallery-wrapper .three .info,
+	.gallery-wrapper .six .info {
+		right: 0;
+	}
+
+	.gallery-wrapper .two .label,
+	.gallery-wrapper .five .label,
+	.gallery-wrapper .two .info,
+	.gallery-wrapper .five .info {
 		margin-left: auto;
 		margin-right: auto;
 	}
 
-	.gallery-wrapper p {
+	.gallery-wrapper .two .info,
+	.gallery-wrapper .five .info {
+		left: 33px;
+	}
+
+	.gallery-wrapper .label {
 		width: 200px;
+	}
+
+	.gallery-wrapper .info {
+		height: 200px;
+		width: 200px;
+		top: 0;
+		overflow: hidden;
 	}
 }
 
@@ -297,8 +327,21 @@ h1, h2 {
 		float: right;
 	}
 
-	.gallery-wrapper p {
+	.gallery-wrapper .label {
 		width: 250px;
+	}
+
+	.gallery-wrapper .two .info,
+	.gallery-wrapper .four .info,
+	.gallery-wrapper .six .info {
+		right: 0;
+	}
+
+	.gallery-wrapper .info {
+		height: 250px;
+		width: 250px;
+		top: 0;
+		overflow: hidden;
 	}
 }
 
@@ -306,7 +349,7 @@ h1, h2 {
 	.banner {
 		background-position: 0 -224px;
 		width: 320px;
-		margin-top: 45px;
+		margin-top: 55px;
 	}
 
 	.content-wrapper img {
@@ -317,8 +360,8 @@ h1, h2 {
 		top: 0;
 		left: 0;
 		right: 0;
-		height: 30px;
-		line-height: 30px;
+		height: 40px;
+		line-height: 40px;
 		margin: 0 auto 0 auto;
 	}
 
@@ -359,8 +402,15 @@ h1, h2 {
 		height: 320px;
 	}
 
-	.gallery-wrapper p {
+	.gallery-wrapper .label {
 		width: 320px;
+	}
+
+	.gallery-wrapper .info {
+		height: 320px;
+		width: 320px;
+		top: 0;
+		overflow: hidden;
 	}
 }
 
