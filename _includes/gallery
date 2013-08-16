@@ -1,0 +1,16 @@
+{% assign i = 0 %}
+
+<div class="gallery-wrapper">
+	{% for image in page.images %}
+		{% capture i %} {{ i | plus: 1 }} {% endcapture %}
+		<div class="gallery-thumb thumb-{{ i | remove: ' ' }}">
+			<a href="{{image.gallery_url}}">
+				<img src="{{ image.src }}" alt="{{ image.label }}">
+				<p class="label">{{ image.label }}</p>
+				<div class="info">
+					<p>{{ image.information }}</p>
+				</div>
+			</a>
+		</div>
+	{% endfor %}
+</div>

@@ -228,7 +228,7 @@ h1, h2 {
 
 	.gallery-thumb {
 		width: 266px;
-		height: 266px;
+		height: 299px;
 	}
 
 	.gallery-thumb img {
@@ -236,35 +236,35 @@ h1, h2 {
 		height: 200px;
 	}
 
-	.gallery-wrapper .one img,
-	.gallery-wrapper .four img,
-	.gallery-wrapper .one p,
-	.gallery-wrapper .four p {
+	.gallery-wrapper .thumb-1 img,
+	.gallery-wrapper .thumb-4 img,
+	.gallery-wrapper .thumb-1 p,
+	.gallery-wrapper .thumb-4 p {
 		float: left;
 	}
 
-	.gallery-wrapper .three img,
-	.gallery-wrapper .three p,
-	.gallery-wrapper .six img,
-	.gallery-wrapper .six p {
+	.gallery-wrapper .thumb-3 img,
+	.gallery-wrapper .thumb-3 p,
+	.gallery-wrapper .thumb-6 img,
+	.gallery-wrapper .thumb-6 p {
 		float: right;
 	}
 
-	.gallery-wrapper .three .info,
-	.gallery-wrapper .six .info {
+	.gallery-wrapper .thumb-3 .info,
+	.gallery-wrapper .thumb-6 .info {
 		right: 0;
 	}
 
-	.gallery-wrapper .two .label,
-	.gallery-wrapper .five .label,
-	.gallery-wrapper .two .info,
-	.gallery-wrapper .five .info {
+	.gallery-wrapper .thumb-2 .label,
+	.gallery-wrapper .thumb-5 .label,
+	.gallery-wrapper .thumb-2 .info,
+	.gallery-wrapper .thumb-5 .info {
 		margin-left: auto;
 		margin-right: auto;
 	}
 
-	.gallery-wrapper .two .info,
-	.gallery-wrapper .five .info {
+	.gallery-wrapper .thumb-2 .info,
+	.gallery-wrapper .thumb-5 .info {
 		left: 33px;
 	}
 
@@ -301,7 +301,7 @@ h1, h2 {
 
 	.gallery-thumb {
 		width: 300px;
-		height: 320px;
+		height: 350px;
 	}
 
 	.gallery-thumb img {
@@ -309,21 +309,21 @@ h1, h2 {
 		height: 250px;
 	}
 
-	.gallery-wrapper .one img,
-	.gallery-wrapper .three img,
-	.gallery-wrapper .five img,
-	.gallery-wrapper .one p,
-	.gallery-wrapper .three p,
-	.gallery-wrapper .five p {
+	.gallery-wrapper .thumb-1 img,
+	.gallery-wrapper .thumb-3 img,
+	.gallery-wrapper .thumb-5 img,
+	.gallery-wrapper .thumb-1 p,
+	.gallery-wrapper .thumb-3 p,
+	.gallery-wrapper .thumb-5 p {
 		float: left;
 	}
 
-	.gallery-wrapper .two img,
-	.gallery-wrapper .two p,
-	.gallery-wrapper .four img,
-	.gallery-wrapper .four p,
-	.gallery-wrapper .six img,
-	.gallery-wrapper .six p {
+	.gallery-wrapper .thumb-2 img,
+	.gallery-wrapper .thumb-2 p,
+	.gallery-wrapper .thumb-4 img,
+	.gallery-wrapper .thumb-4 p,
+	.gallery-wrapper .thumb-6 img,
+	.gallery-wrapper .thumb-6 p {
 		float: right;
 	}
 
@@ -331,9 +331,9 @@ h1, h2 {
 		width: 250px;
 	}
 
-	.gallery-wrapper .two .info,
-	.gallery-wrapper .four .info,
-	.gallery-wrapper .six .info {
+	.gallery-wrapper .thumb-2 .info,
+	.gallery-wrapper .thumb-4 .info,
+	.gallery-wrapper .thumb-6 .info {
 		right: 0;
 	}
 
