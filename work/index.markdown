@@ -11,7 +11,7 @@ images:
 		information: 'Imitation 34/59 is a film created using two versions of the film Imitation of life: the visuals of the black and white 1934 film, and the audio of the 1959 Douglas Sirk colour version...'
 	}
   - {
-		gallery_url: dancing-with-monk, 
+		gallery_url: dancing-with-monk,
 		src: thumbs/dancing-with-monk.jpg,
 		label: Dancing with Monk,
 		information: 'The film Dancing with Monk, centres on a performance by the pioneering Jazz musician Thelonius Monk...'
