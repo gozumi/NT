@@ -7,7 +7,7 @@ class: work
 
 <div class="gallery-wrapper">
 	<div class="gallery-thumb one">
-		<a href="">
+		<a href="imitation-34-59">
 			<img src="thumbs/imitation-34-59.jpg" alt="Imitation 34/59">
 			<p class="label">Imitation 34/59</p>
 			<div class="info">
