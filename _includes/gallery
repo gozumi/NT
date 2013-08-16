@@ -1,18 +1,16 @@
 {% assign i = 0 %}
-{% for node in site.pages %}
-	{% if page.gallery != null and page.gallery == node.gallery %}
-		{% assign i = i + 1 %}
-		<div class="gallery-thumb gallery-{{ i }}">
-			<a href="">
-				<img src="{{ node.source }}" alt="{{ node.label }}">
-				<p class="label">{{ node.label }}</p>
+
+<div class="gallery-wrapper">
+	{% for image in page.images %}
+		{% capture i %} {{ i | plus: 1 }} {% endcapture %}
+		<div class="gallery-thumb thumb-{{ i | remove: ' ' }}">
+			<a href="{{image.gallery_url}}">
+				<img src="{{ image.src }}" alt="{{ image.label }}">
+				<p class="label">{{ image.label }}</p>
 				<div class="info">
-					<p>
-						{{ node.information }}
-					</p>
+					<p>{{ image.information }}</p>
 				</div>
 			</a>
 		</div>
-	{% endif %}
-{% endfor %}
-<h4>gellery included</h4>
+	{% endfor %}
+</div>
