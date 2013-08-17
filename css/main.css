@@ -188,6 +188,7 @@ a:hover,
 .gallery-wrapper p {
 	color: #ffffff;
 	font-size: smaller;
+	font-style: italic;
 	margin-top: 5px;
 }
 
@@ -212,11 +213,13 @@ a:hover,
 .presentation .breadcrumb {
 	position: fixed;
 	bottom: 0;
+	z-index: 1000;
 }
 
 .presentation .page-title {
 	position: fixed;
 	bottom: 30px;
+	z-index: 1000;
 }
 
 .presentation h1 {
@@ -232,10 +235,18 @@ a:hover,
 }
 
 .presentation-content {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 70px;
+	left: 0
+}
+
+.presentation-frame {
+	position: absolute;
 	width: 100%;
 	height: 100%;
 }
-
 /*----------------------------------------------
 	Responsive design
 ----------------------------------------------*/
