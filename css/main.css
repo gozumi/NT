@@ -77,7 +77,7 @@ h1, h2 {
 	color: #ffffff;
 }
 
-.navigation-wrapper a:hover,
+a:hover,
 .navigation-wrapper .active {
 	color: #ff6e00;
 }
@@ -161,6 +161,9 @@ h1, h2 {
 	width: 100%;
 }
 
+.breadcrumb {
+	font-size: smaller;
+}
 
 /*-------------------------------------------
 		galleries
