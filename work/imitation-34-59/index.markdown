@@ -13,25 +13,25 @@ images:
   - {
 		url: imitation-34-59-1.html, 
 		src: thumbs/imitation-34-59.jpg,
-		label: Imitation 34/59 - still one,
+		label: Imitation 34/59 excerpt,
 		information: ''
 	}
   - {
 		url: imitation-34-59-2.html, 
-		src: thumbs/imitation-34-59.jpg,
-		label: Imitation 34/59 - still two,
+		src: thumbs/imitation-34-59-2.jpg,
+		label: Imitation 34/59 - still one,
 		information: ''
 	}
   - {
 		url: imitation-34-59-3.html, 
-		src: thumbs/imitation-34-59.jpg,
-		label: Imitation 34/59 - still three,
+		src: thumbs/imitation-34-59-3.jpg,
+		label: Imitation 34/59 - still two,
 		information: ''
 	}
   - {
-		url: look-series, 
-		src: thumbs/look.jpg,
-		label: The Look series,
+		url: imitation-34-59-4.html, 
+		src: thumbs/imitation-34-59-4.jpg,
+		label: Imitation 34/59 - still three,
 		information: ''
 	}
 
