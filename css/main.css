@@ -167,6 +167,51 @@ a:hover,
 	font-style: italic;
 }
 
+.breadcrumb p {
+	margin: 0;
+}
+
+.bottom-bar {
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 5px;
+	height: 50px;
+}
+
+.bottom-bar .controls {
+	position: absolute;
+	top: 0;
+	right: 10px;
+	bottom: 0;
+	width: 100px;
+}
+
+.bottom-bar .controls div {
+	width: 25px;
+	height: 50px;
+}
+
+.bottom-bar .controls .previous {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+.bottom-bar .controls .next {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.bottom-bar .controls .previous {
+	background: url(/assets/arrows.png);
+}
+
+.bottom-bar .controls .next {
+	background: url(/assets/arrows.png) -25px 0;
+}
 /*-------------------------------------------
 		galleries
 -------------------------------------------*/
@@ -211,16 +256,8 @@ a:hover,
 	opacity: 1;
 }
 
-.presentation .breadcrumb {
-	position: fixed;
-	bottom: 0;
-	z-index: 1000;
-}
-
 .presentation .page-title {
-	position: fixed;
-	bottom: 35px;
-	z-index: 1000;
+	margin: 0 0 5px 0;
 }
 
 .presentation h4 {
