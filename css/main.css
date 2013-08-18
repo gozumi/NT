@@ -164,6 +164,7 @@ a:hover,
 
 .breadcrumb {
 	font-size: smaller;
+	font-style: italic;
 }
 
 /*-------------------------------------------
@@ -218,11 +219,11 @@ a:hover,
 
 .presentation .page-title {
 	position: fixed;
-	bottom: 30px;
+	bottom: 35px;
 	z-index: 1000;
 }
 
-.presentation h1 {
+.presentation h4 {
 	margin: 0;
 }
 
@@ -237,9 +238,11 @@ a:hover,
 .presentation-content {
 	position: absolute;
 	top: 0;
-	right: 0;
+	margin: auto;
+	max-width: 800px;
 	bottom: 70px;
-	left: 0
+	left: 0;
+	right: 0;
 }
 
 .presentation-frame {
@@ -454,6 +457,14 @@ a:hover,
 		width: 320px;
 		top: 0;
 		overflow: hidden;
+	}
+
+	.logo, .presentation-logo {
+		top: 50px;
+	}
+
+	.presentation-content {
+		width: 320px;
 	}
 }
 
