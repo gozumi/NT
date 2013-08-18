@@ -39,7 +39,8 @@ h1, h2 {
 	opacity: 0.9;
 }
 
-.logo {
+.logo,
+.presentation-logo {
 	background: url(/assets/NT-logo.svg);
 	position: fixed;
 	top: 20px;
@@ -187,6 +188,7 @@ a:hover,
 .gallery-wrapper p {
 	color: #ffffff;
 	font-size: smaller;
+	font-style: italic;
 	margin-top: 5px;
 }
 
@@ -206,6 +208,44 @@ a:hover,
 
 .gallery-wrapper .info:hover {
 	opacity: 1;
+}
+
+.presentation .breadcrumb {
+	position: fixed;
+	bottom: 0;
+	z-index: 1000;
+}
+
+.presentation .page-title {
+	position: fixed;
+	bottom: 30px;
+	z-index: 1000;
+}
+
+.presentation h1 {
+	margin: 0;
+}
+
+.presentation .presentation-wrapper {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.presentation-content {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 70px;
+	left: 0
+}
+
+.presentation-frame {
+	position: absolute;
+	width: 100%;
+	height: 100%;
 }
 /*----------------------------------------------
 	Responsive design
