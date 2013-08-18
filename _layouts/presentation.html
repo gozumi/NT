@@ -23,13 +23,23 @@
 	</head>
 	<body class="presentation {{ page.class }}">
 		<div class="background-curtain"></div>
-		<div class="presentation-wrapper">
-			{% include breadcrumb %}
-			<div class="page-title"><h4>{{ page.title }}</h4></div>
+		<div class="presentation-wrapper">			
 			{{ content }}
 		</div>
 		<div class="presentation-logo"></div>
-		{% include navigation %}				
+		{% include navigation %}
+		<div class="bottom-bar">
+			<div class="page-title"><h4>{{ page.title }}</h4></div>
+			{% include breadcrumb %}
+			<div class="controls">
+				{%  if page.next %}
+					<a href="{{page.next}}"><div class="next"></div></a>
+				{% endif %}
+				{%  if page.previous %}
+					<a href="{{page.previous}}"><div class="previous"></div></a>
+				{% endif %}
+			</div>
+		</div>
 		<div class="footer"></div>
 	</body>
 </html>

@@ -23,9 +23,9 @@ images:
 		information: ''
 	}
   - {
-		url: dancing-with-monk-live, 
-		src: thumbs/dancing-with-monk-live.jpg,
-		label: Dancing with Monk live performance,
+		url: imitation-34-59-3.html, 
+		src: thumbs/imitation-34-59.jpg,
+		label: Imitation 34/59 - still three,
 		information: ''
 	}
   - {
