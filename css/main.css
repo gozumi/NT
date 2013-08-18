@@ -164,6 +164,7 @@ a:hover,
 
 .breadcrumb {
 	font-size: smaller;
+	font-style: italic;
 }
 
 /*-------------------------------------------
@@ -235,11 +236,12 @@ a:hover,
 }
 
 .presentation-content {
-	position: absolute;
 	top: 0;
-	right: 0;
 	bottom: 70px;
-	left: 0
+	width: 80%;
+	margin: auto;
+	height: 100%;
+	max-width: 800px;
 }
 
 .presentation-frame {
