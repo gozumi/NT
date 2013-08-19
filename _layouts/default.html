@@ -29,8 +29,10 @@
 				
 		<div class="content-wrapper">
 			{% include breadcrumb %}
-			<div class="page-title"><h1>{{ page.title }}</h1></div>
-			<div class="content">{{ content }}</div>
+			<div class="content">
+				<div class="page-title"><h1>{{ page.title }}</h1></div>
+				{{ content }}
+			</div>
 			<div class="footer">
 				<span class="left">Question everything!</span>
 				<span class="right">Copyright &copy; 2013, Nicola Thomas, All rights reserved.</span>
