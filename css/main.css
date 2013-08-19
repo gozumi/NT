@@ -22,6 +22,10 @@ h1, h2 {
 	font-weight: normal;
 }
 
+p {
+	margin: 2em 0 2em 0;
+}
+
 .top-spacer {
 	height: 10px;
 }
@@ -127,6 +131,7 @@ a:hover,
 
 .content {
 	text-align: justify;
+	/*font-size: small;*/
 }
 
 .posts .previous,
@@ -235,6 +240,10 @@ a:hover,
 	opacity: 0.7;
 }
 
+.gallery-wrapper {
+	padding: 3em 0 0 0;
+}
+
 .gallery-wrapper p {
 	color: #ffffff;
 	font-size: smaller;
@@ -325,33 +334,41 @@ a:hover,
 
 	.gallery-wrapper .thumb-1 img,
 	.gallery-wrapper .thumb-4 img,
+	.gallery-wrapper .thumb-7 img,
 	.gallery-wrapper .thumb-1 p,
-	.gallery-wrapper .thumb-4 p {
+	.gallery-wrapper .thumb-4 p,
+	.gallery-wrapper .thumb-7 p {
 		float: left;
 	}
 
 	.gallery-wrapper .thumb-3 img,
 	.gallery-wrapper .thumb-3 p,
 	.gallery-wrapper .thumb-6 img,
-	.gallery-wrapper .thumb-6 p {
+	.gallery-wrapper .thumb-6 p,
+	.gallery-wrapper .thumb-9 img,
+	.gallery-wrapper .thumb-9 p {
 		float: right;
 	}
 
 	.gallery-wrapper .thumb-3 .info,
-	.gallery-wrapper .thumb-6 .info {
+	.gallery-wrapper .thumb-6 .info,
+	.gallery-wrapper .thumb-9 .info {
 		right: 0;
 	}
 
 	.gallery-wrapper .thumb-2 .label,
 	.gallery-wrapper .thumb-5 .label,
+	.gallery-wrapper .thumb-8 .label,
 	.gallery-wrapper .thumb-2 .info,
-	.gallery-wrapper .thumb-5 .info {
+	.gallery-wrapper .thumb-5 .info,
+	.gallery-wrapper .thumb-8 .info {
 		margin-left: auto;
 		margin-right: auto;
 	}
 
 	.gallery-wrapper .thumb-2 .info,
-	.gallery-wrapper .thumb-5 .info {
+	.gallery-wrapper .thumb-5 .info, 
+	.gallery-wrapper .thumb-8 .info {
 		left: 33px;
 	}
 
@@ -399,9 +416,11 @@ a:hover,
 	.gallery-wrapper .thumb-1 img,
 	.gallery-wrapper .thumb-3 img,
 	.gallery-wrapper .thumb-5 img,
+	.gallery-wrapper .thumb-7 img,
 	.gallery-wrapper .thumb-1 p,
 	.gallery-wrapper .thumb-3 p,
-	.gallery-wrapper .thumb-5 p {
+	.gallery-wrapper .thumb-5 p,
+	.gallery-wrapper .thumb-7 p {
 		float: left;
 	}
 
@@ -410,7 +429,9 @@ a:hover,
 	.gallery-wrapper .thumb-4 img,
 	.gallery-wrapper .thumb-4 p,
 	.gallery-wrapper .thumb-6 img,
-	.gallery-wrapper .thumb-6 p {
+	.gallery-wrapper .thumb-6 p,
+	.gallery-wrapper .thumb-8 img,
+	.gallery-wrapper .thumb-8 p {
 		float: right;
 	}
 
@@ -420,7 +441,8 @@ a:hover,
 
 	.gallery-wrapper .thumb-2 .info,
 	.gallery-wrapper .thumb-4 .info,
-	.gallery-wrapper .thumb-6 .info {
+	.gallery-wrapper .thumb-6 .info,
+	.gallery-wrapper .thumb-8 .info {
 		right: 0;
 	}
 
