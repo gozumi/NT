@@ -154,8 +154,10 @@ a:hover,
 }
 
 .content {
+	background: rgba(255, 255, 255, 0.1);
 	text-align: justify;
-	/*font-size: small;*/
+	float: left;
+	padding: 10px;
 }
 
 .posts .previous,
@@ -343,7 +345,7 @@ a:hover,
 	}
 
 	.content-wrapper {
-		width: 800px;
+		width: 820px;
 	}
 
 	.gallery-thumb {
