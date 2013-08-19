@@ -9,6 +9,7 @@ body {
 	background-attachment: fixed;
 	color: #999999;
 	font-family: Helvetica Narrow, sans-serif;
+	min-height: 505px;
 }
 
 a {
