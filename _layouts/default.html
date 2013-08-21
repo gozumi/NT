@@ -23,9 +23,8 @@
 	</head>
 	<body class="{{ page.class }}">
 		<div class="background-curtain"></div>
-		{% include navigation %}
 		<div class="top-spacer"></div>
-		<a href="/"><div class="banner"></div></a>
+		<!-- <a href="/"><div class="banner"></div></a> -->
 				
 		<div class="content-wrapper">
 			{% include breadcrumb %}
@@ -39,5 +38,9 @@
 			</div>
 		</div>
 		<div class="bottom-spacer"></div>
+		<div id="bottom-bar" class="bottom-bar">
+			<a href="/"><div class="logo"></div></a>
+			{% include navigation %}
+		</div>
 	</body>
 </html>

@@ -9,8 +9,6 @@ class: nt-presents
 <div id="showcase-cover" class="showcase-cover">
 	<div class="NT"></div>
 </div>
-<div id="logo"></div>
-
 
 <script type="text/javascript">
 
@@ -29,8 +27,8 @@ require([
 		duration: 5000,
 		delay: 3000,
 		onEnd: function() {
-			domClass.add(dom.byId('logo'), 'logo');
-			domStyle.set(dom.byId('navigation-wrapper'), 'opacity', '1');
+			// domClass.add(dom.byId('logo'), 'logo');
+			domStyle.set(dom.byId('bottom-bar'), 'opacity', '1');
 			// domStyle.set(cover, 'display', 'none');
 		}
 	}).play();
