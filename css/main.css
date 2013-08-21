@@ -7,6 +7,7 @@ body {
 body {
 	background: url(/assets/this_is_art.jpg) #000000;
 	background-attachment: fixed;
+	background-color: #000000;
 	color: #999999;
 	font-family: Helvetica Narrow, sans-serif;
 	min-height: 505px;
@@ -71,13 +72,20 @@ p {
 	opacity: 0.9;
 }
 
-.logo,
-.presentation-logo {
-	background: url(/assets/NT-logo.svg);
-	position: fixed;
-	top: 20px;
-	left: 20px;
+.logo {
+	position: absolute;
+	left: 0;
+	background: url(/assets/NT-logo-3.png);
+	background: url(/assets/NT-logo-3.svg), none;
 	width: 50px;
+	height: 50px;
+}
+
+.logo-spacer {
+	position: absolute;
+	left: 50px;
+	background: url(/assets/logo-spacer.png);
+	width: 10px;
 	height: 50px;
 }
 
@@ -88,12 +96,12 @@ p {
 }
 
 .navigation-wrapper {
-	position: fixed;
-	font-weight: bold;
-	font-size: medium;
-	padding: 0;
-	text-align: right;
-	z-index: 1000;
+	position: absolute;
+	font-size: small;
+	margin: 0;
+	position: absolute;
+	right: 0;
+	left: 80px;
 }
 
 .navigation-wrapper ul {
@@ -103,7 +111,9 @@ p {
 }
 
 .navigation-wrapper li {
-	padding: 10px;
+	float: left;
+	padding: 0 20px 0 0;
+	line-height: 50px;
 }
 
 .navigation-wrapper a {
@@ -149,7 +159,7 @@ a:hover,
 	margin: auto;
 }
 
-.nt-presents .navigation-wrapper {
+.nt-presents .bottom-bar {
 	opacity: 0;
 }
 
@@ -207,6 +217,7 @@ a:hover,
 }
 
 .bottom-bar {
+	background-color: #000000;
 	position: fixed;
 	left: 0;
 	right: 0;
@@ -215,38 +226,48 @@ a:hover,
 	height: 50px;
 }
 
-.bottom-bar .controls {
+.top-bar {
 	position: absolute;
-	top: 0;
-	right: 10px;
-	bottom: 0;
-	width: 100px;
+	top: 5px;
+	left: 5px;
+	right: 5px;
 }
 
-.bottom-bar .controls div {
-	width: 25px;
-	height: 50px;
-}
-
-.bottom-bar .controls .previous {
+.top-bar .left {
 	position: absolute;
 	left: 0;
 	top: 0;
+	right: 90px;
 }
 
-.bottom-bar .controls .next {
-	position: absolute;
-	right: 0;
-	top: 0;
+.top-bar .controls {
+	height: 40px;
+	width: 80px;
+	float: right;
 }
 
-.bottom-bar .controls .previous {
+.top-bar .controls div {
+	width: 20px;
+	height: 40px;
+}
+
+.top-bar .controls .previous {
 	background: url(/assets/arrows.png);
+	float: left;
 }
 
-.bottom-bar .controls .next {
-	background: url(/assets/arrows.png) -25px 0;
+.top-bar .controls .next {
+	background: url(/assets/arrows.png) -20px 0;
+	float: right;
 }
+
+.me .navigation a.me,
+.work .navigation a.work,
+.news .navigation a.news,
+.archive .navigation a.archive {
+	color: #ff6e00;
+}
+
 /*-------------------------------------------
 		galleries
 -------------------------------------------*/
@@ -305,20 +326,14 @@ a:hover,
 
 .presentation .presentation-wrapper {
 	position: absolute;
-	top: 0;
+	top: 55px;
 	right: 0;
-	bottom: 0;
+	bottom: 60px;
 	left: 0;
 }
 
 .presentation-content {
-	position: absolute;
-	top: 0;
-	margin: auto;
-	max-width: 800px;
-	bottom: 70px;
-	left: 0;
-	right: 0;
+	height: 100%;
 }
 
 .presentation-frame {
@@ -347,11 +362,6 @@ a:hover,
 		width: 780px;
 	}
 	
-	.navigation-wrapper {
-		top: 100px;
-		left: 0;
-	}
-
 	.gallery-thumb {
 		width: 260px;
 		height: 299px;
@@ -432,11 +442,6 @@ a:hover,
 		width: 580px;
 	}
 
-	.navigation-wrapper {
-		top: 100px;
-		left: 0;
-	}
-
 	.gallery-thumb {
 		width: 290px;
 		height: 325px;
@@ -507,28 +512,6 @@ a:hover,
 		width: 460px;
 	}
 
-	.navigation-wrapper {
-		top: 0;
-		left: 0;
-		right: 0;
-		height: 40px;
-		line-height: 40px;
-		margin: 0 auto 0 auto;
-	}
-
-	.navigation {
-		width: 480px;
-		height: 100%;
-		margin: 0 auto 0 auto;
-		background-color: rgba(255, 255, 255, 0.15);
-	}
-
-	.navigation-wrapper li {
-		float: left;
-		margin: 0 0 0 10px;
-		padding: 0;
-	}
-
 	.gallery-thumb {
 		width: 230px;
 		height: 290px;
@@ -596,28 +579,6 @@ a:hover,
 		width: 300px;
 	}
 
-	.navigation-wrapper {
-		top: 0;
-		left: 0;
-		right: 0;
-		height: 40px;
-		line-height: 40px;
-		margin: 0 auto 0 auto;
-	}
-
-	.navigation {
-		width: 320px;
-		height: 100%;
-		margin: 0 auto 0 auto;
-		background-color: rgba(255, 255, 255, 0.15);
-	}
-
-	.navigation-wrapper li {
-		float: left;
-		margin: 0 0 0 10px;
-		padding: 0;
-	}
-
 	.content-wrapper {
 		width: 320px;
 	}
@@ -626,10 +587,6 @@ a:hover,
 		position: static;
 		width: 320px;
 		height: 300px;
-	}
-
-	.logo {
-		display: none;
 	}
 
 	.gallery-thumb {
@@ -651,10 +608,6 @@ a:hover,
 
 	.gallery-wrapper .label {
 		width: 320px;
-	}
-
-	.logo, .presentation-logo {
-		top: 50px;
 	}
 
 	.presentation-content {

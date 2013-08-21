@@ -4,11 +4,11 @@
 			<!-- {% assign pages_list = site.pages %} -->
 			<!-- {% assign group = 'navigation' %} -->
 			<!-- {% include pages_list %} -->
-			<li><a href="/me">Me</a></li>
-			<li><a href="/work">Work</a></li>
-			<li><a href="/news">News</a></li>
+			<li><a href="/me" class="me">Me</a></li>
+			<li><a href="/work" class="work">Work</a></li>
+			<li><a href="/news" class="news">News</a></li>
 			<li><a href="mailto:info@nicolathomas.com?&subject=nicolathomas.com: enquiry">Contact</a></li>
-			<li><a href="/archive">Archive</a></li>
+			<li><a href="/archive" class="archive">Archive</a></li>
 		</ul>
 	</div>
 </div>
