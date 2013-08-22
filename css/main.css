@@ -1,6 +1,7 @@
 html,
 body {
 	height: 100%;
+	width: 100%;
 	margin: 0;
 }
 
@@ -17,17 +18,26 @@ a {
 	color: #ffffff;
 }
 
-h1, h2 {
+h1 {
 	color: #ffffff;
-	font-weight: normal;
+	font-family: Impact, Helvetica;
+	font-size: 2em;
+	margin: 0.25em 0 0.25em 0;
+}
+
+h2 {
+	color: #dddddd;
+	font-family: Impact, Helvetica;
+	font-size: 1.5em;
+	margin: 0.25em 0 0.25em 0;
 }
 
 p {
-	margin: 2em 0 2em 0;
+	margin: 0 0 2em 0;
 }
 
-.top-spacer {
-	height: 10px;
+.page-title {
+	margin: 0 3px 40px 3px;
 }
 
 .bottom-spacer {
@@ -119,10 +129,11 @@ a:hover,
 .content-wrapper {
 	position: relative;
 	float: left;
+	width: 100%;
 }
 
 .content {
-	float: left;
+	margin: 3px;
 }
 
 .content img {
@@ -202,48 +213,23 @@ a:hover,
 .breadcrumb {
 	font-size: smaller;
 	font-style: italic;
+	margin: 0 0 20px 0;
 }
 
 .breadcrumb p {
 	margin: 0;
 }
 
+.presentation .breadcrumb {
+	margin: 0;
+}
+
 .top-bar {
-	position: absolute;
-	top: 5px;
-	left: 5px;
-	right: 5px;
+	background: #000000;
+	margin: 3px;
 }
 
-.top-bar .left {
-	position: absolute;
-	left: 0;
-	top: 0;
-	right: 90px;
-}
-
-.top-bar .controls {
-	height: 40px;
-	width: 80px;
-	float: right;
-}
-
-.top-bar .controls div {
-	width: 20px;
-	height: 40px;
-}
-
-.top-bar .controls .previous {
-	background: url(/assets/arrows.png);
-	float: left;
-}
-
-.top-bar .controls .next {
-	background: url(/assets/arrows.png) -20px 0;
-	float: right;
-}
-
-.me .navigation a.me,
+.about .navigation a.about,
 .work .navigation a.work,
 .news .navigation a.news,
 .archive .navigation a.archive {
@@ -253,15 +239,53 @@ a:hover,
 /*-------------------------------------------
 		galleries
 -------------------------------------------*/
-.gallery-thumb {
+.gallery-wrapper {
 	float: left;
-	width: 20%;
+	margin: 30px 0 0 0;
+}
+
+.gallery-thumb {
+	position: relative;
+	float: left;
+	width: 300px;
+	height: 350px;
 }
 
 .gallery-thumb img {
 	width: 100%;
 }
 
+.gallery-thumb .image-wrapper {
+	position: absolute;
+	top: 0;
+	right: 20px;
+	bottom: 0;
+	left: 0;
+}
+
+.gallery-thumb .label {
+	font-size: small;
+	font-style: italic;
+}
+
+.gallery-thumb .info {
+	position: absolute;
+	top: 0;
+	color: #ffffff;
+	background-color: rgba(0, 0, 0, 0.5);
+	height: 280px;
+	width: 280px;
+	opacity: 0;
+}
+
+.gallery-thumb .info:hover {
+	opacity: 1;
+}
+
+.gallery-thumb .info p {
+	margin: 5px;
+	font-size: small;
+}
 
 .presentation .page-title {
 	margin: 0 0 5px 0;
@@ -280,7 +304,13 @@ a:hover,
 }
 
 .presentation-content {
-	height: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 3px;
+	right: 3px;
+	bottom: 3px;
+	left: 3px;
 }
 
 .presentation-frame {
@@ -288,11 +318,49 @@ a:hover,
 	width: 100%;
 	height: 100%;
 }
+
+.presentation .controls {
+	position: absolute;
+	height: 40px;
+	top: 50%;
+	left: 3px;
+	right: 3px;
+}
+
+.presentation .controls div {
+	width: 20px;
+	height: 40px;
+}
+
+.presentation .controls .previous {
+	background: url(/assets/arrows.png);
+	float: left;
+}
+
+.presentation .controls .next {
+	background: url(/assets/arrows.png) -20px 0;
+	float: right;
+}
 /*----------------------------------------------
 	Responsive design
 ----------------------------------------------*/
 
-@media screen and (min-width: 1100px) {
+@media screen and (max-width: 1600px) {
+}
+
+@media screen and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 1000px) {
+}
+
+@media screen and (max-width: 800px) {
+}
+
+@media screen and (max-width: 550px) {
+}
+
+@media screen and (max-width: 400px) {
 }
 
 @media screen and (min-width: 780px) and (max-width: 1099px) {
