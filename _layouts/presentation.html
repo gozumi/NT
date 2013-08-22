@@ -22,12 +22,16 @@
 		</script>
 	</head>
 	<body class="presentation {{ page.class }}">
-		<div class="background-curtain"></div>
+
 		<div class="top-bar">
 			<div class="left">
 				<div class="page-title"><h4>{{ page.title }}</h4></div>
 				{% include breadcrumb %}
 			</div>
+		</div>
+
+		<div class="presentation-wrapper">			
+			{{ content }}
 			<div class="controls">
 				{%  if page.next %}
 					<a href="{{page.next}}"><div class="next"></div></a>
@@ -37,16 +41,8 @@
 				{% endif %}
 			</div>
 		</div>
-		<div class="presentation-wrapper">			
-			{{ content }}
-		</div>
 
-		<div id="bottom-bar" class="bottom-bar">
-			<a href="/"><div class="logo"></div></a>
-			{% include navigation %}
-			<div class="copyright">
-				Copyright &copy; 2013, Nicola Thomas, All rights reserved.
-			</div>
-		</div>
+		{% include bottom-bar %}
+
 	</body>
 </html>

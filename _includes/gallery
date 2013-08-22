@@ -3,13 +3,17 @@
 <div class="gallery-wrapper">
 	{% for image in page.images %}
 		<div class="gallery-thumb">
-			<a href="{{image.url}}">
-				<img src="{{ image.src }}" alt="{{ image.label }}">
-			</a>
-			<!-- <p class="label">{{ image.label }}</p> -->
-			<!-- <div class="info">
-				<p>{{ image.information }}</p>
-			 </div>-->
+			<div class="image-wrapper">
+				<a href="{{image.url}}">
+					<img src="{{ image.src }}" alt="{{ image.label }}">
+					<p class="label">{{ image.label }}</p>
+				</a>
+				<a href="{{image.url}}">
+					<div class="info">
+						<p>{{ image.information }}</p>
+					</div>
+				</a>
+			</div>
 		</div>
 	{% endfor %}
 </div>
