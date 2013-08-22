@@ -121,6 +121,10 @@ a:hover,
 	margin: 0 auto 0 auto;
 }
 
+.content img {
+	max-width: 100%;
+}
+
 .showcase-frame {
 	background-color: #000000;
 	position: fixed;
