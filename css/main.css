@@ -5,8 +5,6 @@ body {
 }
 
 body {
-	background: url(/assets/this_is_art.jpg) #000000;
-	background-attachment: fixed;
 	background-color: #000000;
 	color: #999999;
 	font-family: Helvetica Narrow, sans-serif;
@@ -48,19 +46,6 @@ p {
 	margin:  10px 0 40px 0;
 }
 
-.footer .left {
-	float: left;
-}
-
-.footer .right {
-	float: right;
-}
-
-.footer .left,
-.footer .right {
-	padding: 5px;
-}
-
 .background-curtain {
 	position: fixed;
 	top: 0;
@@ -72,36 +57,42 @@ p {
 	opacity: 0.9;
 }
 
-.logo {
-	position: absolute;
+.bottom-bar {
+	background-color: #000000;
+	position: fixed;
 	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 5px;
+}
+
+.copyright {
+	float: right;
+	line-height: 50px;
+	margin: 0 5px 0 0;
+	font-size: 10px;
+}
+
+.logo {
+	float: left;
 	background: url(/assets/NT-logo-3.png);
 	background: url(/assets/NT-logo-3.svg), none;
 	width: 50px;
 	height: 50px;
+	margin: 0 20px 0 5px;
 }
 
 .logo-spacer {
-	position: absolute;
-	left: 50px;
+	float: left;
 	background: url(/assets/logo-spacer.png);
 	width: 10px;
 	height: 50px;
 }
 
-.banner {
-	background: url(/assets/banner.png);
-	margin: 0 auto 40px auto;
-	height: 110px;
-}
-
 .navigation-wrapper {
-	position: absolute;
+	float: left;
 	font-size: small;
 	margin: 0;
-	position: absolute;
-	right: 0;
-	left: 80px;
 }
 
 .navigation-wrapper ul {
@@ -164,7 +155,7 @@ a:hover,
 }
 
 .content {
-	background: rgba(255, 255, 255, 0.1);
+	/*background: rgba(255, 255, 255, 0.1);*/
 	text-align: justify;
 	float: left;
 	padding: 10px;
@@ -214,16 +205,6 @@ a:hover,
 
 .breadcrumb p {
 	margin: 0;
-}
-
-.bottom-bar {
-	background-color: #000000;
-	position: fixed;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	padding: 5px;
-	height: 50px;
 }
 
 .top-bar {
@@ -346,273 +327,15 @@ a:hover,
 ----------------------------------------------*/
 
 @media screen and (min-width: 1100px) {
-	.banner {
-		width: 800px;
-	}
-
-	.content-wrapper {
-		width: 800px;
-	}
-
-	.content-wrapper img {
-		max-width: 780px;
-	}
-
-	.content {
-		width: 780px;
-	}
-	
-	.gallery-thumb {
-		width: 260px;
-		height: 299px;
-	}
-
-	.gallery-thumb img {
-		width: 200px;
-		height: 200px;
-	}
-
-	.gallery-wrapper .info {
-		height: 200px;
-		width: 200px;
-		top: 0;
-		overflow: hidden;
-	}
-
-	.gallery-wrapper .thumb-1 img,
-	.gallery-wrapper .thumb-4 img,
-	.gallery-wrapper .thumb-7 img,
-	.gallery-wrapper .thumb-1 p,
-	.gallery-wrapper .thumb-4 p,
-	.gallery-wrapper .thumb-7 p {
-		float: left;
-	}
-
-	.gallery-wrapper .thumb-3 img,
-	.gallery-wrapper .thumb-3 p,
-	.gallery-wrapper .thumb-6 img,
-	.gallery-wrapper .thumb-6 p,
-	.gallery-wrapper .thumb-9 img,
-	.gallery-wrapper .thumb-9 p {
-		float: right;
-	}
-
-	.gallery-wrapper .thumb-3 .info,
-	.gallery-wrapper .thumb-6 .info,
-	.gallery-wrapper .thumb-9 .info {
-		right: 0;
-	}
-
-	.gallery-wrapper .thumb-2 .label,
-	.gallery-wrapper .thumb-5 .label,
-	.gallery-wrapper .thumb-8 .label,
-	.gallery-wrapper .thumb-2 .info,
-	.gallery-wrapper .thumb-5 .info,
-	.gallery-wrapper .thumb-8 .info {
-		margin-left: auto;
-		margin-right: auto;
-	}
-
-	.gallery-wrapper .thumb-2 .info,
-	.gallery-wrapper .thumb-5 .info, 
-	.gallery-wrapper .thumb-8 .info {
-		left: 33px;
-	}
-
-	.gallery-wrapper .label {
-		width: 200px;
-	}
 }
 
 @media screen and (min-width: 780px) and (max-width: 1099px) {
-	.banner {
-		background-position: 0 -112px;
-		width: 600px;
-	}
-
-	.content-wrapper {
-		width: 600px;
-	}
-
-	.content-wrapper img {
-		max-width: 580px;
-	}
-
-	.content {
-		width: 580px;
-	}
-
-	.gallery-thumb {
-		width: 290px;
-		height: 325px;
-	}
-
-	.gallery-thumb img {
-		width: 250px;
-		height: 250px;
-	}
-
-	.gallery-wrapper .info {
-		height: 250px;
-		width: 250px;
-		top: 0;
-		overflow: hidden;
-	}
-
-	.gallery-wrapper .thumb-1 img,
-	.gallery-wrapper .thumb-3 img,
-	.gallery-wrapper .thumb-5 img,
-	.gallery-wrapper .thumb-7 img,
-	.gallery-wrapper .thumb-1 p,
-	.gallery-wrapper .thumb-3 p,
-	.gallery-wrapper .thumb-5 p,
-	.gallery-wrapper .thumb-7 p {
-		float: left;
-	}
-
-	.gallery-wrapper .thumb-2 img,
-	.gallery-wrapper .thumb-2 p,
-	.gallery-wrapper .thumb-4 img,
-	.gallery-wrapper .thumb-4 p,
-	.gallery-wrapper .thumb-6 img,
-	.gallery-wrapper .thumb-6 p,
-	.gallery-wrapper .thumb-8 img,
-	.gallery-wrapper .thumb-8 p {
-		float: right;
-	}
-
-	.gallery-wrapper .label {
-		width: 250px;
-	}
-
-	.gallery-wrapper .thumb-2 .info,
-	.gallery-wrapper .thumb-4 .info,
-	.gallery-wrapper .thumb-6 .info,
-	.gallery-wrapper .thumb-8 .info {
-		right: 0;
-	}
 }
 
 @media screen and (min-width: 480px) and (max-width: 779px) {
-	.banner {
-		background-position: 0 -224px;
-		width: 480px;
-		margin-top: 45px;
-	}
-
-	.content-wrapper {
-		width: 480px;
-	}
-
-	.content-wrapper img {
-		max-width: 460px;
-	}
-
-	.content {
-		width: 460px;
-	}
-
-	.gallery-thumb {
-		width: 230px;
-		height: 290px;
-	}
-
-	.gallery-thumb img {
-		width: 220px;
-		height: 220px;
-	}
-
-	.gallery-wrapper .info {
-		height: 220px;
-		width: 220px;
-		top: 0;
-		overflow: hidden;
-	}
-
-	.gallery-wrapper .thumb-1 img,
-	.gallery-wrapper .thumb-3 img,
-	.gallery-wrapper .thumb-5 img,
-	.gallery-wrapper .thumb-7 img,
-	.gallery-wrapper .thumb-1 p,
-	.gallery-wrapper .thumb-3 p,
-	.gallery-wrapper .thumb-5 p,
-	.gallery-wrapper .thumb-7 p {
-		float: left;
-	}
-
-	.gallery-wrapper .thumb-2 img,
-	.gallery-wrapper .thumb-2 p,
-	.gallery-wrapper .thumb-4 img,
-	.gallery-wrapper .thumb-4 p,
-	.gallery-wrapper .thumb-6 img,
-	.gallery-wrapper .thumb-6 p,
-	.gallery-wrapper .thumb-8 img,
-	.gallery-wrapper .thumb-8 p {
-		float: right;
-	}
-
-	.gallery-wrapper .label {
-		width: 250px;
-	}
-
-	.gallery-wrapper .thumb-2 .info,
-	.gallery-wrapper .thumb-4 .info,
-	.gallery-wrapper .thumb-6 .info,
-	.gallery-wrapper .thumb-8 .info {
-		right: 0;
-	}
 }
 
 @media screen and (max-width: 479px) {
-	.banner {
-		background-position: 0 -224px;
-		width: 320px;
-		margin-top: 45px;
-	}
-
-	.content-wrapper img {
-		max-width: 300px;
-	}
-
-
-	.content {
-		width: 300px;
-	}
-
-	.content-wrapper {
-		width: 320px;
-	}
-
-	.showcase-frame {
-		position: static;
-		width: 320px;
-		height: 300px;
-	}
-
-	.gallery-thumb {
-		width: 300px;
-		height: 410px;
-	}
-
-	.gallery-thumb img {
-		width: 300px;
-		height: 300px;
-	}
-
-	.gallery-wrapper .info {
-		height: 320px;
-		width: 320px;
-		top: 0;
-		overflow: hidden;
-	}
-
-	.gallery-wrapper .label {
-		width: 320px;
-	}
-
-	.presentation-content {
-		width: 320px;
-	}
 }
 
  

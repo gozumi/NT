@@ -22,9 +22,9 @@
 		</script>
 	</head>
 	<body class="{{ page.class }}">
-		<div class="background-curtain"></div>
+		<!-- <div class="background-curtain"></div> -->
+
 		<div class="top-spacer"></div>
-		<!-- <a href="/"><div class="banner"></div></a> -->
 				
 		<div class="content-wrapper">
 			{% include breadcrumb %}
@@ -32,15 +32,17 @@
 				<div class="page-title"><h1>{{ page.title }}</h1></div>
 				{{ content }}
 			</div>
-			<div class="footer">
-				<span class="left">Question everything!</span>
-				<span class="right">Copyright &copy; 2013, Nicola Thomas, All rights reserved.</span>
-			</div>
 		</div>
+
 		<div class="bottom-spacer"></div>
+
 		<div id="bottom-bar" class="bottom-bar">
 			<a href="/"><div class="logo"></div></a>
 			{% include navigation %}
+			<div class="copyright">
+				Copyright &copy; 2013, Nicola Thomas, All rights reserved.
+			</div>
 		</div>
+
 	</body>
 </html>
