@@ -369,6 +369,11 @@ a:hover,
 	/*margin-bottom: 10em;*/
 }
 
+.post .movie-frame {
+	width: 400px;
+	height: 300px;
+}
+
 .pagination a {
 	margin: 0 0 0 20px;
 }
