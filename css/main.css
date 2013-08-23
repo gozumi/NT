@@ -173,43 +173,6 @@ a:hover,
 	opacity: 0;
 }
 
-.posts .previous,
-.posts .previous-active {
-	position: absolute;
-	left: 0;
-	width: 50px;
-	height: 50px;
-	background: url(/assets/arrows.png);
-	opacity: 0.1;
-}
-
-.posts .previous-active {
-	opacity: 0.5;
-}
-
-.posts .next,
-.posts .next-active {
-	position: absolute;
-	right: 0;
-	background: url(/assets/arrows.png) -100px 0;
-	width: 50px;
-	height: 50px;
-	opacity: 0.1;
-}
-
-.posts .next-active {
-	opacity: 0.5;
-}
-
-.post {
-	margin-bottom: 10em;
-}
-
-.pagination p {
-	text-align: center;
-	width: 100%;
-}
-
 .breadcrumb {
 	font-size: smaller;
 	font-style: italic;
@@ -341,6 +304,75 @@ a:hover,
 	background: url(/assets/arrows.png) -20px 0;
 	float: right;
 }
+/*----------------------------------------------
+	Posts
+----------------------------------------------*/
+.post-header-wrapper {
+	position: relative;
+	width: 30%;
+	float: left;
+	text-align: right;
+}
+
+.post-content-wrapper {
+	position: relative;
+	width: 70%;
+	float: left;
+}
+
+.post-header {
+	padding: 0 15px 0 0;
+}
+
+.post-content {
+	padding: 3px 0 8em 15px;
+	border-left: 1px solid #333333;
+}
+
+.post-content img {
+	max-width: 50%;
+}
+
+.post h2 {
+	margin: 0;
+}
+
+.posts .previous,
+.posts .previous-active {
+/*	position: absolute;
+	left: 0;
+	width: 50px;
+	height: 50px;
+	background: url(/assets/arrows.png);
+	opacity: 0.1;
+*/}
+
+.posts .previous-active {
+	/*opacity: 0.5;*/
+}
+
+.posts .next,
+.posts .next-active {
+/*	position: absolute;
+	right: 0;
+	background: url(/assets/arrows.png) -100px 0;
+	width: 50px;
+	height: 50px;
+	opacity: 0.1;
+*/}
+
+.posts .next-active {
+	opacity: 0.5;
+}
+
+.post {
+	/*margin-bottom: 10em;*/
+}
+
+.pagination a {
+	margin: 0 0 0 20px;
+}
+
 /*----------------------------------------------
 	Responsive design
 ----------------------------------------------*/

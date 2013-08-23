@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  ReAct @ Dilston Grove
-date:   2013-03-11 17:19:32
+title:  Test 2
+date:   2013-07-08 17:19:32
 categories: 
 ---
 
@@ -11,5 +11,3 @@ ReAct@DILSTON GROVE<br />
 Southwark Park<br />
 London<br />
 SE16 2DD<br />
-
-![RCA Flyer]({{ site.url }}/assets_posts/dilston-grove.jpg)
