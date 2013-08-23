@@ -36,6 +36,10 @@ p {
 	margin: 0 0 2em 0;
 }
 
+img {
+	border: none;
+}
+
 .page-title {
 	margin: 0 3px 40px 3px;
 }
