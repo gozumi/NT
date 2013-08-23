@@ -7,8 +7,6 @@
 				<a href="{{image.url}}">
 					<img src="{{ image.src }}" alt="{{ image.label }}">
 					<p class="label">{{ image.label }}</p>
-				</a>
-				<a href="{{image.url}}">
 					<div class="info">
 						<p>{{ image.information }}</p>
 					</div>
