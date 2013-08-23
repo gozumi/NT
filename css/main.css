@@ -25,6 +25,10 @@ h1 {
 	margin: 0.25em 0 0.25em 0;
 }
 
+.presentation .top-bar h1 {
+	color: #999999;
+}
+
 h2 {
 	color: #dddddd;
 	font-family: Impact, Helvetica;
