@@ -9,3 +9,4 @@ NT will be showing work at this year's RCA Degree Show in the Sculpture building
 
 ![RCA Flyer]({{ site.url }}/assets_posts/RCA-Flyer.jpg) 
 
+![RCA Flyer]({{ site.url }}/assets_posts/official-degree-show-flyer.jpg) 
