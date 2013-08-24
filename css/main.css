@@ -291,6 +291,10 @@ a:hover,
 	left: 3px;
 }
 
+.presentation-content-img {
+	text-align: center;
+}
+
 .presentation-frame {
 	position: absolute;
 	width: 100%;
@@ -319,6 +323,7 @@ a:hover,
 	background: url(/assets/arrows.png) -20px 0;
 	float: right;
 }
+
 /*----------------------------------------------
 	Posts
 ----------------------------------------------*/
