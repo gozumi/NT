@@ -186,7 +186,7 @@ a:hover,
 .breadcrumb {
 	font-size: smaller;
 	font-style: italic;
-	margin: 0 0 20px 0;
+	margin: 0;
 }
 
 .breadcrumb p {
@@ -200,6 +200,7 @@ a:hover,
 .top-bar {
 	background: #000000;
 	margin: 3px;
+	min-height: 52px;
 }
 
 .me .navigation a.me,
