@@ -11,7 +11,7 @@ breadcrumb:
 	}
 images:
   - {
-		url: 4-white-wallls, 
+		url: 4-white-walls, 
 		src: thumbs/4-white-walls.jpg,
 		label: 4 white walls&#44; 2011,
 		information: ''
