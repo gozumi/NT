@@ -37,6 +37,6 @@ images:
 
 ---
 
-Imitation 34/59 is a film created using two versions of the film Imitation of life: the visuals of the black and white 1934 film, and the audio of the 1959 Douglas Sirk colour version. Rather than focusing on the anguish and frustration of the daughter at her mother and society (as in the Sirk version), Imitation 34/59 hones in on the pain and suffering of the mother. As a result, the film is driven by its soundtrack: that of the voice of the mother combined with the predominant visuals of the daughter. The work challenges the preconceived and societal views viewers may have concerning the relationship between the two women; and as a subplot raises questions about race.
+Imitation 34/59 is a film created using two versions of the film Imitation of life: the visuals of the black and white 1934 film, and the audio of the 1959 Douglas Sirk colour version. Rather than focusing on the anguish and frustration of the daughter at her mother and society [as in the Sirk version], Imitation 34/59 hones in on the pain and suffering of the mother. As a result, the film is driven by its soundtrack: that of the voice of the mother combined with the predominant visuals of the daughter. The work challenges the preconceived and societal views viewers may have concerning the relationship between the two women; and as a subplot raises questions about race.
 
 {% include gallery %}

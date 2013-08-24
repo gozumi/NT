@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About
+title: Me
 group: navigation
-class: about
+class: me
 ---
 
 Looking is not a simple task or action. 
