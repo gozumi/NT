@@ -102,7 +102,7 @@ images:
 	}
   - {
 		url: sculptural-configurations-using-4-canvases-2008, 
-		src: thumbs/sculptural-configurations-using-4-canvases-2008.jpg,
+		src: thumbs/sculptural-configurations-2008.jpg,
 		label: sculptural configurations using 4 canvases&#44; 2008,
 		information: ''
 	}
@@ -132,7 +132,7 @@ images:
 	}
   - {
 		url: a-trilogy-of-book-works-2009, 
-		src: thumbs/nowhere-2010.jpg,
+		src: thumbs/trilogy-of-book-works-2009.jpg,
 		label: a trilogy of book works&#44; 2009,
 		information: ''
 	}
