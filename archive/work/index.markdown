@@ -108,7 +108,7 @@ images:
 	}
   - {
 		url: a-z-of-a-library-2009, 
-		src: a-z-of-a-library-2009.jpg,
+		src: thumbs/a-z-of-a-library-2009.jpg,
 		label: a-z of a library&#44; 2009,
 		information: ''
 	}
