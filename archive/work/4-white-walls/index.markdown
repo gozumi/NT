@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4 white walls - [archive]
+title: 4 white walls&#44; 2011 - [archive]
 group: navigation
 class: archive
 breadcrumb:

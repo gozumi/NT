@@ -1,6 +1,6 @@
 ---
 layout: default
-title: beating yourself up - [archive]
+title: beating yourself up&#44; 2010 - [archive]
 group: navigation
 class: archive
 breadcrumb:
@@ -71,37 +71,37 @@ images:
 	}
   - {
 		url: image-10.html, 
-		src: thumbs/beating-yourself-up-6.jpg,
+		src: thumbs/beating-yourself-up-10.jpg,
 		label: ,
 		information: ''
 	}
   - {
 		url: image-11.html, 
-		src: thumbs/beating-yourself-up-7.jpg,
+		src: thumbs/beating-yourself-up-11.jpg,
 		label: ,
 		information: ''
 	}
   - {
 		url: image-12.html, 
-		src: thumbs/beating-yourself-up-8.jpg,
+		src: thumbs/beating-yourself-up-12.jpg,
 		label: ,
 		information: ''
 	}
   - {
 		url: image-13.html, 
-		src: thumbs/beating-yourself-up-9.jpg,
+		src: thumbs/beating-yourself-up-13.jpg,
 		label: ,
 		information: ''
 	}
   - {
 		url: image-14.html, 
-		src: thumbs/beating-yourself-up-8.jpg,
+		src: thumbs/beating-yourself-up-14.jpg,
 		label: ,
 		information: ''
 	}
   - {
 		url: image-15.html, 
-		src: thumbs/beating-yourself-up-9.jpg,
+		src: thumbs/beating-yourself-up-15.jpg,
 		label: ,
 		information: ''
 	}
