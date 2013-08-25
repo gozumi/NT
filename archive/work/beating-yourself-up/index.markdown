@@ -69,6 +69,42 @@ images:
 		label: ,
 		information: ''
 	}
+  - {
+		url: image-10.html, 
+		src: thumbs/beating-yourself-up-6.jpg,
+		label: ,
+		information: ''
+	}
+  - {
+		url: image-11.html, 
+		src: thumbs/beating-yourself-up-7.jpg,
+		label: ,
+		information: ''
+	}
+  - {
+		url: image-12.html, 
+		src: thumbs/beating-yourself-up-8.jpg,
+		label: ,
+		information: ''
+	}
+  - {
+		url: image-13.html, 
+		src: thumbs/beating-yourself-up-9.jpg,
+		label: ,
+		information: ''
+	}
+  - {
+		url: image-14.html, 
+		src: thumbs/beating-yourself-up-8.jpg,
+		label: ,
+		information: ''
+	}
+  - {
+		url: image-15.html, 
+		src: thumbs/beating-yourself-up-9.jpg,
+		label: ,
+		information: ''
+	}
 ---
 
 {% include gallery %}
