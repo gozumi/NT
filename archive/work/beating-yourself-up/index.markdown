@@ -1,6 +1,6 @@
 ---
 layout: default
-title: beating yourself up - [archive]
+title: beating yourself up&#44; 2010 - [archive]
 group: navigation
 class: archive
 breadcrumb:
