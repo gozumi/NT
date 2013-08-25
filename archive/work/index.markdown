@@ -168,13 +168,13 @@ images:
 	}
   - {
 		url: the-sculpture-of-the-everyday-2006, 
-		src: thumbs/the-sculpture-of-the-everyday-2006.jpg,
+		src: thumbs/sculpture-of-the-everyday-2006.jpg,
 		label: the sculpture of the everyday&#44; 2006,
 		information: ''
 	}
   - {
-		url: cofa-spinach-2009, 
-		src: thumbs/cofa-spinach-2009.jpg,
+		url: cofa-at-spinach-2009, 
+		src: thumbs/cofa-2009.jpg,
 		label: COFA@spinach&#44; 2009,
 		information: ''
 	}
