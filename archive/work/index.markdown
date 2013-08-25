@@ -138,7 +138,7 @@ images:
 	}
   - {
 		url: the-hug-a-tree-project-2008, 
-		src: thumbs/the-hug-a-tree-project-2008.jpg,
+		src: thumbs/hug-a-tree-project-2008.jpg,
 		label: the hug a tree project&#44; 2008,
 		information: ''
 	}
