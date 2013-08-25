@@ -185,7 +185,7 @@ images:
 	}
   - {
 		url: image-29.html, 
-		src: thumbs/feel-free-to-colour-in-209.jpg,
+		src: thumbs/feel-free-to-colour-in-29.jpg,
 		label: ,
 		information: ''
 	}
