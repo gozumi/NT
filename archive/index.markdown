@@ -2,7 +2,7 @@
 layout: default
 title: Archive
 group: navigation
-class: archive
+class: archive archive-main
 images:
   - {
 		url: work, 
