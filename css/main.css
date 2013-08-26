@@ -431,22 +431,28 @@ a:hover,
 @media screen and (max-width: 1000px) {
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
+	h1 {
+		font-size: 1em;
+	}
+
+	.breadcrumb {
+		font-size: 0.5em;
+	}
+
+	.navigation-wrapper li {
+		padding: 0 10px 0 0;
+	}
+
+	.copyright {
+		font-size: 7px;
+	}
 }
 
 @media screen and (max-width: 550px) {
-}
-
-@media screen and (max-width: 400px) {
-}
-
-@media screen and (min-width: 780px) and (max-width: 1099px) {
-}
-
-@media screen and (min-width: 480px) and (max-width: 779px) {
-}
-
-@media screen and (max-width: 479px) {
+	.copyright {
+		display: none;
+	}
 }
 
  
