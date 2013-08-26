@@ -229,6 +229,16 @@ a:hover,
 	height: 350px;
 }
 
+.archive .gallery-thumb {
+	width: 200px;
+	height: 250px;
+}
+
+.archive-main .gallery-thumb {
+	width: 300px;
+	height: 350px;
+}
+
 .gallery-thumb img {
 	width: 100%;
 }
@@ -254,6 +264,16 @@ a:hover,
 	height: 280px;
 	width: 280px;
 	opacity: 0;
+}
+
+.archive .gallery-thumb .info {
+	height: 180px;
+	width: 180px;
+}
+
+.archive-main .gallery-thumb .info {
+	height: 280px;
+	width: 280px;
 }
 
 .gallery-thumb .info:hover {
