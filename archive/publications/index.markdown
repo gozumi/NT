@@ -11,27 +11,27 @@ breadcrumb:
 	}
 images:
   - {
-		url: txt-1-2010, 
-		src: thumbs/txt-1-2010.jpg,
-		label: txt 1&#44; 2010,
+		url: txts-1-2010, 
+		src: thumbs/txts-1-2010.jpg,
+		label: txts 1&#44; 2010,
 		information: ''
 	}
   - {
-		url: nt-newspaper-up-2011, 
-		src: thumbs/nt-newspaper-2011.jpg,
+		url: NT-newspaper-2011, 
+		src: thumbs/NT-newspaper-2011.jpg,
 		label: NT newspaper&#44; 2011,
 		information: ''
 	}
   - {
-		url: NT-2-2011, 
-		src: thumbs/NT-2-2011.jpg,
-		label: NT 2&#44; 2011,
+		url: NT2-2011, 
+		src: thumbs/NT2-2011.jpg,
+		label: NT2&#44; 2011,
 		information: ''
 	}
   - {
-		url: NT-1-2011, 
-		src: thumbs/NT-1-2011.jpg,
-		label: NT 1&#44; 2011,
+		url: NT1-2011, 
+		src: thumbs/NT1-2011.jpg,
+		label: NT1&#44; 2011,
 		information: ''
 	}
   - {
