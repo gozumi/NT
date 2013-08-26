@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Me
+title: me
 group: navigation
 class: me
 ---
