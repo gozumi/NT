@@ -65,4 +65,6 @@ images:
 	}
 ---
 
+A conversation between 2 monitors. Listening, hearing and talking is mentioned, but all communication is non verbal.
+
 {% include gallery %}

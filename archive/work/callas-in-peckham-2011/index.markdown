@@ -53,4 +53,6 @@ images:
 	}
 ---
 
+On Peckham Rye an operatic performance is enacted.
+
 {% include gallery %}

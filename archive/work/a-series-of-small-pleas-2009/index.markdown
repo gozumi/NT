@@ -107,4 +107,6 @@ images:
 	}
 ---
 
+Periodically, 100 cards are issued and distributed in a multitude of ways. During the project, all banknotes encountered are stamped with the message: ‘please use me wisely’.
+
 {% include gallery %}

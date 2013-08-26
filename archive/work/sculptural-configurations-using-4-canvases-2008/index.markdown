@@ -179,4 +179,6 @@ images:
 	}
 ---
 
+A series of sculptural works were created using 4 canvases and the results recorded using photography. An exercise in crossing the boundaries between sculpture and painting, and between the conventions of how artworks are perceived and encountered by the audience.
+
 {% include gallery %}

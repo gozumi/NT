@@ -155,4 +155,6 @@ images:
 	}
 ---
 
+“When you have lost your inns, drown your empty selves, for you will have lost the last of England.” - Hilaire Belloc
+
 {% include gallery %}
