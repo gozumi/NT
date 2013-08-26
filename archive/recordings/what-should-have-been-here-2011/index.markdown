@@ -47,4 +47,6 @@ images:
 	}
 ---
 
+The work describes an installation which was intended for the Degree Show.
+
 {% include gallery %}

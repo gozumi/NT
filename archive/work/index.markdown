@@ -116,49 +116,49 @@ images:
 		url: 20-words-on-20-cards-2008, 
 		src: thumbs/20-words-on-20-cards-2008.jpg,
 		label: 20 words on 20 cards&#44; 2008,
-		information: 'Created for a small works exhibition: &#39;20:20:20:20&#39;, 20 words on 20 cards could only be accessed by a ladder. Only once the participant has climbed the ladder are the cards and their message visible.'
+		information: 'Created for a small works exhibition: &#39;20:20:20:20&#39;, 20 words on 20 cards could only be accessed by a ladder...'
 	}
   - {
 		url: 15-words-2007, 
 		src: thumbs/15-words-2007.jpg,
 		label: 15 words...&#44; 2007,
-		information: '16 photographs. A visual connective puzzle using words and clothing.'
+		information: '16 photographs. A visual connective puzzle using words and clothing...'
 	}
   - {
 		url: feel-free-to-colour-in-2008, 
 		src: thumbs/feel-free-to-colour-in-2008.jpg,
 		label: feel free to colour in&#44; 2008,
-		information: 'The gallery space reclaimed for its viewers, where the audience can define and take over the use of the exhibition space. A large-scale, site specific drawing, which questions art, its institution, authorship, and ownership.'
+		information: 'The gallery space reclaimed for its viewers, where the audience can define and take over the use of the exhibition space...'
 	}
   - {
 		url: a-trilogy-of-book-works-2009, 
 		src: thumbs/trilogy-of-book-works-2009.jpg,
 		label: a trilogy of book works&#44; 2009,
-		information: 'Book works, specifically created as part of an installation for the Old Surgeon’s Library, Chelsea College of Art and Design.'
+		information: 'Book works, specifically created as part of an installation at Chelsea College of Art and Design...'
 	}
   - {
 		url: the-hug-a-tree-project-2008, 
 		src: thumbs/hug-a-tree-project-2008.jpg,
 		label: the hug a tree project&#44; 2008,
-		information: 'A site-specific work, resulting from a residency at Gunpowder Park, Essex. Participation is encouraged through different means: by hugging a tree; by reusing the postcard; by emailing, and by visiting the website. Where the viewer could do all four actions, some or none.'
+		information: 'A site-specific work, resulting from a residency at Gunpowder Park, Essex...'
 	}
   - {
 		url: the-questionnaire-2009, 
 		src: thumbs/the-questionnaire-2009.jpg,
 		label: the questionnaire&#44; 2009,
-		information: 'Participants are asked to complete an ethnic monitoring form. Each form is unique, therefore collectively all the information collated from the questionnaires are redundant.'
+		information: 'Participants are asked to complete an ethnic monitoring form. Each form is unique...'
 	}
   - {
 		url: a-series-of-small-pleas-2009, 
 		src: thumbs/a-series-of-small-pleas-2009.jpg,
 		label: a series of small pleas&#44; 2009,
-		information: 'Periodically&#44; 100 cards are issued and distributed in a multitude of ways. During the project&#44; all banknotes encountered are stamped with the message: ‘please use me wisely’.'
+		information: 'Periodically&#44; 100 cards are issued and distributed in a multitude of ways...'
 	}
   - {
 		url: chair-sculpture-2006, 
 		src: thumbs/chair-sculpture-2006.jpg,
 		label: chair sculpture&#44; 2006,
-		information: '‘Found’ sculpture on a London street. Bright&#44; shiny&#44; dense&#44; complex&#44; alluring&#44; tense&#44; and in a state of flux - just like London.'
+		information: '‘Found’ sculpture on a London street. Bright&#44; shiny&#44; dense&#44; complex&#44; alluring&#44; tense...'
 	}
   - {
 		url: the-last-of-england-II-2006, 
@@ -170,13 +170,13 @@ images:
 		url: the-sculpture-of-the-everyday-2006, 
 		src: thumbs/sculpture-of-the-everyday-2006.jpg,
 		label: the sculpture of the everyday&#44; 2006,
-		information: 'Following a visit to the British Museum, photographs were taken in and around the vicinity of the museum. The resulting photographs are the sculptural artefacts found within that area.'
+		information: 'Following a visit to the British Museum, photographs were taken in and around the vicinity of the museum...'
 	}
   - {
 		url: cofa-at-spinach-2009, 
 		src: thumbs/cofa-2009.jpg,
 		label: COFA@spinach&#44; 2009,
-		information: 'A performance in the form of an office presentation performed by Ms Cofa and Ms Cofa at the offices of Spinach. Prior to the performance a website was live, so that employees at Spinach could give their examples of management pseudo speak phrases. Which were then incorporated into the script for the presentation.'
+		information: 'A performance in the form of an office presentation performed by Ms Cofa and Ms Cofa at the offices of Spinach...'
 	}
 ---
 

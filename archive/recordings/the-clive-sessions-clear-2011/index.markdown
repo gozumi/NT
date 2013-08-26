@@ -59,4 +59,6 @@ images:
 	}
 ---
 
+A one-off white label.
+
 {% include gallery %}

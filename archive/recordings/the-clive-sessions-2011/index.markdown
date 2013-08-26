@@ -47,4 +47,6 @@ images:
 	}
 ---
 
+This work consists of a recordings on vinyl, where an avid record collector talks about their passion for music.
+
 {% include gallery %}

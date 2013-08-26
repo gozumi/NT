@@ -47,4 +47,6 @@ images:
 	}
 ---
 
+A recording where the speaker attempts to fill the duration of time available on 12” vinyl (45 rpm), by talking up to the maximum allotted time.
+
 {% include gallery %}
