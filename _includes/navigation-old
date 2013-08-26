@@ -1,0 +1,9 @@
+<div id="navigation-wrapper" class="navigation-wrapper">
+	<div class="navigation">
+		<ul>
+			{% assign pages_list = site.pages %}
+			{% assign group = 'navigation' %}
+			{% include pages_list %}
+		</ul>
+	</div>
+</div>

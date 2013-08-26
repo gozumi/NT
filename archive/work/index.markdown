@@ -14,43 +14,43 @@ images:
 		url: 4-white-walls, 
 		src: thumbs/4-white-walls.jpg,
 		label: 4 white walls&#44; 2011,
-		information: ''
+		information: 'Images from the group show QUADRAPHONIC at the Fold Gallery in London...'
 	}
   - {
 		url: beating-yourself-up, 
 		src: thumbs/beating-yourself-up.jpg,
 		label: beating yourself up&#44; 2010,
-		information: ''
+		information: 'A face is shown in distress and eventually crying. A hand is shown being beaten by a stick and having its fingers bent backwards...'
 	}
   - {
 		url: what-should-have-been-here-2011, 
 		src: thumbs/what-should-have-been-here-2011.jpg,
 		label: what should have been here&#44; 2011,
-		information: ''
+		information: 'A limited pressing of 10 records in orange vinyl...'
 	}
   - {
 		url: seeing-red-2010, 
 		src: thumbs/seeing-red-2010.jpg,
 		label: seeing red&#44; 2010,
-		information: ''
+		information: 'An audio piece, where as the listener eavesdrops on the conversation they gradually realise that the person speaking is some what ‘unsettled’...'
 	}
   - {
 		url: distillation-2010, 
 		src: thumbs/distillation-2010.jpg,
 		label: distillation&#44; 2010,
-		information: ''
+		information: '3 films resulting from a research based project on the archives and work of John Latham...'
 	}
   - {
 		url: portrait-II-2011, 
 		src: thumbs/portrait-II-2011.jpg,
 		label: portrait II&#44; 2011,
-		information: ''
+		information: 'An examination of portraiture using film...'
 	}
   - {
 		url: all-art-2011, 
 		src: thumbs/all-art-2011.jpg,
 		label: all art...&#44; 2011,
-		information: ''
+		information: 'A person is seen signaling using semaphore on Telegraph Hill. The flags are used to sign a quotation on art by Oscar Wilde.'
 	}
   - {
 		url: white-cube-2011, 
