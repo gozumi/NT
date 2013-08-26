@@ -35,4 +35,6 @@ images:
 	}
 ---
 
+An artwork which challenges the conventions of the art institutions by breaking the unwritten ‘etiquette’ of gallery and exhibition spaces i.e. the allowance of the audience to not just touch the artwork, but to permanently alter it and leave their mark; and the blurring of the line between where and when the artwork begins and ends.
+
 {% include gallery %}

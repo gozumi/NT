@@ -107,4 +107,6 @@ images:
 	}
 ---
 
+A face is shown in distress and eventually crying. A hand is shown being beaten by a stick and having its fingers bent backwards. The heel of a stiletto shoe is shown stamping onto a bare foot. A stomach is shown being repeatedly thumped and slapped.
+
 {% include gallery %}

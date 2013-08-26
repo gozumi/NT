@@ -179,4 +179,6 @@ images:
 	}
 ---
 
+A drawing performance where a black square is made into a white square on a white background. Inspired by Kasimir Malevich’s painting Black Square [1915], and his painting White on White [1918].
+
 {% include gallery %}

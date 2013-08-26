@@ -35,4 +35,6 @@ images:
 	}
 ---
 
+Sculptural configurations using 4 canvases, is an artwork which not only expands on the examination of the canvas as sculpture, but investigates form; monochrome painting; and the accepted norms and conventions of art institutions.
+
 {% include gallery %}

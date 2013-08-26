@@ -5,8 +5,8 @@ group: navigation
 class: work
 breadcrumb:
   - {
-  		text: 'Work',
-  		title: 'Work',
+  		text: 'work',
+  		title: 'work',
   		url: '..'
 	}
 images:

@@ -1,25 +1,25 @@
 ---
 layout: default
-title: Still Waters
+title: still waters
 group: navigation
 class: work
 breadcrumb:
   - {
-  		text: 'Work',
-  		title: 'Work',
+  		text: 'work',
+  		title: 'work',
   		url: '..'
 	}
 images:
   - {
 		url: still-waters-1.html, 
 		src: thumbs/still-waters-1.jpg,
-		label: Still Waters excerpt,
+		label: still waters - film excerpt,
 		information: ''
 	}
   - {
 		url: still-waters-2.html, 
 		src: thumbs/still-waters-2.jpg,
-		label: Still Waters - still one,
+		label: 'still waters - film still #1',
 		information: ''
 	}
 

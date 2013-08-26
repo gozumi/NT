@@ -1,37 +1,37 @@
 ---
 layout: default
-title: Imitation 34/59
+title: imitation 34/59
 group: navigation
 class: work
 breadcrumb:
   - {
-  		text: 'Work',
-  		title: 'Work',
+  		text: 'work',
+  		title: 'work',
   		url: '..'
 	}
 images:
   - {
 		url: imitation-34-59-1.html, 
 		src: thumbs/imitation-34-59-1.jpg,
-		label: Imitation 34/59 excerpt,
+		label: imitation 34/59 - film excerpt,
 		information: ''
 	}
   - {
 		url: imitation-34-59-2.html, 
 		src: thumbs/imitation-34-59-2.jpg,
-		label: Imitation 34/59 - still one,
+		label: 'imitation 34/59 - film still #1',
 		information: ''
 	}
   - {
 		url: imitation-34-59-3.html, 
 		src: thumbs/imitation-34-59-3.jpg,
-		label: Imitation 34/59 - still two,
+		label: 'imitation 34/59 - film still #2',
 		information: ''
 	}
   - {
 		url: imitation-34-59-4.html, 
 		src: thumbs/imitation-34-59-4.jpg,
-		label: Imitation 34/59 - still three,
+		label: 'imitation 34/59 - film still #3',
 		information: ''
 	}
 

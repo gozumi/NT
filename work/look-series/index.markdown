@@ -1,12 +1,12 @@
 ---
 layout: default
-title: The Look series
+title: the look series
 group: navigation
 class: work
 breadcrumb:
   - {
-  		text: 'Work',
-  		title: 'Work',
+  		text: 'work',
+  		title: 'work',
   		url: '..'
 	}
 images:
@@ -55,8 +55,8 @@ images:
   - {
 		url: look-series-8.html, 
 		src: thumbs/ann-s.jpg,
-		label: Ann S.,
-		information: 'etching 380mm x 380mm'
+		label: Ann S,
+		information: 'etching 250mm x 250mm'
 	}
 
 ---

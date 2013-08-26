@@ -53,4 +53,6 @@ images:
 	}
 ---
 
+Created for a small works exhibition: '20:20:20:20', 20 words on 20 cards could only be accessed by a ladder. Only once the participant has climbed the ladder are the cards and their message visible.
+
 {% include gallery %}

@@ -1,37 +1,37 @@
 ---
 layout: default
-title: Dancing with Monk
+title: dancing with Monk
 group: navigation
 class: work
 breadcrumb:
   - {
-  		text: 'Work',
-  		title: 'Work',
+  		text: 'work',
+  		title: 'work',
   		url: '..'
 	}
 images:
   - {
 		url: dancing-with-monk-1.html, 
 		src: thumbs/dancing-with-monk-1.jpg,
-		label: Dancing with Monk excerpt,
+		label: dancing with Monk - film excerpt,
 		information: ''
 	}
   - {
 		url: dancing-with-monk-2.html, 
 		src: thumbs/dancing-with-monk-2.jpg,
-		label: Dancing with Monk - still one,
+		label: 'dancing with Monk - film still #1',
 		information: ''
 	}
   - {
 		url: dancing-with-monk-3.html, 
 		src: thumbs/dancing-with-monk-3.jpg,
-		label: Dancing with Monk - still two,
+		label: 'dancing with Monk - film still #2',
 		information: ''
 	}
   - {
 		url: dancing-with-monk-4.html, 
 		src: thumbs/dancing-with-monk-4.jpg,
-		label: Dancing with Monk - still three,
+		label: dancing with Monk - installation shot,
 		information: ''
 	}
 

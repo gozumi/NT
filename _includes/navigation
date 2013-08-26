@@ -1,9 +1,6 @@
 <div id="navigation-wrapper" class="navigation-wrapper">
 	<div class="navigation">
 		<ul>
-			<!-- {% assign pages_list = site.pages %} -->
-			<!-- {% assign group = 'navigation' %} -->
-			<!-- {% include pages_list %} -->
 			<li><a href="/me" class="me">me</a></li>
 			<li><a href="/work" class="work">work</a></li>
 			<li><a href="/news" class="news">news</a></li>

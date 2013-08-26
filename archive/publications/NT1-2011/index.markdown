@@ -47,4 +47,6 @@ images:
 	}
 ---
 
+A collection of a selection of works.
+
 {% include gallery %}

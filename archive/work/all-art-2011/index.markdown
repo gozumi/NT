@@ -47,4 +47,6 @@ images:
 	}
 ---
 
+A person is seen signaling using semaphore on Telegraph Hill. The flags are used to sign a quotation on art by Oscar Wilde.
+
 {% include gallery %}
