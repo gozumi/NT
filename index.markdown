@@ -17,13 +17,14 @@ class: nt-presents
 	}
 </style>
 
-
-<iframe id="showcase-frame" class="showcase-frame" src="http://player.vimeo.com/video/70820493?title=0&amp;byline=0&amp;portrait=0&amp;color=939b9e&amp;autoplay=1&amp;loop=1&amp;api=1" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-
+<div id="showcase-frame">
+	<iframe class="showcase-frame" src="http://player.vimeo.com/video/70820493?title=0&amp;byline=0&amp;portrait=0&amp;color=939b9e&amp;autoplay=1&amp;loop=1&amp;api=1" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 <div id="showcase-cover" class="showcase-cover">
 	<div class="NT"></div>
 </div>
 
+<script type="text/javascript" src="/js/dojo.js" data-dojo-config="async: true"></script>
 <script type="text/javascript">
 
 require([

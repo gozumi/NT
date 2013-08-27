@@ -13,7 +13,6 @@
 		<link rel="stylesheet" href="/css/main.css">
 		<link rel="icon" type="image/png" href="/assets/favicon.png">
 		<link rel="apple-touch-icon" href="/assets/iphone-logo.png">
-      	<script type="text/javascript" src="/js/dojo.js" data-dojo-config="async: true"></script>
 		<script>
 		window.addEventListener("load",function() {
 			setTimeout(function(){
@@ -21,10 +20,6 @@
 			}, 0);
 		});
 		</script>
-
-
-		{% include google-analytics %}
-
 	</head>
 	<body class="presentation {{ page.class }}">
 
@@ -48,6 +43,6 @@
 		</div>
 
 		{% include bottom-bar %}
-
+		{% include google-analytics %}
 	</body>
 </html>
