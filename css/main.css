@@ -455,4 +455,9 @@ a:hover,
 	}
 }
 
+@media handheld {
+	.showcase-cover {
+		display: none;
+	}
+}
  
