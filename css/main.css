@@ -420,6 +420,71 @@ a:hover,
 }
 
 /*----------------------------------------------
+	CV
+----------------------------------------------*/
+.cv .section-header-wrapper {
+	width: 100%;
+	float: left;
+}
+
+.cv .section-header {
+	text-align: right;
+}
+
+.cv .section-header h2 {
+	padding: 0 15px 0 0;
+	color: #cccccc;
+}
+
+.cv .section-header .left {
+	float: left;
+	width: 30%;
+	border-right: 1px solid #333333;
+}
+
+.cv .section-header .right {
+	float: left;
+	/*border-left: 1px solid #333333;*/
+}
+
+.cv .section-header .right h2 {
+	opacity: 0;
+}
+
+.cv .entries {
+	float: left;
+	width: 100%;
+	/*padding: 0 0 1em 0;*/
+}
+
+.cv .entry {
+	float: left;
+	width: 100%;
+}
+
+.cv .entry .date-wrapper {
+	position: relative;
+	float: left;
+	width: 30%;
+}
+
+.cv .entry .date {
+	text-align: right;
+	padding: 0 15px 0 0;
+}
+
+.cv .entry .description-wrapper {
+	position: relative;
+	float: left;
+	width: 70%;
+}
+
+.cv .entry .description {
+	padding: 0 0 0.2em 15px;
+	border-left: 1px solid #333333;
+}
+
+/*----------------------------------------------
 	Responsive design
 ----------------------------------------------*/
 
@@ -461,6 +526,10 @@ a:hover,
 	.archive .gallery-thumb .info {
 		height: 137px;
 		width: 137px;
+	}
+
+	.cv .section-header {
+		font-size: 0.7em;
 	}
 }
 
