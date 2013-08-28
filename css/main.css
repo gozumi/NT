@@ -507,6 +507,10 @@ a:hover,
 		font-size: 0.5em;
 	}
 
+	.navigation-wrapper {
+		font-size: 0.7em;
+	}
+	
 	.navigation-wrapper li {
 		padding: 0 10px 0 0;
 	}
