@@ -206,7 +206,8 @@ a:hover,
 .me .navigation a.me,
 .work .navigation a.work,
 .news .navigation a.news,
-.archive .navigation a.archive {
+.archive .navigation a.archive,
+.cv .navigation a.cv {
 	color: #ff6e00;
 }
 

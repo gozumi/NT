@@ -1,8 +1,9 @@
 ---
 layout: default
 title:  cv
-foo: whatever 
-sections: 
+foo: whatever
+class: cv
+sections:
  - 
    title: education 
    entries:
@@ -26,10 +27,10 @@ sections:
    entries:
      - 
        date: 2013
-       description: Art Basel Miami Beach, Miami
+       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami
      - 
        date: 
-       description: Carousel, Aspex Galley, Portsmouth
+       description: <a href="http://www.aspex.org.uk/events/carousel" target="_blank">Carousel</a>, Aspex Galley, Portsmouth
  - 
    title: selected group shows and screenings
    entries:
