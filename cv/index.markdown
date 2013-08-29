@@ -28,6 +28,12 @@ sections:
      - 
        date: 2013
        description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami
+     -
+       date:
+       description: 'Postgraduate Printmaking in London: a survey exhibition, London'
+     - 
+       date:
+       description: Pushing Print, Margate
      - 
        date: 
        description: <a href="http://www.aspex.org.uk/events/carousel" target="_blank">Carousel</a>, Aspex Galley, Portsmouth
