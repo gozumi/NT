@@ -27,7 +27,7 @@ sections:
    entries:
      - 
        date: 2014
-       description: <a href="http://www.jealousgallery.com/graduatePrize.asp" target="_blank">Jealous Graduate Prize</a>, Jealous Gallery, London
+       description: <a href="http://www.jealousgallery.com/graduatePrize.asp" target="_blank">Jealous Prize</a> Exhibition, Jealous Gallery, London
      - 
        date: 2013
        description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami
