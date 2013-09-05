@@ -14,3 +14,5 @@ The Vulcan Building, Gunwharf Quays, Portsmouth, PO1 3BF
 preview: Thursday 5 September from 6pm  
 6 September - 13 October 2013  
 11am-4pm  
+
+![Aspex e-vite]({{ site.url }}/assets_posts/aspex_evite.jpg)
