@@ -37,14 +37,14 @@ sections:
      - 
        date:
        description: Pushing Print, Margate
-     - 
-       date: 
-       description: <a href="http://www.aspex.org.uk/events/carousel" target="_blank">Carousel</a>, Aspex Galley, Portsmouth
  - 
    title: selected group shows and screenings
    entries:
      - 
        date: 2013
+       description: <a href="http://www.aspex.org.uk/events/carousel" target="_blank">Carousel</a>, Aspex Galley, Portsmouth
+     - 
+       date: 
        description: Show RCA 2013, RCA Battersea, London SW11
      - 
        date:
