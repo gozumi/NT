@@ -20,8 +20,11 @@ sections:
        date: 2013
        description: The Augustus Martin Prize [selected by Gill Saunders]
      - 
-       date: 2013
+       date: 
        description: Royal College of Art Graduate Jealous Print Prize
+     - 
+       date: 
+       description: shortlisted for the ArtLacuna Prize
  - 
    title: upcoming shows and screenings 
    entries:
@@ -37,6 +40,9 @@ sections:
      - 
        date:
        description: Pushing Print, Margate
+     - 
+       date:
+       description: ArtLacuna Prize, London
  - 
    title: selected group shows and screenings
    entries:
