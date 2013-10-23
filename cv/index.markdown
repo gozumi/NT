@@ -23,8 +23,8 @@ sections:
        date: 
        description: Royal College of Art Graduate Jealous Print Prize
      - 
-       date: 
-       description: shortlisted for the ArtLacuna Prize
+       --date: 
+       --description: shortlisted for the ArtLacuna Prize
  - 
    title: upcoming shows and screenings 
    entries:
@@ -33,7 +33,7 @@ sections:
        description: <a href="http://www.jealousgallery.com/graduatePrize.asp" target="_blank">Jealous Prize</a> Exhibition, Jealous Gallery, London
      - 
        date: 2013
-       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami as part of Artprojx
+       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>
      -
        date:
        description: 'Postgraduate Printmaking in London: a survey exhibition, London'
