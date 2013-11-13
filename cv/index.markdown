@@ -23,6 +23,9 @@ sections:
        date: 
        description: Royal College of Art Graduate Jealous Print Prize
      - 
+       date: 
+       description: London Print Studio New Graduate Award 2013
+     - 
        --date: 
        --description: shortlisted for the ArtLacuna Prize
  - 
@@ -33,6 +36,12 @@ sections:
        description: <a href="http://www.jealousgallery.com/graduatePrize.asp" target="_blank">Jealous Prize</a> Exhibition, Jealous Gallery, London
      - 
        date: 2013
+       description: Postgraduate Printmaking in London&#58; a survey exhibition, Clifford Chance, London
+     - 
+       date:
+       description: New Moves, Tank exhibition, London W1
+     - 
+       date:
        description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>
      -
        date:
@@ -45,6 +54,12 @@ sections:
    entries:
      - 
        date: 2013
+       description: Postgraduate Printmaking in London&#58; a survey exhibition, Clifford Chance, London
+     - 
+       date:
+       description: New Moves, Tank exhibition, London W1
+     - 
+       date:
        description: <a href="http://tank.tv/exhibitions/2013/new-moves.aspx" target="_blank">New Moves</a>, tank.tv</a>, online
      - 
        date: 
