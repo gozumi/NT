@@ -3,6 +3,7 @@ layout: post
 title:  Nicola Thomas at the CSM Degree show
 date:   2011-06-16 00:00:00
 categories: 
+class: news
 ---
 
 ![RCA Flyer]({{ site.url }}/assets_posts/csm-flyer.jpg)

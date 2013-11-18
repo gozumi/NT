@@ -3,6 +3,7 @@ layout: post
 title:  Pushing Print, Margate
 date:   2013-09-19 00:00:00
 categories: 
+class: news
 ---
 
 NT will be showing a film during the Pushing Print show in Margate, which like the ArtLacuna Prize also runs from 5 - 20 October 2013. The show will be held over 2 sites: The Margate Gallery and The Pie Factory Gallery.
