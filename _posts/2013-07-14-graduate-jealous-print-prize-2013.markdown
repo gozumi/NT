@@ -3,6 +3,7 @@ layout: post
 title:  Graduate Jealous Print Prize 2013
 date:   2013-07-13 00:00:00
 categories: 
+class: news
 ---
 
 NT has been awarded this year’s Royal College of Art Graduate Jealous Print Prize.

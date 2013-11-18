@@ -3,6 +3,7 @@ layout: post
 title:  5 different ways to experience NT’s work
 date:   2013-10-06 00:00:00
 categories: 
+class: news
 ---
 
 This week NT’s work can be seen at 4 different spaces:

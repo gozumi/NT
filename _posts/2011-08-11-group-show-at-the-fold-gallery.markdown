@@ -3,6 +3,7 @@ layout: post
 title:  I took the lift to the 6th floor
 date:   2011-08-11 00:00:00
 categories: 
+class: news
 ---
 
 ![RCA Flyer]({{ site.url }}/assets_posts/fold-gallery.jpg)

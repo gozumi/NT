@@ -3,6 +3,7 @@ layout: post
 title:  Art Basel, Miami Beach
 date:   2013-08-26 00:00:00
 categories: 
+class: news
 ---
 
 Exciting news....

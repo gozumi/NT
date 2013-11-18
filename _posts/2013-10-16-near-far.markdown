@@ -3,6 +3,7 @@ layout: post
 title:  Near Far
 date:   2013-10-16 00:00:00
 categories: 
+class: news
 ---
 
 The exhibition drawNEARFAR which includes an audio piece by NT, will be having its Private View on Thursday 17 October 2013. It is the culmination of an ongoing project by artist and curator <a href="http://www.kberge.com/work.html" target="_blank">Kjetil Berge</a>. The exhibition taking place in the Winchester Gallery is a re-contextualisation of the original Norwegian exhibition tegnNEARFAR and brings together the existing work by Norwegian artists with work by artists based in the UK. 

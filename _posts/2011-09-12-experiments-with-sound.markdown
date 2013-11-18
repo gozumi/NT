@@ -3,6 +3,7 @@ layout: post
 title:  Experiments with sound...
 date:   2011-09-12 00:00:00
 categories: 
+class: news
 ---
 
 <object height="81" width="70%">
