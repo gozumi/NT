@@ -96,6 +96,9 @@ sections:
        description: Fine Art Degree Show, Central Saint Martins, London WC2
      - 
        date: 2010
+       description: Distillation, The Window Gallery, Central Saint Martins, London
+     - 
+       date:
        description: Group Show, The Innovation Centre, Central Saint Martins, London WC2
      - 
        date:
@@ -115,12 +118,9 @@ sections:
      - 
        date: 2006
        description: Group Show, Trinity Buoy Wharf, London E14
- - 
-   title: solo
-   entries:
-     - 
-       date: 2010
-       description: Distillation, The Window Gallery, Central Saint Martins, London
+
+       <!-- date: 2010 -->
+       <!-- description: Distillation, The Window Gallery, Central Saint Martins, London -->
  - 
    title: performances
    entries:

@@ -7,7 +7,7 @@ class: news
 ---
 
 <p>
-<iframe src="//player.vimeo.com/video/70821251?title=0&amp;byline=0&amp;portrait=0&amp;color=ff6e00&amp;autoplay=1&amp;loop=1&amp;api=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/70821251?title=0&amp;byline=0&amp;portrait=0&amp;color=ff6e00&amp;autoplay=0&amp;loop=1&amp;api=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 
 
