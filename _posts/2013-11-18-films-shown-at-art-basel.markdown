@@ -7,7 +7,7 @@ class: news
 ---
 
 <p>
-<iframe src="//player.vimeo.com/video/70821251?title=0&amp;byline=0&amp;portrait=0&amp;color=ff6e00&amp;autoplay=0&amp;loop=1&amp;api=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="//player.vimeo.com/video/69211543?title=0&amp;byline=0&amp;portrait=0&amp;color=ff6e00&amp;autoplay=0&amp;loop=1&amp;api=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
 
 
@@ -17,6 +17,9 @@ Outdoor screenings of the <a href="https://www.artbasel.com/-/media/ArtBasel/Doc
 
 As part of the <a href="https://www.artbasel.com/-/media/ArtBasel/Documents/Press_Release_Miami_Beach/21_October_2013/Art_Basel_in_Miami_Beach_l_Film_Announcement_l_2013_l_Press_Release_E.pdf" target="_blank">Art Basel Miami Film programme</a>, <a href="http://nicolathomas.com/work/dancing-with-monk" target="_blank">Dancing with Monk</a> and <a href="http://nicolathomas.com/work/imitation-34-59" target="_blank">Imitation 34/59</a>, will be available to watch on the viewing pods inside the Miami Beach Convention Centre. Admission to SoundScape Park is free.
 
+<p>
+<iframe width="560" height="320" src="//www.youtube.com/embed/3RQkwPLh9ew" frameborder="0" allowfullscreen></iframe>
+</p>
 <!-- <a href="http://artbasel.com/miamibeach/film" target="_blank">Art Basel Miami Film</a>   -->
 <!-- <a href="https://www.artbasel.com/-/media/ArtBasel/Documents/Press_Release_Miami_Beach/21_October_2013/Art_Basel_in_Miami_Beach_l_Film_Announcement_l_2013_l_Press_Release_E.pdf" target="_blank">Art Basel Miami Film outdoor screening programme</a> -->
 <!-- <a href="http://www.artprojx.com" target="_blank">Artprojx</a>   -->
