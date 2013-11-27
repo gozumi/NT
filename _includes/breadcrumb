@@ -1,0 +1,10 @@
+{% if page.breadcrumb %}
+	<div class="breadcrumb">
+		<p>
+			go back to: 
+		{% for crumb in page.breadcrumb %}
+			<a href="{{crumb.url}}" title="{{crumb.title}}">{{crumb.text}}&nbsp;</a>
+		{% endfor %}
+		</p>
+	</div>
+{% endif %}

@@ -1,0 +1,31 @@
+---
+layout: default
+title: news
+group: navigation
+class: news
+---
+
+<div class="posts">
+	{% for post in paginator.posts %}
+ 		{% include post %}
+	{% endfor %}
+
+	<!-- Pagination links -->
+	<div class="pagination">
+		<p>
+			Page {{ paginator.page }} of {{ paginator.total_pages }}
+
+			{% if paginator.previous_page %}
+				{% if paginator.previous_page == 1 %}
+					<a href="{{ site.url }}/news">Previous</a>
+				{% else %}
+					<a href="{{ site.url }}/news/page{{ paginator.previous_page }}">Previous</div></a>
+				{% endif %}
+			{% endif %}
+			
+			{% if paginator.next_page %}
+				<a href="{{ site.url }}/news/page{{ paginator.next_page }}">Next</div></a>
+			{% endif %}
+		</p>
+	</div>
+</div>

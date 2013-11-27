@@ -1,8 +1,552 @@
-.video-frame {
+html,
+body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+body {
+	background-color: #000000;
+	color: #999999;
+	font-family: Gill sans, sans-serif;
+	min-height: 505px;
+}
+
+a {
+	text-decoration: none;
+	/*color: #ff6e00;*/
+	color: #ffffff;
+}
+
+h1 {
+	color: #ffffff;
+	font-family: Impact, Helvetica;
+	font-size: 1.6em;
+	margin: 0.25em 0 0.25em 0;
+}
+
+.presentation .top-bar h1 {
+	color: #999999;
+}
+
+h2 {
+	color: #dddddd;
+	font-family: Impact, Helvetica;
+	font-size: 1.2em;
+	margin: 0.25em 0 0.25em 0;
+}
+
+p {
+	margin: 0 0 2em 0;
+}
+
+img {
+	border: none;
+}
+
+.page-title {
+	margin: 0;
+}
+
+.bottom-spacer {
+	width: 100%;
+	height: 200px;
+	float: left;
+}
+
+.footer {
+	background: rgba(255, 255, 255, 0.1);
+	width: 100%;
+	float: left;
+	font-size: smaller;
+	border-top: 1px solid rgba(255, 255, 255, 0.1);
+	border-bottom: 2px solid rgba(0, 0, 0, 0.7);
+	margin:  10px 0 40px 0;
+}
+
+.background-curtain {
 	position: fixed;
 	top: 0;
 	right: 0;
 	bottom: 0;
 	left: 0;
-	z-index: -1000;
+	z-index: -9999;
+	background-color: black;
+	opacity: 0.9;
 }
+
+.bottom-bar {
+	background-color: #000000;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	padding: 5px;
+}
+
+.copyright {
+	float: right;
+	line-height: 50px;
+	margin: 0 5px 0 0;
+	font-size: 10px;
+}
+
+.logo {
+	float: left;
+	background: url(/assets/NT-logo-3.png);
+	background: url(/assets/NT-logo-3.svg), none;
+	width: 50px;
+	height: 50px;
+	margin: 0 20px 0 5px;
+}
+
+.logo-spacer {
+	float: left;
+	background: url(/assets/logo-spacer.png);
+	width: 10px;
+	height: 50px;
+}
+
+.navigation-wrapper {
+	float: left;
+	font-size: small;
+	margin: 0;
+}
+
+.navigation-wrapper ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navigation-wrapper li {
+	float: left;
+	padding: 0 20px 0 0;
+	line-height: 50px;
+}
+
+.navigation-wrapper a {
+	color: #ffffff;
+	font-size: 1.15em;
+}
+
+a:hover,
+.navigation-wrapper .active {
+	color: #ff6e00;
+}
+
+.content-wrapper {
+	position: relative;
+	float: left;
+	width: 100%;
+	margin: 35px 0 0 0;
+}
+
+.content {
+	margin: 3px;
+}
+
+.content img {
+	max-width: 100%;
+}
+
+.showcase-frame {
+	background-color: #000000;
+	position: fixed;
+	top: 0;
+	border: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.showcase-cover {
+	background-color: #000000;
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+}
+
+.showcase-cover .NT {
+	background: url(/assets/NT-logo.svg) no-repeat center center;
+	background-size: 100%;
+	width: 50%;
+	height: 100%;
+	margin: auto;
+}
+
+.nt-presents .bottom-bar {
+	opacity: 0;
+}
+
+.breadcrumb {
+	font-size: smaller;
+	font-style: italic;
+	margin: 0;
+}
+
+.breadcrumb p {
+	margin: 0;
+}
+
+.presentation .breadcrumb {
+	margin: 0;
+}
+
+.top-bar {
+	background: #000000;
+	margin: 3px;
+	min-height: 52px;
+}
+
+.me .navigation a.me,
+.work .navigation a.work,
+.news .navigation a.news,
+.archive .navigation a.archive,
+.cv .navigation a.cv {
+	color: #ff6e00;
+}
+
+/* make sure the contact link remains white at all times */
+.navigation-wrapper .navigation a.contact {
+	color: #ffffff !important;
+}
+/*-------------------------------------------
+		galleries
+-------------------------------------------*/
+.gallery-wrapper {
+	float: left;
+	margin: 30px 0 0 0;
+}
+
+.gallery-thumb {
+	position: relative;
+	float: left;
+	width: 300px;
+	height: 350px;
+}
+
+.archive .gallery-thumb {
+	width: 200px;
+	height: 250px;
+}
+
+.archive-main .gallery-thumb {
+	width: 300px;
+	height: 350px;
+}
+
+.gallery-thumb img {
+	width: 100%;
+}
+
+.gallery-thumb .image-wrapper {
+	position: absolute;
+	top: 0;
+	right: 20px;
+	bottom: 0;
+	left: 0;
+}
+
+.gallery-thumb .label {
+	font-size: small;
+	font-style: italic;
+}
+
+.gallery-thumb .info {
+	position: absolute;
+	top: 0;
+	color: #ffffff;
+	background-color: rgba(0, 0, 0, 0.5);
+	height: 280px;
+	width: 280px;
+	opacity: 0;
+	overflow: hidden;
+}
+
+.archive .gallery-thumb .info {
+	height: 180px;
+	width: 180px;
+}
+
+.archive-main .gallery-thumb .info {
+	height: 280px;
+	width: 280px;
+}
+
+.gallery-thumb .info:hover {
+	opacity: 1;
+}
+
+.gallery-thumb .info p {
+	margin: 5px;
+	font-size: small;
+}
+
+.presentation .page-title {
+	margin: 0 0 5px 0;
+}
+
+.presentation h4 {
+	margin: 0;
+}
+
+.presentation .presentation-wrapper {
+	position: absolute;
+	top: 80px;
+	right: 0;
+	bottom: 60px;
+	left: 0;
+}
+
+.presentation-content {
+	background-position: center center;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 3px;
+	right: 3px;
+	bottom: 3px;
+	left: 3px;
+}
+
+.presentation-content-img {
+	text-align: center;
+}
+
+.presentation-frame {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.presentation .controls {
+	position: absolute;
+	height: 40px;
+	top: 50%;
+	left: 3px;
+	right: 3px;
+}
+
+.presentation .controls div {
+	width: 20px;
+	height: 40px;
+}
+
+.presentation .controls .previous {
+	background: url(/assets/arrows.png);
+	float: left;
+}
+
+.presentation .controls .next {
+	background: url(/assets/arrows.png) -20px 0;
+	float: right;
+}
+
+/*----------------------------------------------
+	Posts
+----------------------------------------------*/
+.post-header-wrapper {
+	position: relative;
+	width: 30%;
+	float: left;
+	text-align: right;
+}
+
+.post-content-wrapper {
+	position: relative;
+	width: 70%;
+	float: left;
+}
+
+.post-header {
+	padding: 0 15px 0 0;
+}
+
+.post-content {
+	padding: 3px 0 8em 15px;
+	border-left: 1px solid #333333;
+}
+
+.post-content img {
+	max-width: 50%;
+}
+
+.post h2 {
+	margin: 0;
+}
+
+.posts .previous,
+.posts .previous-active {
+/*	position: absolute;
+	left: 0;
+	width: 50px;
+	height: 50px;
+	background: url(/assets/arrows.png);
+	opacity: 0.1;
+*/}
+
+.posts .previous-active {
+	/*opacity: 0.5;*/
+}
+
+.posts .next,
+.posts .next-active {
+/*	position: absolute;
+	right: 0;
+	background: url(/assets/arrows.png) -100px 0;
+	width: 50px;
+	height: 50px;
+	opacity: 0.1;
+*/}
+
+.posts .next-active {
+	opacity: 0.5;
+}
+
+.post {
+	/*margin-bottom: 10em;*/
+}
+
+.post .movie-frame {
+	width: 400px;
+	height: 300px;
+}
+
+.pagination a {
+	margin: 0 0 0 20px;
+}
+
+/*----------------------------------------------
+	CV
+----------------------------------------------*/
+.cv .section-header-wrapper {
+	width: 100%;
+	float: left;
+}
+
+.cv .section-header {
+	text-align: right;
+}
+
+.cv .section-header h2 {
+	padding: 0 15px 0 0;
+	color: #cccccc;
+}
+
+.cv .section-header .left {
+	float: left;
+	width: 30%;
+	border-right: 1px solid #333333;
+}
+
+.cv .section-header .right {
+	float: left;
+	/*border-left: 1px solid #333333;*/
+}
+
+.cv .section-header .right h2 {
+	opacity: 0;
+}
+
+.cv .entries {
+	float: left;
+	width: 100%;
+	/*padding: 0 0 1em 0;*/
+}
+
+.cv .entry {
+	float: left;
+	width: 100%;
+}
+
+.cv .entry .date-wrapper {
+	position: relative;
+	float: left;
+	width: 30%;
+}
+
+.cv .entry .date {
+	text-align: right;
+	padding: 0 15px 0 0;
+}
+
+.cv .entry .description-wrapper {
+	position: relative;
+	float: left;
+	width: 70%;
+}
+
+.cv .entry .description {
+	padding: 0 0 0.2em 15px;
+	border-left: 1px solid #333333;
+}
+
+/*----------------------------------------------
+	Responsive design
+----------------------------------------------*/
+
+@media screen and (max-width: 1600px) {
+}
+
+@media screen and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 1000px) {
+}
+
+@media screen and (max-width: 600px) {
+	h1 {
+		font-size: 1em;
+	}
+
+	.breadcrumb {
+		font-size: 0.5em;
+	}
+
+	.navigation-wrapper {
+		font-size: 0.7em;
+	}
+	
+	.navigation-wrapper li {
+		padding: 0 10px 0 0;
+	}
+
+	.copyright {
+		font-size: 7px;
+	}
+
+	.gallery-thumb,
+	.archive .gallery-thumb {
+		position: relative;
+		float: left;
+		width: 157px;
+		height: 195px;
+	}
+
+	.gallery-thumb .info,
+	.archive .gallery-thumb .info {
+		height: 137px;
+		width: 137px;
+	}
+
+	.cv .section-header {
+		font-size: 0.7em;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	.copyright {
+		display: none;
+	}
+}
+
+@media handheld {
+	.showcase-cover {
+		display: none;
+	}
+}
+ 

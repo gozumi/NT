@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ site.name }} - {{ page.title }}</title>
+
+		<meta charset="utf-8">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width">
+		<meta name="Author" content="Nicola Thomas">
+		<meta name="description" content="This is the official website of the artist Nicola Thomas, also known as NT.">
+		<link rel="stylesheet" href="/css/main.css">
+		<link rel="icon" type="image/png" href="/assets/favicon.png">
+		<link rel="apple-touch-icon" href="/assets/iphone-logo.png">
+		<script>
+		window.addEventListener("load",function() {
+			setTimeout(function(){
+				window.scrollTo(0, 0);
+			}, 0);
+		});
+		</script>
+	</head>
+	<body class="presentation {{ page.class }}">
+
+		<div class="top-bar">
+			<div class="left">
+				<div class="page-title"><h1>{{ page.title }}</h1></div>
+				{% include breadcrumb %}
+			</div>
+		</div>
+
+		<div class="presentation-wrapper">			
+			{{ content }}
+			<div class="controls">
+				{%  if page.next %}
+					<a href="{{page.next}}"><div class="next"></div></a>
+				{% endif %}
+				{%  if page.previous %}
+					<a href="{{page.previous}}"><div class="previous"></div></a>
+				{% endif %}
+			</div>
+		</div>
+
+		{% include bottom-bar %}
+		{% include google-analytics %}
+	</body>
+</html>

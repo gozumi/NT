@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<meta name="apple-mobile-web-app-capable" content="yes">		
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>{{ page.title }}</title>
+		<meta name="viewport" content="width=device-width">
+		<link rel="stylesheet" href="/css/main.css">
+		<link rel="icon" type="image/png" href="/assets/favicon.png">
+		<link rel="apple-touch-icon" href="/assets/iphone-logo.png">
+      	<script type="text/javascript" src="/js/dojo.js" data-dojo-config="async: true"></script>
+		<script>
+		window.addEventListener("load",function() {
+			setTimeout(function(){
+				window.scrollTo(0, 0);
+			}, 0);
+		});
+		</script>
+	</head>
+	<body class="{{ page.class }}">
+		<div class="background-curtain"></div>
+		<div id="navigation-wrapper" class="navigation-wrapper">
+			<div class="navigation">
+				<ul>
+					{% assign pages_list = site.pages %}
+					{% assign group = 'navigation' %}
+					{% include pages_list %}
+				</ul>
+			</div>
+		</div>
+		<a href="/"><div class="banner"></div></a>
+		<div class="content-wrapper">
+			<div class="content">{{ content }}</div>
+		</div>
+	</body>
+</html>

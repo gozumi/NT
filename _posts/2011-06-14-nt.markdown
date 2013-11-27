@@ -1,0 +1,11 @@
+---
+layout: post
+title:  NT
+date:   2011-06-14 00:00:00
+categories: 
+class: news
+---
+
+<iframe class="movie-frame" src="http://player.vimeo.com/video/41877058?title=0&amp;byline=0&amp;portrait=0&amp;color=939b9e&amp;autoplay=1&amp;loop=1&amp;api=1" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+I use art itself as a means of making a statement or a comment. Whether it is critiquing art, the institution of art, or to make a statement in general. I use art as a direct means of communication and critique; to make statements on my observations, whatever those observations may be and by using whichever tools are most appropriate to best make that comment.

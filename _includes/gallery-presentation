@@ -1,0 +1,1 @@
+<div class="presentation-content" style="background-image:url({{ page.image_url }});"></div>
