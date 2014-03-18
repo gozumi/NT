@@ -173,6 +173,12 @@ sections:
    title: residencies
    entries:
      - 
+       date: 2014
+       description: London Print Studio New Graduate Award residency
+     - 
+       date: 
+       description: Graduate Jealous Print Prize residency
+     - 
        date: 2010
        description: CSM John Latham Archive Research project, Flat Time House, London SE15
      - 
