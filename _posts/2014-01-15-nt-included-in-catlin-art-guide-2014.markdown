@@ -10,7 +10,7 @@ class: news
 
 <a href="http://www.artcatlin.com/#/?data=whats-going-on&data=pr04-11-2013" target="_blank">The Catlin Guide 2014 | New Artists in the UK</a> will be available on stand P25 in the Art Projects section of the London Art Fair, Business Design Centre, Islington, until 19th January. Following the launch, it will be available to buy for £12.99 from Amazon, Culture Label and selected book sellers.
 
-<a href="http://www.artcatlin.com/#/?data=artists&data=finalists-2014&data=nicola-thomas" target="_blank">NT's prize entry</a>  
+<a href="http://www.artcatlin.com/#/?data=artists&data=finalists-2014&data=nicola-thomas" target="_blank">NT's entry</a>  
 <a href="http://www.artcatlin.com/#/?data=whats-going-on&data=pr04-11-2013" target="_blank">Catlin Guide 2014</a>  
 <a href="http://www.artcatlin.com/#/?data=artists&data=finalists-2014" target="_blank">Catlin Guide Artists 2014</a>  
 <a href="http://www.londonartfair.co.uk" target="_blank">London Art Fair</a>    
