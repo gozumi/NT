@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “'Monk' in Moscow"
+title:  "'Monk' in Moscow"
 date:   2014-05-17 00:00:00
 categories: News
 class: news
