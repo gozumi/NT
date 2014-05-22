@@ -46,11 +46,15 @@ sections:
      -
        date: 2014
 <<<<<<< HEAD
+<<<<<<< HEAD
        description: <a href="http://www.museumnight.org" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/MoscowMuseumNight.html" target="_blank">Artprojx</a>, Russia
      - 
        date: 
 =======
        description: <a href="http://www.museumnight.org" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, Russia
+=======
+       description: <a href="http://www.museumnight.org" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/MoscowMuseumNight.html" target="_blank">Artprojx</a>, Russia
+>>>>>>> develop
      - 
        date:
 >>>>>>> develop
