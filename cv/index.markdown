@@ -45,7 +45,7 @@ sections:
    entries:
      -
        date: 2014
-       description: <a href="http://www.museumnight.org" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, Russia
+       description: <a href="http://www.museumnight.org" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/MoscowMuseumNight.html" target="_blank">Artprojx</a>, Russia
      - 
        date:
        description: <a href="http://www.sofinearteditions.com/young-exhibition/" target="_blank">Young</a> Exhibition, <a href="http://www.sofinearteditions.com" target="_blank">SO Fine Art Editions</a>, Ireland
