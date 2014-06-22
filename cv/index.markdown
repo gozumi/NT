@@ -25,24 +25,51 @@ sections:
      - 
        date: 
        description: London Print Studio New Graduate Award
-     - 
-       --date: 
-       --description: shortlisted for the ArtLacuna Prize
  - 
+   title: publications 
+   entries:
+     - 
+       date: 
+       description: <a href="http://www.artcatlin.com/#/?data=the-guide" target="_blank">The Catlin Guide</a> 2014
+     - 
+       date: 
+       description: <a href="http://www.aestheticamagazine.com/shop#ap" target="_blank"> Aesthetica Anthology</a> 2013/14
+ -
    title: upcoming shows and screenings 
    entries:
      - 
        date: 2014
-       description: <a href="http://www.jealousgallery.com/graduatePrize.asp" target="_blank">Jealous Prize</a> Exhibition, Jealous Gallery, London
-     - 
-       date: 2013
-       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>
+       description: <a href="http://multipliedartfair.com" target="_blank">Multiplied</a>, Christies, London SW7 
  - 
    title: selected group shows and screenings
    entries:
+     -
+       date: 2014
+       description: <a href="http://www.museumnight.org" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/MoscowMuseumNight.html" target="_blank">Artprojx</a>, Russia
      - 
+       date:
+       description: <a href="http://www.sofinearteditions.com/young-exhibition/" target="_blank">Young</a> Exhibition, <a href="http://www.sofinearteditions.com" target="_blank">SO Fine Art Editions</a>, Ireland
+     - 
+       date:
+       description: <a href="http://www.londonprintfair.com" target="_blank">London Original Print Fair</a>, <a href="https://www.royalacademy.org.uk" target="_blank">Royal Academy of Arts</a>, London W1J
+     - 
+       date:
+       description: <a href="http://www.aestheticamagazine.com/art-prize-exhibition" target="_blank">Aesthetica Art Prize 2014</a>, York St. Mary’s, York YO1
+     - 
+       date:
+       description: Jealous Prize Winners, Edition and Print Gallery, <a href="http://www.saatchigallery.com" target="_blank">Saatchi Gallery</a>, London SW3
+     - 
+       date:
+       description: <a href="http://www.artfairslondon.com" target="_blank">Art14 London</a>, Kensington Olympia, London W14
+     -
        date: 2013
+       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, USA
+     - 
+       date: 
        description: Postgraduate Printmaking in London&#58; a survey exhibition, Clifford Chance, London
+     - 
+       date: 
+       description: <a href=“http://multipliedartfair.com” target=“_blank”>Multiplied</a>, Christies, London SW7 
      - 
        date:
        description: New Moves, Tank exhibition, London W1
@@ -125,6 +152,9 @@ sections:
    title: performances
    entries:
      - 
+       date: 2014
+       description: Some thoughts on Performance, DepArture Foundation, London EC3V
+     - 
        date: 2013
        description: Dancing with Monk III, Show RCA 2013, RCA Battersea, London SW11
      - 
@@ -163,6 +193,36 @@ sections:
      - 
        date: 2006
        description: A Tour, Trinity Buoy Wharf, London E14
+ - 
+   title: residencies
+   entries:
+     - 
+       date: 2014
+       description: London Print Studio New Graduate Award residency
+     - 
+       date: 
+       description: Graduate Jealous Print Prize residency
+     - 
+       date: 2010
+       description: CSM John Latham Archive Research project, Flat Time House, London SE15
+     - 
+       date: 2008
+       description: Gunpowder Park, Lee Valley RPA
+ - 
+   title: collections
+   entries:
+     - 
+       date:
+       description: V&#38;A Permanent Print Collection
+     - 
+       date:
+       description: RCA Special Print Collection
+     - 
+       date:
+       description: Chelsea College of Art and Design Artist’s Books Collection [as COFA]
+     - 
+       date:
+       description: various private collections
 ---
 
 

@@ -4,6 +4,6 @@
 	<a href="/"><div class="logo"></div></a>
 	{% include navigation %}
 	<div class="copyright">
-		Copyright &copy; 2013, Nicola Thomas, All rights reserved.
+		Copyright &copy; 2014, Nicola Thomas, All rights reserved.
 	</div>
 </div>
