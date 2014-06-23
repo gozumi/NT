@@ -115,4 +115,4 @@ images:
 
 16 photographs. A visual connective puzzle using words and clothing.
 
-{% include gallery %}
+{% include gallery.html %}

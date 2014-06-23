@@ -49,4 +49,4 @@ images:
 
 The same word is repeated, but each time it is said, it is different. As the recording progresses the word starts to impact on the speaker so that they themselves appear to get stuck.
 
-{% include gallery %}
+{% include gallery.html %}

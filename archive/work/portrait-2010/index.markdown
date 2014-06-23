@@ -109,4 +109,4 @@ images:
 
 An examination portraiture using film. By only using what is shown in the film, a complete portrait of the person is only ever imagined in the mind of the viewer. 
 
-{% include gallery %}
+{% include gallery.html %}

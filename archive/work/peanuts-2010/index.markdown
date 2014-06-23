@@ -31,4 +31,4 @@ images:
 
 Ceramic dishes filled with peanuts were placed alongside drinks and other refreshments at the private view of art shows. [Most of the peanuts were eaten.]
 
-{% include gallery %}
+{% include gallery.html %}

@@ -49,4 +49,4 @@ images:
 
 A limited edition of only 10 12" vinyl pressings in orange.
 
-{% include gallery %}
+{% include gallery.html %}

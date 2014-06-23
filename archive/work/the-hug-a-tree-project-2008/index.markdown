@@ -181,4 +181,4 @@ images:
 
 A site-specific work, resulting from a residency at Gunpowder Park, Essex. Participation is encouraged through different means: by hugging a tree; by reusing the postcard; by emailing, and by visiting the website. Where the viewer could do all four actions, some or none.
 
-{% include gallery %}
+{% include gallery.html %}

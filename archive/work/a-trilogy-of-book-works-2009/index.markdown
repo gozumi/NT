@@ -109,4 +109,4 @@ images:
 
 Book works, specifically created as part of an installation for the Old Surgeon’s Library, Chelsea College of Art and Design.
 
-{% include gallery %}
+{% include gallery.html %}

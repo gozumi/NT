@@ -39,4 +39,4 @@ images:
 
 The live performance of dancing with Monk, is a physical representation of the film. Using a modified soundtrack to that used in the film, a performer dressed as the Jazz pianist Thelonius Monk, moves in the same manner as Monk during one of his performances with his quartet. Whenever he hears his music being played, this Monk gets up from his piano stool and dances. During silent moments he walks round the gallery space, and will even sit amongst the audience and watch the film of his performance.
 
-{% include gallery %}
+{% include gallery.html %}

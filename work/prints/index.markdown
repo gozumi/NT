@@ -65,4 +65,4 @@ The ‘black on black’ series of prints are an investigation into the ideas of
 
 The prints are a trace of what once was. A ghost of a memory which is in the process of fading or resurfacing, and as mysterious and knowable as the persona of the movie star presented to the movie viewer. There is the direct gaze of the actresses in the image: the confrontational gaze of the actresses shown. They meet your eyes, they look at you looking at them, and you as a viewer cannot help but look back.
 
-{% include gallery %}
+{% include gallery.html %}

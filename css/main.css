@@ -244,6 +244,15 @@ a:hover,
 	width: 100%;
 }
 
+.gallery-thumb .active-thumb {
+	width: 280px;
+	height: 280px;
+}
+
+.gallery-thumb:hover .active-thumb {
+	background-position: -280px 0; 
+}
+
 .gallery-thumb .image-wrapper {
 	position: absolute;
 	top: 0;

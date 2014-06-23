@@ -73,4 +73,4 @@ images:
 
 The work txts, consists of writings and musings on art: an artist’s working diary of thoughts and ideas. The book is published periodically, at various stages in its development. With each publication the book grows, as more entries are added.
 
-{% include gallery %}
+{% include gallery.html %}
