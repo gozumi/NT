@@ -55,4 +55,4 @@ images:
 
 A four-sheet, 50 edition spread, containing extracts from the publication 'txts1', selected images and other writings.
 
-{% include gallery %}
+{% include gallery.html %}

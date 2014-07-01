@@ -55,4 +55,4 @@ images:
 
 Following a visit to the British Museum, photographs were taken in and around the vicinity of the museum. The resulting photographs are the sculptural artefacts found within that area.
 
-{% include gallery %}
+{% include gallery.html %}

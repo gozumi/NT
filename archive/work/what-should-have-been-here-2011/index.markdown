@@ -61,4 +61,4 @@ images:
 
 A limited pressing of 10 records in orange vinyl. As well as an installation consisting of a turntable, a 12" 45rpm recording on orange vinyl, and a plinth.
 
-{% include gallery %}
+{% include gallery.html %}

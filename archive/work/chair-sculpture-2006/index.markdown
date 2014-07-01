@@ -55,4 +55,4 @@ images:
 
 ‘Found’ sculpture on a London street. Bright, shiny, dense, complex, alluring, tense, and in a state of flux - just like London.
 
-{% include gallery %}
+{% include gallery.html %}

@@ -1,0 +1,20 @@
+<div class="gallery-wrapper">
+	{% for image in page.images %}
+		<div class="gallery-thumb">
+			<div class="image-wrapper">
+				<a href="{{image.url}}">
+					{% if image.active %}
+						<div class="active-thumb" style="background-image: url({{ image.src }});"></div>
+					{% else %}
+						<!-- <div class="active-thumb" style="background-image: url({{ image.src }});"></div> -->
+						<img src="{{ image.src }}" alt="{{ image.label }}">
+					{% endif %}
+					<p class="label">{{ image.label }}</p>
+					<div class="info">
+						<p>{{ image.information }}</p>
+					</div>
+				</a>
+			</div>
+		</div>
+	{% endfor %}
+</div>

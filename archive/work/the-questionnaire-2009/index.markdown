@@ -56,4 +56,4 @@ images:
 
 Participants are asked to complete an ethnic monitoring form. Each form is unique, therefore collectively all the information collated from the questionnaires are redundant.
 
-{% include gallery %}
+{% include gallery.html %}

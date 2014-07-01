@@ -43,4 +43,4 @@ images:
 
 Images of the overlooked sculpture that a museum may have to offer, form the basis of this collection of photographs. Sculpture of the Everyday, examines that which is taken for granted, excluded, and omitted by visitors to museums and London. The unnoticed artefacts that in the future could speak volumes about our current civilisation.
 
-{% include gallery %}
+{% include gallery.html %}

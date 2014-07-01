@@ -72,4 +72,4 @@ images:
 ---
 Images from the group show QUADRAPHONIC at the Fold Gallery in London, featuring the work of 4 sound artists: Giles Corby, Philippa Ramsden, James Thomas & Solina Hi-Fi, and NT. 
 
-{% include gallery %}
+{% include gallery.html %}

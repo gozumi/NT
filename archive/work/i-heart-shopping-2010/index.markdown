@@ -25,4 +25,4 @@ images:
 
 Two performances by N&N [Nicola Berry and Nicola Thomas] were scheduled to take place within the Wonder Room area of Selfridges department store on 19, 21, 23 August 2010. The performances never took place. The non-performance consists of all the literature produced for the performances.
 
-{% include gallery %}
+{% include gallery.html %}

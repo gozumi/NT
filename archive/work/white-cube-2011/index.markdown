@@ -91,4 +91,4 @@ images:
 
 An ironic statement on the conundrum represented by the white walls of the gallery space. Puzzling, simultaneously obvious, but yet confusing; both playful and serious. A conundrum which invokes questions as to the institution of art.
 
-{% include gallery %}
+{% include gallery.html %}

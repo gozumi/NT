@@ -55,4 +55,4 @@ images:
 
 The recording describes the affect of watching a 1975 performance of the soul singer Al Green, of his song Jesus is waiting. It recounts the backstory around his performance, as well as describing the premise for a new work based on his physical interpretation of the song.
 
-{% include gallery %}
+{% include gallery.html %}
