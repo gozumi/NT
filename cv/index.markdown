@@ -171,7 +171,7 @@ sections:
        description: A non-performance, Notes to Self, Dyson Gallery, London SW11
      - 
        date: 2012
-       description: Reactions 1-4, Open Book - Performance night at Testbed1, London SW11
+       description: Reactions &#35;1-4, Open Book - Performance night at Testbed1, London SW11
      - 
        date:
        description: I’m still here, Old Vic Tunnels, London SE1
@@ -213,16 +213,19 @@ sections:
    entries:
      - 
        date:
-       description: V&#38;A Permanent Print Collection
+       description: Victoria &#38; Albert Museum Permanent Print Collection, London
      - 
        date:
-       description: RCA Special Print Collection
+       description: Royal College of Art Special Print Collection, London
      - 
        date:
-       description: Chelsea College of Art and Design Artist’s Books Collection [as COFA]
-     - 
+       description: Chelsea College of Art and Design Artist’s Books Collection [as COFA], London
+     -
        date:
-       description: various private collections
+       description: Clifford Chance, Private Collection, London
+     -
+       date:
+       description: various private collections in the UK, Europe, and the US
 ---
 
 
