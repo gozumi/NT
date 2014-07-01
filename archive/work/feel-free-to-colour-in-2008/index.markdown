@@ -235,4 +235,4 @@ images:
 
 The gallery space reclaimed for its viewers, where the audience can define and take over the use of the exhibition space. A large-scale, site specific drawing, which questions art, its institution, authorship, and ownership.
 
-{% include gallery %}
+{% include gallery.html %}

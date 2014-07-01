@@ -127,4 +127,4 @@ images:
 
 3 films resulting from a research based project on the archives and work of John Latham, were exhibited at the Window Gallery @ Central Saint Martins College of Art and Design.
 
-{% include gallery %}
+{% include gallery.html %}

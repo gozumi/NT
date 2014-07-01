@@ -30,4 +30,4 @@ images:
 	}
 ---
 
-{% include gallery %}
+{% include gallery.html %}

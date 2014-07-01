@@ -37,4 +37,4 @@ images:
 
 Containing an extended version of a presentation given in March 2009, Connections gives an insight into the art and working processes of artist Nicola Thomas, with artwork ranging from 2006-2009.
 
-{% include gallery %}
+{% include gallery.html %}

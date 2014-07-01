@@ -61,4 +61,4 @@ images:
 
 A one-off white label.
 
-{% include gallery %}
+{% include gallery.html %}

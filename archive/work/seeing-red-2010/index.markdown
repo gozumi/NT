@@ -73,4 +73,4 @@ images:
 
 An audio piece, where as the listener eavesdrops on the conversation they gradually realise that the person speaking is some what ‘unsettled’. Not much is given as to who the conversation is about, or what the conversation even pertains to, however the listener always manages to fill in the gaps with their version of events.
 
-{% include gallery %}
+{% include gallery.html %}

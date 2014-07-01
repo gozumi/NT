@@ -67,4 +67,4 @@ images:
 
 A performance given in the form of a presentation, which formulates a proof based on expressions coined by the artist John Latham.
 
-{% include gallery %}
+{% include gallery.html %}
