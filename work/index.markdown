@@ -6,20 +6,20 @@ class: work
 images:
   - {
 		url: films, 
-		src: thumbs/dancing-with-monk.jpg,
+		src: thumbs/south-more.jpg,
 		label: films,
 		information: ''
 	}
   - {
 		url: prints, 
-		src: thumbs/look.jpg,
+		src: thumbs/eartha-solange-purple.jpg,
 		label: prints,
 		information: ''
 	}
   - {
-		url: performance, 
+		url: performances, 
 		src: thumbs/dancing-with-monk-live.jpg,
-		label: performance,
+		label: performances,
 		information: ''
 	}
 ---
