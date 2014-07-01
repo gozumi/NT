@@ -41,11 +41,7 @@ sections:
        date: 2014
        description: Made in Bermondsey film screening, London SE1
      - 
-<<<<<<< HEAD
-       date: 
-=======
        date:
->>>>>>> develop
        description: <a href="http://multipliedartfair.com" target="_blank">Multiplied</a>, Christies, London SW7 
  - 
    title: selected group shows and screenings
