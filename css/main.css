@@ -489,7 +489,7 @@ a:hover,
 	width: 70%;
 }
 
-.cv .entry .description {
+.cv .entry .entry-content {
 	padding: 0 0 0.2em 15px;
 	border-left: 1px solid #333333;
 }
