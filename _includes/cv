@@ -15,7 +15,7 @@
 					<div class="date">&nbsp;{{ entry.date }}</div>
 				</div>
 				<div class="description-wrapper">
-					<div class="description">{{ entry.description }}&nbsp;</div>
+					<div class="entry-content">{{ entry.description }}&nbsp;</div>
 				</div>
 			</div>
 		{% endfor %}
