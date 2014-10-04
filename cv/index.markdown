@@ -35,24 +35,36 @@ sections:
        date: 
        description: <a href="http://www.aestheticamagazine.com/shop#ap" target="_blank"> Aesthetica Anthology</a> 2013/14
  -
-   title: upcoming shows and screenings 
+   title: upcoming shows 
    entries:
      - 
        date: 2014
-       description: Made in Bermondsey film screening, London SE1
+       description: Activism | Inactivism</a>, <a href="http://functionroom.co" target="_blank">The Function Room</a>, London NW1
+     - 
+       date:
+       description: <a href="http://www.christies.com/multiplied" target="_blank">Multiplied 2014</a>, Christies, London SW7
      -
        date:
-       description: Outcasting&#58 Fourth Wall Artist's Moving Image Festival, Cardiff
+       description: <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance" target="_blank">Face to Face</a>, <a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>, London WC2A
+ - 
+   title: current shows 
+   entries:
      -
        date:
-       description: <a href="http://multipliedartfair.com" target="_blank">Multiplied</a>, Christies, London SW7 
+       description: <a href="http://www.4wfilm.org" target=“_blank”> Outcasting&#58 Fourth Wall Artist’s Moving Image Festival</a>, Cardiff [various locations]
+     -
+       date:
+       description: <a href="http://www.jealousgallery.com/east.asp" target="_blank"> This is Jealous</a>, <a href="http://www.jealousgallery.com" target="_blank">Jealous Gallery East</a>, London EC2A
  - 
    title: selected group shows and screenings
    entries:
      -
        date: 2014
-       description: <a href="http://www.museumnight.org" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/MoscowMuseumNight.html" target="_blank">Artprojx</a>, Russia
+       description: <a href="http://www.artprojx.com/miami_in_bermondsey.html" target="_blank"> The Miami and Moscow Film Selections</a>, <a href="http://bermondseyproject.com/project/the-miami-and-moscow-film-selections-artist-sound-of-film" target="_blank"> Bermondsey Projects</a>, London SE1
      - 
+       date:
+       description: <a href="http://www.museumnight.org" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/MoscowMuseumNight.html" target="_blank">Artprojx</a>, Russia
+     -
        date:
        description: <a href="http://www.sofinearteditions.com/young-exhibition/" target="_blank">Young</a> Exhibition, <a href="http://www.sofinearteditions.com" target="_blank">SO Fine Art Editions</a>, Ireland
      - 
@@ -75,7 +87,7 @@ sections:
        description: Postgraduate Printmaking in London&#58; a survey exhibition, Clifford Chance, London
      - 
        date: 
-       description: <a href=“http://multipliedartfair.com” target=“_blank”>Multiplied</a>, Christies, London SW7 
+       description: <a href=“http://multipliedartfair.com” target=“_blank”>Multiplied 2013</a>, Christies, London SW7 
      - 
        date:
        description: New Moves, Tank exhibition, London W1

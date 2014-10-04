@@ -13,3 +13,4 @@ Artists comprising the programme include Dara Birnbaum; Cory Arcangel; Martin Cr
 <a href="http://www.artprojx.com/MoscowMuseumNight.html" target="_blank">Artprojx’ Moscow film programme</a>  
 17 May 2014
 
+![RCA Flyer](/assets_posts/dancing_with_monk-1.jpg)
