@@ -18,4 +18,4 @@ Admission is free.
 
 10 October 2014 - 24 January 2015  
 
-![RCA Flyer](/assets_posts/face-to-face-simone.jpg)
+![RCA Flyer](/assets_posts/face-to-face-Simone.jpg)
