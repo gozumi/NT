@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Face to Face"
+date:   2014-10-02 00:00:00
+categories: News
+class: news
+---
+
+Two of NT’s prints, Simone and Carole #2  are included in the exhibition <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance" target="_blank">Face to Face: British Portraits from the Clifford Chance Art Collection</a>.
+The exhibition explores the use of portraiture by by British Printmakers in the 20th and 21st Century and includes works by such notable artists as Paula Rego, Patrick Caulfield, David Hockney, William Hogarth, Gavin Turk, Gary Hume, Tim Noble and Sue Webster and Turner Prize nominee Lynette Yiadom-Boakye.
+Works exploring themes ranging from abstraction to realism will be shown to the public.
+
+Admission is free.
+
+<a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance" target="_blank">Face to Face: British Portraits from the Clifford Chance Art Collection</a>  
+<a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>  
+13 Lincoln’s Inn Fields, London, WC2A 3BP  
+
+10 October 2014 - 24 January 2015  
+
+![RCA Flyer](/assets_posts/face-to-face-simone.jpg)
