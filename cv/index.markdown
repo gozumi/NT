@@ -39,27 +39,27 @@ sections:
    entries:
      - 
        date: 2014
-       description: Activism | Inactivism</a>, <a href="http://functionroom.co" target="_blank">The Function Room</a>, London NW1
-     - 
-       date:
-       description: <a href="http://www.christies.com/multiplied" target="_blank">Multiplied 2014</a>, Christies, London SW7
+       description: This has Nothing to do with Politics</a>, <a href="http://functionroom.co" target="_blank">The Function Room</a>, London NW1
  - 
    title: current shows 
    entries:
      -
        date:
        description: <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance" target="_blank">Face to Face</a>, <a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>, London WC2A
+ - 
+   title: selected group shows and screenings
+   entries:
+     - 
+       date: 2014
+       description: <a href="http://www.christies.com/multiplied" target="_blank">Multiplied 2014</a>, Christies, London SW7
      -
        date:
        description: <a href="http://www.4wfilm.org" target=“_blank”> Outcasting&#58 Fourth Wall Artist’s Moving Image Festival</a>, Cardiff [various locations]
      -
        date:
        description: <a href="http://www.jealousgallery.com/east.asp" target="_blank"> This is Jealous</a>, <a href="http://www.jealousgallery.com" target="_blank">Jealous Gallery East</a>, London EC2A
- - 
-   title: selected group shows and screenings
-   entries:
      -
-       date: 2014
+       date:
        description: <a href="http://www.artprojx.com/miami_in_bermondsey.html" target="_blank"> The Miami and Moscow Film Selections</a>, <a href="http://bermondseyproject.com/project/the-miami-and-moscow-film-selections-artist-sound-of-film" target="_blank"> Bermondsey Projects</a>, London SE1
      - 
        date:
