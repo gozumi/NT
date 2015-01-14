@@ -11,7 +11,7 @@ The exhibition brings together artists who are alert to and informed by social a
 
 artists include: Cordelia Cembrowicz | Chris Paul Daniels | Ana Fernández Aballí-Altamirano | Ella Finer | Rose Gibbs | Marlene Haring | Olivia Hicks | Noga Inbar | Virgile Ittah | Vesta Kroese | Ratna Lachman | Ekua McMorris | Oscar Murillo | PA Skantze | Jack Tan | Nicola Thomas | Geoff Tibbs | Richard Wentworth
 
-<a href="http://functionroom.co" target="_blank">The Function Room</a> [above The Cock Tavern]  
+<a href="http://functionroom.co" target="_blank">The Function Room</a> [above The Cock Tavern pub]  
 23 Phoenix Road, London NW1 1HB  
 
 27 November - 30 November 2014, 12 - 6pm  
