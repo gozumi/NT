@@ -51,6 +51,9 @@ sections:
        description: <a href="http://www.aestheticamagazine.com/art-prize-exhibition" target="_blank">Aesthetica Art Prize 2014</a>, York St. Mary’s, York YO1
      - 
        date:
+       description: RCA Secret 14, RCA Battersea, London SW11
+     -
+       date:
        description: Jealous Prize Winners, Edition and Print Gallery, <a href="http://www.saatchigallery.com" target="_blank">Saatchi Gallery</a>, London SW3
      - 
        date:
