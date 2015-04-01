@@ -14,47 +14,23 @@ sections:
        date: 2011
        description: Central Saint Martins College of Art and Design, BA [Hons] Fine Art
  - 
-   title: awards 
-   entries:
-     - 
-       date: 2013
-       description: The Augustus Martin Prize [selected by Gill Saunders]
-     - 
-       date: 
-       description: Royal College of Art Graduate Jealous Print Prize
-     - 
-       date: 
-       description: London Print Studio New Graduate Award
- - 
-   title: publications 
-   entries:
-     - 
-       date: 
-       description: <a href="http://www.artcatlin.com/#/?data=the-guide" target="_blank">The Catlin Guide</a> 2014
-     - 
-       date: 
-       description: <a href="http://www.aestheticamagazine.com/shop#ap" target="_blank"> Aesthetica Anthology</a> 2013/14
- -
-   title: upcoming shows 
-   entries:
-     - 
-       date: 2014
-       description: This has Nothing to do with Politics</a>, <a href="http://functionroom.co" target="_blank">The Function Room</a>, London NW1
- - 
-   title: current shows 
-   entries:
-     -
-       date:
-       description: <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance" target="_blank">Face to Face</a>, <a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>, London WC2A
- - 
    title: selected group shows and screenings
    entries:
      - 
+       date: 2015
+       description: <a href="http://cocknbullgallery.co.uk/portfolio/jealous-take-over-cnb-gallery" target="_blank">Jealous take over the C n B Gallery</a>, London EC2A
+     - 
        date: 2014
+       description: This has Nothing to do with Politics</a>, <a href="http://functionroom.co" target="_blank">The Function Room</a>, London NW1
+     - 
+       date:
        description: <a href="http://www.christies.com/multiplied" target="_blank">Multiplied 2014</a>, Christies, London SW7
      -
        date:
        description: <a href="http://www.4wfilm.org" target=“_blank”> Outcasting&#58 Fourth Wall Artist’s Moving Image Festival</a>, Cardiff [various locations]
+     -
+       date:
+       description: <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance" target="_blank">Face to Face</a>, <a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>, London WC2A
      -
        date:
        description: <a href="http://www.jealousgallery.com/east.asp" target="_blank"> This is Jealous</a>, <a href="http://www.jealousgallery.com" target="_blank">Jealous Gallery East</a>, London EC2A
@@ -244,6 +220,27 @@ sections:
      -
        date:
        description: various private collections in the UK, Europe, and the US
+ - 
+   title: awards 
+   entries:
+     - 
+       date: 2013
+       description: The Augustus Martin Prize [selected by Gill Saunders]
+     - 
+       date: 
+       description: Royal College of Art Graduate Jealous Print Prize
+     - 
+       date: 
+       description: London Print Studio New Graduate Award
+ - 
+   title: publications 
+   entries:
+     - 
+       date: 
+       description: <a href="http://www.artcatlin.com/#/?data=the-guide" target="_blank">The Catlin Guide</a> 2014
+     - 
+       date: 
+       description: <a href="http://www.aestheticamagazine.com/shop#ap" target="_blank"> Aesthetica Anthology</a> 2013/14
 ---
 
 
