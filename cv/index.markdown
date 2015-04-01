@@ -14,17 +14,11 @@ sections:
        date: 2011
        description: Central Saint Martins College of Art and Design, BA [Hons] Fine Art
  - 
-   title: current shows 
-   entries:
-     -
-       date:
-       description: <a href="http://cocknbullgallery.co.uk/portfolio/jealous-take-over-cnb-gallery" target="_blank">Jealous take over the C n B Gallery</a>, London EC2A
-     -
-       date:
-       description: <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance" target="_blank">Face to Face</a>, <a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>, London WC2A
- - 
    title: selected group shows and screenings
    entries:
+     - 
+       date: 2015
+       description: <a href="http://cocknbullgallery.co.uk/portfolio/jealous-take-over-cnb-gallery" target="_blank">Jealous take over the C n B Gallery</a>, London EC2A
      - 
        date: 2014
        description: This has Nothing to do with Politics</a>, <a href="http://functionroom.co" target="_blank">The Function Room</a>, London NW1
@@ -34,6 +28,9 @@ sections:
      -
        date:
        description: <a href="http://www.4wfilm.org" target=“_blank”> Outcasting&#58 Fourth Wall Artist’s Moving Image Festival</a>, Cardiff [various locations]
+     -
+       date:
+       description: <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance" target="_blank">Face to Face</a>, <a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>, London WC2A
      -
        date:
        description: <a href="http://www.jealousgallery.com/east.asp" target="_blank"> This is Jealous</a>, <a href="http://www.jealousgallery.com" target="_blank">Jealous Gallery East</a>, London EC2A
