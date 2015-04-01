@@ -18,6 +18,9 @@ sections:
    entries:
      - 
        date: 2015
+       description: <a href="http://london.secret.rca.ac.uk/2015/" target="_blank">RCA Secret</a>, London <a href="http://dubai.secret.rca.ac.uk/2015/" target="_blank">RCA Secret</a>, Dubai
+     - 
+       date:
        description: <a href="http://cocknbullgallery.co.uk/portfolio/jealous-take-over-cnb-gallery" target="_blank">Jealous take over the C n B Gallery</a>, London EC2A
      - 
        date: 2014
