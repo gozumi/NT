@@ -17,12 +17,6 @@ sections:
    title: selected group shows and screenings
    entries:
      - 
-       date: 2015
-       description: <a href="http://london.secret.rca.ac.uk/2015/" target="_blank">RCA Secret 15</a>, London <a href="http://dubai.secret.rca.ac.uk/2015/" target="_blank">RCA Secret 15</a>, Dubai
-     - 
-       date:
-       description: <a href="http://cocknbullgallery.co.uk/portfolio/jealous-take-over-cnb-gallery" target="_blank">Jealous take over the C n B Gallery</a>, London EC2A
-     - 
        date: 2014
        description: This has Nothing to do with Politics</a>, <a href="http://functionroom.co" target="_blank">The Function Room</a>, London NW1
      - 
