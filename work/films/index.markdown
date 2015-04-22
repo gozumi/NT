@@ -51,7 +51,13 @@ images:
 		src: thumbs/south-more.jpg,
 		label: south more,
 		information: 'Work in progress...'
-	}		
+	}
+  - {
+		url: julian-in-2-parts, 
+		src: thumbs/julian-in-2-parts.jpg,
+		label: Julian in 2 parts,
+		information: 'Work in progress...'
+	}			
 ---
 
 {% include gallery.html %}
