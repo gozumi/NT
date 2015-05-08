@@ -14,10 +14,25 @@ sections:
        date: 2011
        description: Central Saint Martins College of Art and Design, BA [Hons] Fine Art
  - 
+   title: upcoming shows and screenings
+   entries:
+     - 
+       date: 2015
+       description: <a href="http://www.artfairslondon.com" target="_blank">Art15 London</a>, Kensington Olympia, London W14
+     - 
+       date:
+       description: <a href="http://www.museumnight.org" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/nowandnext.html" target="_blank">Artprojx</a>, Russia
+     - 
+       date:
+       description: 2021 International Art Fair</a>, London <a href="http://rca.ac.uk" target="_blank">Royal College of Art</a>, London SW7
+ - 
    title: selected group shows and screenings
    entries:
      - 
        date: 2015
+       description: <a href="http://www.londonprintfair.com" target="_blank">London Original Print Fair</a>, <a href="https://www.royalacademy.org.uk" target="_blank">Royal Academy of Arts</a>, London W1J
+     - 
+       date:
        description: <a href="http://london.secret.rca.ac.uk/2015/" target="_blank">RCA Secret 15</a>, London <a href="http://dubai.secret.rca.ac.uk/2015/" target="_blank">RCA Secret 15</a>, Dubai
      - 
        date:
