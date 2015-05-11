@@ -21,7 +21,7 @@ sections:
        description: <a href="http://www.artfairslondon.com" target="_blank">Art15 London</a>, Kensington Olympia, London W14
      - 
        date:
-       description: <a href="http://www.museumnight.org" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/nowandnext.html" target="_blank">Artprojx</a>, Russia
+       description: <a href="https://davidgryn.wordpress.com/2015/05/04/the-miami-moscow-and-bermondsey-film-selections-artists-sound-of-film-moscow-16-may-2015/" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/nowandnext.html" target="_blank">Artprojx</a>, Russia
      - 
        date:
        description: 2021 International Art Fair</a>, London <a href="http://rca.ac.uk" target="_blank">Royal College of Art</a>, London SW7
