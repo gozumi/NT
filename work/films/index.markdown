@@ -50,12 +50,18 @@ images:
 		url: south-more, 
 		src: thumbs/south-more.jpg,
 		label: south more,
-		information: 'Work in progress...'
+		information: 'South...'
 	}
   - {
 		url: julian-in-2-parts, 
 		src: thumbs/julian-in-2-parts.jpg,
 		label: Julian in 2 parts,
+		information: 'Julian Bream...'
+	}
+  - {
+		url: sterling-eyes, 
+		src: thumbs/sterling-eyes.jpg,
+		label: sterling eyes,
 		information: 'Work in progress...'
 	}			
 ---
