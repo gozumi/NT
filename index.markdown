@@ -11,14 +11,14 @@ class: nt-presents
 		bottom: 0;
 		left: 0;
 		right: 0;
-		background: url(/work/films/imitation-34-59/assets/imitation-34-59-2.jpg) center center no-repeat;
+		background: url(/work/films/sterling-eyes/assets/sterling-eyes-1.jpg) center center no-repeat;
 		background-size: 100%;
 		display: none;
 	}
 </style>
 
 <div id="showcase-frame">
-	<iframe class="showcase-frame" src="http://player.vimeo.com/video/125669245?title=0&amp;byline=0&amp;portrait=0&amp;color=939b9e&amp;autoplay=1&amp;loop=1&amp;api=1" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+	<iframe class="showcase-frame" src="http://player.vimeo.com/video/133437265?title=0&amp;byline=0&amp;portrait=0&amp;color=939b9e&amp;autoplay=1&amp;loop=1&amp;api=1" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 </div>
 <div id="showcase-cover" class="showcase-cover">
 	<div class="NT"></div>
