@@ -18,23 +18,35 @@ sections:
    entries:
      - 
        date: 2015
-       description: <a href="http://www.artfairslondon.com" target="_blank">Art15 London</a>, Kensington Olympia, London W14
+       description: <a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a>, The Crypt Gallery, London NW1
      - 
        date:
-       description: <a href="https://davidgryn.wordpress.com/2015/05/04/the-miami-moscow-and-bermondsey-film-selections-artists-sound-of-film-moscow-16-may-2015/" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/nowandnext.html" target="_blank">Artprojx</a>, Russia
+       description: <a href="http://www.londonprintstudio.org.uk/exhibition/how-and-why-do-artists-reproduce/" target="_blank">Printopia</a>, <a href="http://www.londonprintstudio.org.uk" target="_blank">London Print Studio</a> Gallery, W10
+ - 
+    title: current shows and screenings
+    entries:
      - 
        date:
-       description: 2021 International Art Fair</a>, London <a href="http://rca.ac.uk" target="_blank">Royal College of Art</a>, London SW7
+       description: <a href="http://www.jealousgallery.com/east.asp" target="_blank">Jealous Prize Winners</a> 2015, <a href="http://www.jealousgallery.com" target="_blank">Jealous East</a>, London EC2A
  - 
    title: selected group shows and screenings
    entries:
      - 
        date: 2015
+       description: <a href="http://www.artfairslondon.com" target="_blank">Art15 London</a>, Kensington Olympia, London W14
+     -
+       date:
+       description: <a href="https://davidgryn.wordpress.com/2015/05/04/the-miami-moscow-and-bermondsey-film-selections-artists-sound-of-film-moscow-16-may-2015/" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/nowandnext.html" target="_blank">Artprojx</a>, Russia
+     -
+       date:
+       description: 2021 International Art Fair</a>, London <a href="http://rca.ac.uk" target="_blank">Royal College of Art</a>, London SW7
+     -
+       date:
        description: <a href="http://www.londonprintfair.com" target="_blank">London Original Print Fair</a>, <a href="https://www.royalacademy.org.uk" target="_blank">Royal Academy of Arts</a>, London W1J
      - 
        date:
        description: <a href="http://london.secret.rca.ac.uk/2015/" target="_blank">RCA Secret 15</a>, London <a href="http://dubai.secret.rca.ac.uk/2015/" target="_blank">RCA Secret 15</a>, Dubai
-     - 
+     -
        date:
        description: <a href="http://cocknbullgallery.co.uk/portfolio/jealous-take-over-cnb-gallery" target="_blank">Jealous take over the C n B Gallery</a>, London EC2A
      - 
