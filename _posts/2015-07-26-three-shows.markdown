@@ -7,7 +7,7 @@ class: news
 ---
 
 NT will have work showing in 3 exhibitions next week. 
-NT’s prints can be seen as part of the <a href="http://www.jealousgallery.com/east.asp" target="_blank">Jealous Prize Winners</a> 2015 show, at <a href="http://www.jealousgallery.com" target="_blank">Jealous East</a> showcasing <a href="http://www.jealousprints.com" target="_blank">Jealous Print Studio</a>’s collaboration with current and previous recent graduate Prize Winners; and also as part of <a href="http://www.londonprintstudio.org.uk" target="_blank">London Print Studio</a>’s latest show <a href="http://www.londonprintstudio.org.uk/exhibition/how-and-why-do-artists-reproduce/" target="_blank">Printopia - How and Why Artists Reproduce</a>, which questions why artists are fascinated by the creative opportunities presented by new and traditional print media, and features prints by Therese Oulton, Lucien Freud, Fiona Hepburn and others. NT’s latest film Sterling Eyes, will be shown as part of the <a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a> exhibition.
+NT’s prints can be seen as part of the <a href="http://www.jealousgallery.com/east.asp" target="_blank">Jealous Prize Winners</a> 2015 show, at <a href="http://www.jealousgallery.com" target="_blank">Jealous East</a> showcasing <a href="http://www.jealousprints.com" target="_blank">Jealous Print Studio</a>’s collaboration with current and previous recent graduate Prize Winners; and also as part of <a href="http://www.londonprintstudio.org.uk" target="_blank">London Print Studio</a>’s latest show <a href="http://www.londonprintstudio.org.uk/exhibition/how-and-why-do-artists-reproduce/" target="_blank">Printopia - How and Why Artists Reproduce</a>, which questions why artists are fascinated by the creative opportunities presented by new and traditional print media, and features prints by Paula Rego, Therese Oulton, Lucien Freud, Fiona Hepburn and others. NT’s latest film Sterling Eyes, will be shown as part of the <a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a> exhibition.
 
 <a href="http://www.jealousgallery.com/east.asp" target="_blank">Jealous Prize Winners 2015</a>  
 <a href="http://www.jealousgallery.com" target="_blank">Jealous East</a>  
@@ -15,7 +15,7 @@ NT’s prints can be seen as part of the <a href="http://www.jealousgallery.com/
 EC2A 3PT <br><br> 
 6 July - 2 August 2015  
 
-<a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a>, 
+<a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a>  
 <a href="http://www.cryptgallery.org.uk" target="_blank">The Crypt Gallery</a>, St. Pancras Church  
 Euston Road  
 London  
