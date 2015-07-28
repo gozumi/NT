@@ -21,7 +21,7 @@ Euston Road
 London  
 NW1 2BA <br><br> 
 30 July - 2 August 2015  
-Private View: 30 July 6:00 - 9.00pm  
+Private View: 30 July 6:00-9:00pm  
 
 <a href="http://www.londonprintstudio.org.uk/exhibition/how-and-why-do-artists-reproduce/" target="_blank">Printopia - How and Why Artists Reproduce</a>  
 <a href="http://www.londonprintstudio.org.uk" target="_blank">London Print Studio Gallery</a>  
@@ -29,4 +29,4 @@ Private View: 30 July 6:00 - 9.00pm
 London  
 W10 4RE <br><br>
 31 July - 5 September 2015  
-Private View: 30 July 8.30pm  
+Private View: 30 July 6:30-8:30pm  

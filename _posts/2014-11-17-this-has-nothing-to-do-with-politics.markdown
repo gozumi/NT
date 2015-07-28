@@ -18,4 +18,4 @@ artists include: Cordelia Cembrowicz | Chris Paul Daniels | Ana Fernández Aball
 
 Visual/Performance Debate:	6 - 8pm, Thursday 27 November 2014  
 Performance Evening: 		6 - 8pm, Friday 28 November 2014  
-Roundtable [by invitation]: 4 - 6.pm, Saturday 29 November 2014  
+Roundtable [by invitation]: 4 - 6pm, Saturday 29 November 2014  

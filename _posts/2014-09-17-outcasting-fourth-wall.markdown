@@ -21,7 +21,7 @@ Harlech Court, Bute Terrace, Cardiff, CF10 2FE
 Panopticon  
 <a href="http://www.4wfilm.org/programme/screening-1-2/all/" target="_blank"> Screening #1</a>  
 6 - 7 St. Davids House, Wood Street, Cardiff, CF10 1ER  
-<a href="http://www.4wfilm.org/programme/screening-1-2/2014-10-03/" target="_blank"> 3 October</a> - <a href="http://www.4wfilm.org/programme/screening-1-2/2014-10-03/" target="_blank"> 4 October</a> 2014, 12- 6pm  
+<a href="http://www.4wfilm.org/programme/screening-1-2/2014-10-03/" target="_blank"> 3 October</a> - <a href="http://www.4wfilm.org/programme/screening-1-2/2014-10-03/" target="_blank"> 4 October</a> 2014, 12-6pm  
 
 <a href="http://spitandsawdust.co.uk" target="_blank"> Spit & Sawdust</a>  
 <a href="http://www.4wfilm.org/programme/screening-1-3/all/" target="_blank"> Screening #1 [Cinetruck]</a>  
