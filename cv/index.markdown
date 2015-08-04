@@ -18,21 +18,24 @@ sections:
    entries:
      - 
        date: 2015
-       description: <a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a>, The Crypt Gallery, London NW1
-     - 
-       date:
-       description: <a href="http://www.londonprintstudio.org.uk/exhibition/how-and-why-do-artists-reproduce/" target="_blank">Printopia</a>, <a href="http://www.londonprintstudio.org.uk" target="_blank">London Print Studio</a> Gallery, W10
+       description: <a href="http://ccgallery.co.uk" target="_blank">C&C Gallery</a>, London SE23
  - 
     title: current shows and screenings
     entries:
      - 
        date:
-       description: <a href="http://www.jealousgallery.com/east.asp" target="_blank">Jealous Prize Winners</a> 2015, <a href="http://www.jealousgallery.com" target="_blank">Jealous East</a>, London EC2A
+       description: <a href="http://www.londonprintstudio.org.uk/exhibition/how-and-why-do-artists-reproduce/" target="_blank">Printopia</a>, <a href="http://www.londonprintstudio.org.uk" target="_blank">London Print Studio</a> Gallery, London W10
  - 
    title: selected group shows and screenings
    entries:
      - 
        date: 2015
+       description: <a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a>, The Crypt Gallery, London NW1
+     - 
+       date:
+       description: <a href="http://www.jealousgallery.com/east.asp" target="_blank">Jealous Prize Winners</a> 2015, <a href="http://www.jealousgallery.com" target="_blank">Jealous East</a>, London EC2A
+     - 
+       date:
        description: <a href="http://www.artfairslondon.com" target="_blank">Art15 London</a>, Kensington Olympia, London W14
      -
        date:
@@ -224,14 +227,17 @@ sections:
    title: residencies
    entries:
      - 
+       date: 2015
+       description: <a href="http://ccgallery.co.uk" target="_blank">C&C Gallery</a> residency
+     - 
        date: 2014
-       description: London Print Studio New Graduate Award residency
+       description: <a href="http://www.londonprintstudio.org.uk" target="_blank">London Print Studio</a> New Graduate Award residency
      - 
        date: 
-       description: Graduate Jealous Print Prize residency
+       description: Graduate <a href="http://www.jealousprints.com" target="_blank">Jealous Print</a> Prize residency
      - 
        date: 2010
-       description: CSM John Latham Archive Research project, Flat Time House, London SE15
+       description: CSM John Latham Archive Research project, <a href="http://flattimeho.org.uk" target="_blank">Flat Time House</a>, London SE15
      - 
        date: 2008
        description: Gunpowder Park, Lee Valley RPA
