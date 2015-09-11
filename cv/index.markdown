@@ -17,13 +17,13 @@ sections:
    title: upcoming shows and screenings
    entries:
      -
-       date: 2015
-       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, USA
+       date: 
+       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach Film Programme, Miami, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, USA
  - 
     title: current shows and screenings
     entries:
      - 
-       date: 2015
+       date: 
        description: <a href="http://candcresidency.blogspot.co.uk" target="_blank">Elbow</a> at <a href="http://ccgallery.co.uk" target="_blank">C&C Gallery</a>, London SE23
      - 
        date:
@@ -96,7 +96,7 @@ sections:
        description: <a href="http://www.artfairslondon.com" target="_blank">Art14 London</a>, Kensington Olympia, London W14
      -
        date: 2013
-       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, USA
+       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach Film Programme, Miami, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, USA
      - 
        date: 
        description: Postgraduate Printmaking in London&#58; a survey exhibition, Clifford Chance, London
