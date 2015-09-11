@@ -34,6 +34,18 @@ images:
 		label: 'sterling eyes - film still #3',
 		information: ''
 	}
+  - {
+		url: sterling-eyes-5.html, 
+		src: thumbs/sterling-eyes-install-1.jpg,
+		label: 'sterling eyes - film installation #1',
+		information: ''
+	}
+  - {
+		url: sterling-eyes-6.html, 
+		src: thumbs/sterling-eyes-install-2.jpg,
+		label: 'sterling eyes - film installation #2',
+		information: ''
+	}		
 
 ---
 

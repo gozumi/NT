@@ -63,7 +63,7 @@ sections:
        description: <a href="http://www.4wfilm.org" target=“_blank”> Outcasting&#58 Fourth Wall Artist’s Moving Image Festival</a>, Cardiff [various locations]
      -
        date:
-       description: <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance" target="_blank">Face to Face</a>, <a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>, London WC2A
+       description: <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance-art-collectio" target="_blank">Face to Face</a>, <a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>, London WC2A
      -
        date:
        description: <a href="http://www.jealousgallery.com/east.asp" target="_blank"> This is Jealous</a>, <a href="http://www.jealousgallery.com" target="_blank">Jealous Gallery East</a>, London EC2A
