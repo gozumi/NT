@@ -16,12 +16,15 @@ sections:
  - 
    title: upcoming shows and screenings
    entries:
-     - 
+     -
        date: 2015
-       description: <a href="http://ccgallery.co.uk" target="_blank">C&C Gallery</a>, London SE23
+       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach, Miami, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, USA
  - 
     title: current shows and screenings
     entries:
+     - 
+       date: 2015
+       description: <a href="http://candcresidency.blogspot.co.uk" target="_blank">Elbow</a> at <a href="http://ccgallery.co.uk" target="_blank">C&C Gallery</a>, London SE23
      - 
        date:
        description: <a href="http://www.londonprintstudio.org.uk/exhibition/how-and-why-do-artists-reproduce/" target="_blank">Printopia</a>, <a href="http://www.londonprintstudio.org.uk" target="_blank">London Print Studio</a> Gallery, London W10
@@ -99,7 +102,7 @@ sections:
        description: Postgraduate Printmaking in London&#58; a survey exhibition, Clifford Chance, London
      - 
        date: 
-       description: <a href=“http://multipliedartfair.com” target=“_blank”>Multiplied 2013</a>, Christies, London SW7 
+       description: <a href="http://multipliedartfair.com" target="_blank">Multiplied 2013</a>, Christies, London SW7 
      - 
        date:
        description: New Moves, Tank exhibition, London W1
