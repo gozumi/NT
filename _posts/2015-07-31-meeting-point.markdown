@@ -6,7 +6,7 @@ categories: News
 class: news
 ---
 
-Last chance to see the installation of NT’s film <a href="http://nicolathomas.com/work/films/sterling-eyes/sterling-eyes-6.html" target="_blank">Sterling Eyes</a> as part of the <a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a> exhibition in Euston.
+Last chance to see the installation of NT’s film <a href="http://nicolathomas.com/work/films/sterling-eyes/" target="_blank">Sterling Eyes</a> as part of the <a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a> exhibition in Euston.
 
 <a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a>  
 <a href="http://www.cryptgallery.org.uk" target="_blank">The Crypt Gallery</a>, St. Pancras Church  
