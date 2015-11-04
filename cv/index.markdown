@@ -23,14 +23,11 @@ sections:
        date: 
        description: Feminist Practice in Dialogue <a href="https://www.ica.org.uk" target="_blank">ICA</a>, London SW1
  - 
-    title: current shows and screenings
-    entries:
+   title: selected group shows and screenings
+   entries:
      - 
        date:
        description: <a href="http://www.christies.com/multiplied" target="_blank">Multiplied 2015</a>, Christies, London SW7
- - 
-   title: selected group shows and screenings
-   entries:
      - 
        date: 
        description: <a href="http://candcresidency.blogspot.co.uk" target="_blank">Elbow</a> at <a href="http://ccgallery.co.uk" target="_blank">C&C Gallery</a>, London SE23
@@ -38,7 +35,7 @@ sections:
        date:
        description: <a href="http://www.londonprintstudio.org.uk/exhibition/how-and-why-do-artists-reproduce/" target="_blank">Printopia</a>, <a href="http://www.londonprintstudio.org.uk" target="_blank">London Print Studio</a> Gallery, London W10
      - 
-       date: 2015
+       date:
        description: <a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a>, The Crypt Gallery, London NW1
      - 
        date:
