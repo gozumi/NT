@@ -26,7 +26,7 @@ sections:
    title: selected group shows and screenings
    entries:
      - 
-       date:
+       date: 2015
        description: <a href="http://www.christies.com/multiplied" target="_blank">Multiplied 2015</a>, Christies, London SW7
      - 
        date: 
