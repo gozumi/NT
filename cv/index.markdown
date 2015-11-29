@@ -21,7 +21,7 @@ sections:
        description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach Film Programme, Miami, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, USA
      -
        date: 
-       description: Feminist Practice in Dialogue <a href="https://www.ica.org.uk" target="_blank">ICA</a>, London SW1
+       description: <a href="https://www.ica.org.uk/whats-on/feminist-practices-dialogue" target="_blank">Feminist Practices in Dialogue</a>, <a href="https://www.ica.org.uk" target="_blank">ICA</a>, London SW1
  - 
    title: selected group shows and screenings
    entries:
