@@ -21,9 +21,5 @@ USA
 4 December screening of NT's films S-time and <a href="http://nicolathomas.com/work/films/julian-in-2-parts" target="_blank">Julian in two parts</a>.
 
 <p>
-<iframe src="//www.youtube.com/watch?v=aqgSICzFuuc" width="500" height="320" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/aqgSICzFuuc" width="500" height="320" frameborder="0" allowfullscreen></iframe>
 </p>
-
-<!-- <p> -->
-<!-- <iframe src="//player.vimeo.com/video/138805932?title=0&amp;byline=0&amp;portrait=0&amp;color=ff6e00&amp;autoplay=0&amp;loop=1&amp;api=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
-<!-- <p> -->
