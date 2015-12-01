@@ -14,7 +14,6 @@ Outdoor screenings of the <a href="https://www.artbasel.com/miami-beach/the-show
 <p>
 <iframe src="//player.vimeo.com/video/124475180?title=0&amp;byline=0&amp;portrait=0&amp;color=ff6e00&amp;autoplay=0&amp;loop=1&amp;api=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </p>
-
 <!-- <p> -->
 <!-- <iframe src="//player.vimeo.com/video/138805932?title=0&amp;byline=0&amp;portrait=0&amp;color=ff6e00&amp;autoplay=0&amp;loop=1&amp;api=1" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> -->
 <!-- <p> -->

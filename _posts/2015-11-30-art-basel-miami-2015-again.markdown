@@ -5,11 +5,11 @@ date:   2015-11-30 00:00:00
 categories: News
 class: news
 ---
-On Friday 4 December 2015, two more of NT’s films will be shown as part of this year’s Art Basel Miami Beach film programme.
+On Friday 4 December 2015, two more of NT’s films will be shown as part of this year’s <a href="https://www.artbasel.com/miami-beach" target="_blank">Art Basel Miami Beach</a> Film Programme.
 
 The 2015 programme includes films made by artists such as Tracey Emin, Nikki S. Lee, Liz Magic Laser, Cornelia Parker, Camille Henrot, and Ida Applebroog, to name a few.
 
-Outdoor screenings of the <a href="https://www.artbasel.com/miami-beach" target="_blank">Film Programme</a> will take place at SoundScape Park and will be shown on the 7,000-square-foot outdoor projection wall of the Frank Gehry-designed <a href="http://www.newworldcenter.com" target="_blank">New World Center</a>, from 2 December to 5 December 2015. The Art Basel Miami Film Programme is curated by David Gryn of <a href="https://daata-editions.com" target="_blank">Daata Editions</a> and <a href="http://www.artprojx.com" target="_blank">Artprojx</a>.
+Outdoor screenings of the <a href="https://davidgryn.wordpress.com/2015/11/25/film-and-sound-at-art-basel-in-miami-beach-2015/" target="_blank">Film Programme</a> will take place at SoundScape Park and will be shown on the 7,000-square-foot outdoor projection wall of the Frank Gehry-designed <a href="http://www.newworldcenter.com" target="_blank">New World Center</a>, from 2 December to 5 December 2015. The Art Basel Miami Film Programme is curated by David Gryn of <a href="https://daata-editions.com" target="_blank">Daata Editions</a> and <a href="http://www.artprojx.com" target="_blank">Artprojx</a>.
 
 <a href="https://www.artbasel.com/miami-beach" target="_blank">Art Basel Miami Beach</a> Film Programme 2015  
 SoundScape Park  
