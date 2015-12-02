@@ -18,7 +18,7 @@ Miami
 USA
 
 2 - 5 December 2015, 6pm  
-4 December screening of NT's films S-time and <a href="http://nicolathomas.com/work/films/julian-in-2-parts" target="_blank">Julian in two parts</a>.
+4 December 2015, 8pm screening of NT's films S-time and <a href="http://nicolathomas.com/work/films/julian-in-2-parts" target="_blank">Julian in two parts</a>.
 
 <p>
 <iframe src="//www.youtube.com/embed/aqgSICzFuuc" width="500" height="320" frameborder="0" allowfullscreen></iframe>
