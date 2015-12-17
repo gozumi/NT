@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  Institute of Contemporary Art
+title:  ICA
 date:   2015-11-25 00:00:00
 categories: News
 class: news
 ---
-NT will be showing new work at the <a href="https://www.ica.org.uk/" target="_blank">Institute of Contemporary Art</a>, <a href="https://www.ica.org.uk/" target="_blank">ICA</a>, along with other members of <a href="https://www.ica.org.uk/whats-on/feminist-practices-dialogue" target="_blank">Feminist Practices in Dialogue</a>, to coincide with their exhibition, the release of their first publication, and their evening discussion: <a href="https://www.ica.org.uk/whats-on/we-are-anti-capiphallists-feminist-art-practices-dialogue" target="_blank">We are Anti-Capiphallists</a>.
+NT will be showing new work, at the <a href="https://www.ica.org.uk/" target="_blank">Institute of Contemporary Art</a>, <a href="https://www.ica.org.uk/" target="_blank">ICA</a>, as part of <a href="https://www.ica.org.uk/whats-on/feminist-practices-dialogue" target="_blank">We are Anti-Capiphallists</a>: Feminist Practices in Dialogue. 
 
-<a href="https://www.ica.org.uk/whats-on/feminist-practices-dialogue" target="_blank">Feminist Practices in Dialogue</a>, is an exhibition and a programme of video works, performances, sound pieces and discussions on the challenges facing contemporary feminism. The evening discussion: <a href="https://www.ica.org.uk/whats-on/we-are-anti-capiphallists-feminist-art-practices-dialogue" target="_blank">We are Anti-Capiphallists: Feminist Practices in Dialogue</a>, will take place at 6.30pm in the Theatre and is a ticketed event.  
-The participating artists include Miriam Austin, Alison Ballance and Abigail Smith, Ingrid Berthon-Moine, Cécile Emmanuelle Borra, Rose Gibbs, Lora Hristova, Catherine Long and Lauren Schnieder.
+Coinciding with the exhibition, is the release of their first publication, issue one of Feminist Practices in Dialogue and an evening discussion: <a href="https://www.ica.org.uk/whats-on/we-are-anti-capiphallists-feminist-art-practices-dialogue" target="_blank">We are Anti-Capiphallists</a>. 
 
 <a href="https://www.ica.org.uk/whats-on/feminist-practices-dialogue" target="_blank">Feminist Practices in Dialogue</a>  
 <a href="https://www.ica.org.uk/" target="_blank">Institute of Contemporary Art</a>  
@@ -21,4 +20,5 @@ SW1Y 5AH
 Discussion: <a href="https://www.ica.org.uk/whats-on/we-are-anti-capiphallists-feminist-art-practices-dialogue" target="_blank">We are Anti-Capiphallists</a> 6.30pm - <a href="https://uk.patronbase.com/_ICA/Seats/NumSeats?prod_id=1GF&perf_id=1&section_id=M&seat_type_id=S" target="_blank">ticketed event</a>  
 All take place in the ICA Theatre
 
-![shes fishy animated gif](/assets_posts/shes_fishy_animated.gif)
+![I'm Anti-Capiphallism](/assets_posts/anti-capiphallism.jpg)  
+"I’m Anti-Capiphallism", 2015 Ingrid Berthon-Moine
