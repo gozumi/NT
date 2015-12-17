@@ -18,15 +18,15 @@ sections:
    entries:
      -
        date: 
-       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach Film Programme, Miami, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, USA
-     -
-       date: 
-       description: <a href="https://www.ica.org.uk/whats-on/feminist-practices-dialogue" target="_blank">Feminist Practices in Dialogue</a>, <a href="https://www.ica.org.uk" target="_blank">ICA</a>, London SW1
+       description: <a href="https://www.ica.org.uk/whats-on/feminist-practices-dialogue" target="_blank">We are Anti-Capiphallisists</a>, <a href="https://www.ica.org.uk" target="_blank">ICA</a>, London SW1
  - 
    title: selected group shows and screenings
    entries:
-     - 
+     -
        date: 2015
+       description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach Film Programme, Miami, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, USA
+     - 
+       date:
        description: <a href="http://www.christies.com/multiplied" target="_blank">Multiplied 2015</a>, Christies, London SW7
      - 
        date: 
@@ -187,6 +187,9 @@ sections:
  - 
    title: performances
    entries:
+     - 
+       date: 2015
+       description: Anna's Couch, The Freud Museum, London NW3
      - 
        date: 2014
        description: Some thoughts on Performance, DepArture Foundation, London EC3V
