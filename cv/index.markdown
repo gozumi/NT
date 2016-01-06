@@ -14,16 +14,13 @@ sections:
        date: 2011
        description: Central Saint Martins College of Art and Design, BA [Hons] Fine Art
  - 
-   title: upcoming shows and screenings
-   entries:
-     -
-       date: 
-       description: <a href="https://www.ica.org.uk/whats-on/feminist-practices-dialogue" target="_blank">We are Anti-Capiphallisists</a>, <a href="https://www.ica.org.uk" target="_blank">ICA</a>, London SW1
- - 
    title: selected group shows and screenings
    entries:
      -
        date: 2015
+       description: <a href="https://www.ica.org.uk/whats-on/feminist-practices-dialogue" target="_blank">We are Anti-Capiphallisists</a>, <a href="https://www.ica.org.uk" target="_blank">ICA</a>, London SW1
+     -
+       date: 
        description: <a href="https://www.artbasel.com/en/Miami-Beach" target="_blank">Art Basel</a>&nbsp;Miami Beach Film Programme, Miami, as part of <a href="http://www.artprojx.com" target="_blank">Artprojx</a>, USA
      - 
        date:
