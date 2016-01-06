@@ -44,26 +44,38 @@ images:
 		url: she-didnt-become, 
 		src: thumbs/she-didnt-become.jpg,
 		label: she didn&#39;t become&#44; 2014,
-		information: 'A hurt that decades later still has not healed..'
+		information: 'A hurt that decades later still has not healed...'
 	}
   - {
 		url: south-more, 
 		src: thumbs/south-more.jpg,
 		label: south more&#44; 2014,
-		information: 'South...'
+		information: 'Southmere Estate...'
 	}
   - {
 		url: julian-in-2-parts, 
 		src: thumbs/julian-in-2-parts.jpg,
 		label: Julian in 2 parts&#44; 2015,
-		information: 'Julian Bream...'
+		information: 'Julian Bream plays...'
 	}
+  - {
+		url: s-time, 
+		src: thumbs/s-time.jpg,
+		label: S-time&#44; 2015,
+		information: 'Lady Ella and Sarah Vaughan duet...'
+	}	
   - {
 		url: sterling-eyes, 
 		src: thumbs/sterling-eyes.jpg,
 		label: sterling eyes&#44; 2015,
-		information: 'Work in progress...'
-	}			
+		information: 'Here Sterling does not dance, he does something instead...'
+	}
+  - {
+		url: more-than-a-woman, 
+		src: thumbs/more-than-a-woman.jpg,
+		label: more than a Woman&#44; 2015,
+		information: 'Watch the catwalk and see them &#34;work it&#34;...'
+	}				
 ---
 
 {% include gallery.html %}

@@ -25,7 +25,7 @@ images:
   - {
 		url: south-more-3.html, 
 		src: thumbs/south-more-2.jpg,
-		label: 'south more- film still #2',
+		label: 'south more - film still #2',
 		information: ''
 	}	
 
