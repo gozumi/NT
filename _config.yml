@@ -4,4 +4,4 @@ markdown: redcarpet
 highlighter: true
 paginate: 5
 paginate_path: "news/page:num"
-url: "http://www.nicolathomas.com"
+url: "http://www.ntpresents.com"
