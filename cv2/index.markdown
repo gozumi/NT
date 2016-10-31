@@ -196,7 +196,7 @@ sections:
    entries:
      - 
        date: 2015
-       description: Anna's Couch, <a href="https://www.freud.org.uk" target="_blank">The Freud Museum</a>, London NW3
+       description: Anna's Couch, The Freud Museum, London NW3
      - 
        date: 2014
        description: Some thoughts on Performance, DepArture Foundation, London EC3V
