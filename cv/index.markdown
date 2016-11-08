@@ -39,15 +39,6 @@ sections:
        date:
        description: <a href="http://www.christies.com/multiplied" target="_blank">Multiplied 2015</a>, Christies, London SW7
      - 
-       date: 
-       description: <a href="http://candcresidency.blogspot.co.uk" target="_blank">Elbow</a> at <a href="http://ccgallery.co.uk" target="_blank">C&C Gallery</a>, London SE23
-     - 
-       date:
-       description: <a href="http://www.londonprintstudio.org.uk/exhibition/how-and-why-do-artists-reproduce/" target="_blank">Printopia</a>, <a href="http://www.londonprintstudio.org.uk" target="_blank">London Print Studio</a> Gallery, London W10
-     - 
-       date:
-       description: <a href="https://meetingpointexhibition.wordpress.com" target="_blank">Meeting Point</a>, The Crypt Gallery, London NW1
-     - 
        date:
        description: <a href="http://www.jealousgallery.com/east.asp" target="_blank">Jealous Prize Winners</a> 2015, <a href="http://www.jealousgallery.com" target="_blank">Jealous East</a>, London EC2A
      - 
@@ -56,18 +47,6 @@ sections:
      -
        date:
        description: <a href="https://davidgryn.wordpress.com/2015/05/04/the-miami-moscow-and-bermondsey-film-selections-artists-sound-of-film-moscow-16-may-2015/" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/nowandnext.html" target="_blank">Artprojx</a>, Russia
-     -
-       date:
-       description: 2021 International Art Fair</a>, London <a href="http://rca.ac.uk" target="_blank">Royal College of Art</a>, London SW7
-     -
-       date:
-       description: <a href="http://www.londonprintfair.com" target="_blank">London Original Print Fair</a>, <a href="https://www.royalacademy.org.uk" target="_blank">Royal Academy of Arts</a>, London W1J
-     - 
-       date:
-       description: <a href="http://london.secret.rca.ac.uk/2015/" target="_blank">RCA Secret 15</a>, London <a href="http://dubai.secret.rca.ac.uk/2015/" target="_blank">RCA Secret 15</a>, Dubai
-     -
-       date:
-       description: <a href="http://cocknbullgallery.co.uk/portfolio/jealous-take-over-cnb-gallery" target="_blank">Jealous take over the C n B Gallery</a>, London EC2A
      - 
        date: 2014
        description: This has Nothing to do with Politics</a>, <a href="http://functionroom.co" target="_blank">The Function Room</a>, London NW1
@@ -82,9 +61,6 @@ sections:
        description: <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance-art-collectio" target="_blank">Face to Face</a>, <a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>, London WC2A
      -
        date:
-       description: <a href="http://www.jealousgallery.com/east.asp" target="_blank"> This is Jealous</a>, <a href="http://www.jealousgallery.com" target="_blank">Jealous Gallery East</a>, London EC2A
-     -
-       date:
        description: <a href="http://www.artprojx.com/miami_in_bermondsey.html" target="_blank"> The Miami and Moscow Film Selections</a>, <a href="http://bermondseyproject.com/project/the-miami-and-moscow-film-selections-artist-sound-of-film" target="_blank"> Bermondsey Projects</a>, London SE1
      - 
        date:
@@ -94,13 +70,7 @@ sections:
        description: <a href="http://www.sofinearteditions.com/young-exhibition/" target="_blank">Young</a> Exhibition, <a href="http://www.sofinearteditions.com" target="_blank">SO Fine Art Editions</a>, Ireland
      - 
        date:
-       description: <a href="http://www.londonprintfair.com" target="_blank">London Original Print Fair</a>, <a href="https://www.royalacademy.org.uk" target="_blank">Royal Academy of Arts</a>, London W1J
-     - 
-       date:
        description: <a href="http://www.aestheticamagazine.com/art-prize-exhibition" target="_blank">Aesthetica Art Prize 2014</a>, York St. Mary’s, York YO1
-     - 
-       date:
-       description: RCA Secret 14, <a href="http://rca.ac.uk" target="_blank">Royal College of Art</a>, Battersea, London SW11
      -
        date:
        description: Jealous Prize Winners, Edition and Print Gallery, <a href="http://www.saatchigallery.com" target="_blank">Saatchi Gallery</a>, London SW3
@@ -123,12 +93,6 @@ sections:
        date:
        description: <a href="http://tank.tv/exhibitions/2013/new-moves.aspx" target="_blank">New Moves</a>, tank.tv</a>, online
      - 
-       date: 
-       description: Pushing Print, Margate CT9
-     - 
-       date:
-       description: <a href="http://artlacuna.org/prize" target="_blank"> ArtLacuna Prize</a>, London SW11
-     - 
        date:
        description: <a href="http://www.aspex.org.uk/events/carousel" target="_blank">Carousel</a>, <a href="http://www.aspex.org.uk" target="_blank">Aspex Galley</a>, Portsmouth
      - 
@@ -141,12 +105,6 @@ sections:
        date:
        description: Parallax, <a href="http://cgplondon.org" target="_blank">Cafe Gallery</a>, London SE16
      - 
-       date:
-       description: RCA Secret 13, <a href="http://rca.ac.uk" target="_blank">Royal College of Art</a>, Battersea, London SW11
-     - 
-       date:
-       description: Notes to Self, Dyson Gallery, London SW11
-     - 
        date: 2012
        description: Open Book - Performance night at <a href="http://www.testbed1.com" target="_blank">Testbed1</a>, London SW11
      - 
@@ -155,9 +113,6 @@ sections:
      - 
        date:
        description: I Took The Lift to the 6th Floor, <a href="http://cgplondon.org" target="_blank">Cafe Gallery</a>, London SE16
-     - 
-       date: 2011
-       description: RCA Secret 11, <a href="http://rca.ac.uk" target="_blank">Royal College of Art</a>, Kensington, London SW7
      - 
        date:
        description: Performance Night at the RCA, <a href="http://rca.ac.uk" target="_blank">Royal College of Art</a>, Battersea, London SW11
@@ -174,23 +129,8 @@ sections:
        date:
        description: Group Show, The Innovation Centre, <a href="http://www.arts.ac.uk/csm/" target="_blank">Central Saint Martins</a>, London WC2
      - 
-       date:
-       description: Group Show, Four Fifths, <a href="http://www.arts.ac.uk/csm/" target="_blank">Central Saint Martins</a>, London WC2
-     - 
-       date: 2009
-       description: Polygamous, <a href="http://www.arts.ac.uk/chelsea/" target="_blank">Chelsea College of Art and Design</a>, London SW1
-     - 
        date: 
        description: COFA@Spinach, Spinach Agency, London N1
-     - 
-       date: 2008
-       description: 20:20:20:20, <a href="http://www.arts.ac.uk/csm/" target="_blank">Central Saint Martins</a>, London WC2
-     - 
-       date:
-       description: Group Show, Gunpowder Park, Lee Valley RPA
-     - 
-       date: 2006
-       description: Group Show, Trinity Buoy Wharf, London E14
  - 
    title: performances
    entries:
@@ -236,9 +176,6 @@ sections:
      - 
        date:
        description: Ms COFA & Ms COFA, Spinach Agency, London N1
-     - 
-       date: 2006
-       description: A Tour, Trinity Buoy Wharf, London E14
  - 
    title: residencies
    entries:
@@ -253,10 +190,7 @@ sections:
        description: Graduate <a href="http://www.jealousprints.com" target="_blank">Jealous Print</a> Prize residency
      - 
        date: 2010
-       description: CSM John Latham Archive Research project, <a href="http://flattimeho.org.uk" target="_blank">Flat Time House</a>, London SE15
-     - 
-       date: 2008
-       description: Gunpowder Park, Lee Valley RPA
+       description: CSM John Latham Archive Research project, <a href="http://flattimeho.org.uk" target="_blank">Flat Time House</a>, London SE1
  - 
    title: collections
    entries:
