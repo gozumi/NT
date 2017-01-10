@@ -18,16 +18,18 @@ sections:
    entries:
      -
        date: 2017
-       description: <a href="" target="_blank">10 British Artists</a>, <a href="http://www.nae.org.uk" target="_blank">New Art Exchange</a>, Nottingham NG7
+       description: <a href="http://www.nae.org.uk/exhibition/untitled-art-on-the-conditions-of-our/114" target="_blank">UNTITLED&#58; art on the conditions of our time</a>, <a href="http://www.nae.org.uk" target="_blank">New Art Exchange</a>, Nottingham NG7
      -
-       date: 2016
-       description: <a href="http://www.theshowroom.org/events/practice-in-dialogue" target="_blank">We all have a problem with representation</a>, <a href="http://www.theshowroom.org" target="_blank">The Showroom</a>, London NW8
-     -
+       date: 
+       description: Whitechapel Gallery Screening, <a href="http://www.whitechapelgallery.org" target="_blank">Whitechapel Gallery</a>, London E1       
  - 
    title: selected group shows and screenings
    entries:
      -
        date: 2016
+       description: <a href="http://www.theshowroom.org/events/practice-in-dialogue" target="_blank">We all have a problem with representation</a>, <a href="http://www.theshowroom.org" target="_blank">The Showroom</a>, London NW8   
+     -
+       date: 
        description: <a href="http://www.rwa.org.uk/whats-on/jamaican-pulse-art-and-politics-jamaica-and-diaspora" target="_blank">Jamaican Pulse</a>, <a href="http://www.rwa.org.uk" target="_blank">RWA</a>, Bristol BS8   
      -
        date: 2015
