@@ -4,14 +4,15 @@ title: me
 group: navigation
 class: me
 ---
+
 <b>Now</b>
 
 Question everything!
 
 <b>2015</b>
-
+<p>
 I believe that art, like history, is a process of bringing ‘things’ or ideas to the surface in order for them to be noticed and seen.</br>
-As a result, much of my work is responsive, where the work has arisen out of a reaction or a response to something which has been observed, heard, or overlooked, in a quest to bring that ‘thing’ to the surface.</br> 
+As a result, much of my work is responsive, where the work has arisen out of a reaction or a response to something which has been observed, heard, or overlooked, in a quest to bring that ‘thing’ to the surface.</br></p> 
 
 
 <b>2014</b>
@@ -39,3 +40,4 @@ Looking is not a simple task or action.
 <b>2012</b>
 
 Question everything!
+
