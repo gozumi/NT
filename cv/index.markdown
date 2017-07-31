@@ -51,7 +51,7 @@ sections:
        description: <a href="http://www.christies.com/multiplied" target="_blank">Multiplied 2014</a>, Christies, London SW7
      -
        date:
-       description: <a href="http://www.4wfilm.org" target=“_blank”> Outcasting&#58 Fourth Wall Artist’s Moving Image Festival</a>, Cardiff [various locations]
+       description: <a href="http://www.4wfilm.org" target=“_blank”> Outcasting&#58; Fourth Wall Artist’s Moving Image Festival</a>, Cardiff [various locations]
      -
        date:
        description: <a href="http://www.soane.org/exhibitions/face-to-face-british-portrait-prints-from-the-clifford-chance-art-collectio" target="_blank">Face to Face</a>, <a href="http://www.soane.org" target="_blank">Sir John Soane's Museum</a>, London WC2A
