@@ -87,7 +87,7 @@ sections:
        description: New Moves, Tank exhibition, London W1
      - 
        date:
-       description: <a href="http://tank.tv/exhibitions/2013/new-moves.aspx" target="_blank">New Moves</a>, tank.tv</a>, online
+       description: <a href="http://tank.tv/exhibitions/2013/new-moves.aspx" target="_blank">New Moves</a>, tank.tv, online
      - 
        date:
        description: <a href="http://www.aspex.org.uk/events/carousel" target="_blank">Carousel</a>, <a href="http://www.aspex.org.uk" target="_blank">Aspex Galley</a>, Portsmouth
