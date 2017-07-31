@@ -17,19 +17,19 @@ As a result, much of my work is responsive, where the work has arisen out of a r
 
 <b>2014</b>
 
-To relook is to have an additional look.</br>
-It is to look again.</br>
+To relook is to have an additional look. 
+It is to look again.
 
 Always, at the back of mind is the question, “how can you make people reassess what is already familiar to them?”</br>
-“How can I make people revisit the familiar with ‘new’ eyes?”</br>
-So my work is consistently about scraping beneath the surface: weaving together and reconstructing different narratives from that which already exists.</br>
+“How can I make people revisit the familiar with ‘new’ eyes?” 
+So my work is consistently about scraping beneath the surface: weaving together and reconstructing different narratives from that which already exists.
 A continual attempt to recapture, reinterpret and renew.
 
 <b>2013</b>
 
-Looking is not a simple task or action.</br> 
-Every artist wants their work to be looked at.</br> 
-Every artist courts the gaze of the viewer.</br>
+Looking is not a simple task or action.
+Every artist wants their work to be looked at. 
+Every artist courts the gaze of the viewer.
 
 As an artist I am no different. I am interested in the awareness of the ‘gaze’ and the aspect of looking, whether it is by the artist, the camera lens, or the viewer, and the tension that arises from its courtship by the subject-artist-lens. This extends into how strategies of disruption can interfere and interrupt the gaze, bring about change, and result in a phenomenological response, such as perception and affect. In addition, I am also interested in how the results of such actions and strategies are then interpreted or misinterpreted. As a consequence of investigating and applying strategies of disruption in my practice, the media used has incorporated film, sound, performance, photography, installation and print. 
 
