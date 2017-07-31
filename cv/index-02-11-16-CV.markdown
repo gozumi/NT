@@ -239,15 +239,6 @@ sections:
      - 
        date: 2006
        description: A Tour, Trinity Buoy Wharf, London E14
-  - 
-   title: education 
-   entries:
-     - 
-       date: 2013
-       description: Royal College of Art, MA Fine Art
-     - 
-       date: 2011
-       description: Central Saint Martins College of Art and Design, BA [Hons] Fine Art      
  - 
    title: residencies
    entries:

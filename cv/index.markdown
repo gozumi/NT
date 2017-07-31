@@ -5,26 +5,20 @@ foo: whatever
 class: cv
 sections:
  - 
-   title: education 
-   entries:
-     - 
-       date: 2013
-       description: Royal College of Art, MA Fine Art
-     - 
-       date: 2011
-       description: Central Saint Martins College of Art and Design, BA [Hons] Fine Art
- - 
-   title: upcoming shows
+   title: upcoming group shows
    entries:
      -
        date: 2017
-       description: <a href="http://www.nae.org.uk/exhibition/untitled-art-on-the-conditions-of-our/114" target="_blank">UNTITLED&#58; art on the conditions of our time</a>, <a href="http://www.nae.org.uk" target="_blank">New Art Exchange</a>, Nottingham NG7
+       description: In whose eyes, <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a>, London SE11
      -
        date: 
        description: Whitechapel Gallery Screening, <a href="http://www.whitechapelgallery.org" target="_blank">Whitechapel Gallery</a>, London E1       
  - 
    title: selected group shows and screenings
    entries:
+     -
+       date: 2017
+       description: <a href="http://www.nae.org.uk/exhibition/untitled-art-on-the-conditions-of-our/114" target="_blank">UNTITLED&#58; art on the conditions of our time</a>, <a href="http://www.nae.org.uk" target="_blank">New Art Exchange</a>, Nottingham NG7
      -
        date: 2016
        description: <a href="http://www.theshowroom.org/events/practice-in-dialogue" target="_blank">We all have a problem with representation</a>, <a href="http://www.theshowroom.org" target="_blank">The Showroom</a>, London NW8   
@@ -178,6 +172,15 @@ sections:
      - 
        date:
        description: Ms COFA & Ms COFA, Spinach Agency, London N1
+ - 
+   title: education 
+   entries:
+     - 
+       date: 2013
+       description: Royal College of Art, MA Fine Art
+     - 
+       date: 2011
+       description: Central Saint Martins College of Art and Design, BA [Hons] Fine Art       
  - 
    title: residencies
    entries:
