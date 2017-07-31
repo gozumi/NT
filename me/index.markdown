@@ -10,9 +10,9 @@ class: me
 Question everything!
 
 <b>2015</b>
-<p>
+
 I believe that art, like history, is a process of bringing ‘things’ or ideas to the surface in order for them to be noticed and seen.</br>
-As a result, much of my work is responsive, where the work has arisen out of a reaction or a response to something which has been observed, heard, or overlooked, in a quest to bring that ‘thing’ to the surface.</br></p> 
+As a result, much of my work is responsive, where the work has arisen out of a reaction or a response to something which has been observed, heard, or overlooked, in a quest to bring that ‘thing’ to the surface. 
 
 
 <b>2014</b>
@@ -20,7 +20,7 @@ As a result, much of my work is responsive, where the work has arisen out of a r
 To relook is to have an additional look. 
 It is to look again.
 
-Always, at the back of mind is the question, “how can you make people reassess what is already familiar to them?”</br>
+Always, at the back of mind is the question, “how can you make people reassess what is already familiar to them?”
 “How can I make people revisit the familiar with ‘new’ eyes?” 
 So my work is consistently about scraping beneath the surface: weaving together and reconstructing different narratives from that which already exists.
 A continual attempt to recapture, reinterpret and renew.
