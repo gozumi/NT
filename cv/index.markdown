@@ -45,7 +45,7 @@ sections:
        description: <a href="https://davidgryn.wordpress.com/2015/05/04/the-miami-moscow-and-bermondsey-film-selections-artists-sound-of-film-moscow-16-may-2015/" target="_blank"> Night of the Museums</a>, Moscow, as part of <a href="http://www.artprojx.com/nowandnext.html" target="_blank">Artprojx</a>, Russia
      - 
        date: 2014
-       description: This has Nothing to do with Politics</a>, <a href="http://functionroom.co" target="_blank">The Function Room</a>, London NW1
+       description: This has Nothing to do with Politics, <a href="http://functionroom.co" target="_blank">The Function Room</a>, London NW1
      - 
        date:
        description: <a href="http://www.christies.com/multiplied" target="_blank">Multiplied 2014</a>, Christies, London SW7
