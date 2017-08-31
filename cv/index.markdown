@@ -8,11 +8,11 @@ sections:
    title: upcoming group shows
    entries:
      -
-       date: 2017
+       date: 2018
        description: In whose eyes, <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a>, London SE11
      -
-       date: 
-       description: Whitechapel Gallery Screening, <a href="http://www.whitechapelgallery.org" target="_blank">Whitechapel Gallery</a>, London E1       
+       date: 2017
+       description: Encounters Film Festival screening, <a href="http://www.encounters-festival.org.uk/" target="_blank"> Encounters Film Festival</a>, Bristol BS1       
  - 
    title: selected group shows and screenings
    entries:

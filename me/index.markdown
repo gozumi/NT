@@ -4,8 +4,11 @@ title: me
 group: navigation
 class: me
 ---
+<b>2017</b>
 
-<b>Now</b>
+There is more to do, more to make, and more to see.
+
+<b>2016</b>
 
 Question everything!
 
