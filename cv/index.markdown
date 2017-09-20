@@ -12,7 +12,7 @@ sections:
        description: In whose eyes, <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a>, London SE11
      -
        date: 2017
-       description: Encounters Film Festival screening, <a href="http://encounters-festival.org.uk/?post_type=events&p=10190" target="_blank"> Encounters Film Festival</a>, Bristol BS1       
+       description: <a href="http://encounters-festival.org.uk/?post_type=events&p=10190" target="_blank">Philomela’s Chorus' Short Film screening</a>, <a href="http://encounters-festival.org.uk/" target="_blank"> Encounters Film Festival</a>, Bristol BS1       
  - 
    title: selected group shows and screenings
    entries:
