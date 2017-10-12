@@ -9,15 +9,15 @@ sections:
    entries:
      -
        date: 2018
-       description: In whose eyes, <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a>, London SE11
-     -
-       date: 2017
-       description: <a href="http://encounters-festival.org.uk/?post_type=events&p=10190" target="_blank">Philomela’s Chorus' Short Film screening</a>, <a href="http://encounters-festival.org.uk/" target="_blank"> Encounters Film Festival</a>, Bristol BS1       
+       description: In whose eyes, <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a>, London SE11      
  - 
    title: selected group shows and screenings
    entries:
      -
        date: 2017
+       description: <a href="http://encounters-festival.org.uk/?post_type=events&p=10190" target="_blank">Philomela’s Chorus' Short Film screening</a>, <a href="http://encounters-festival.org.uk/" target="_blank"> Encounters Film Festival</a>, Bristol BS1
+     -
+       date: 
        description: <a href="http://www.nae.org.uk/exhibition/untitled-art-on-the-conditions-of-our/114" target="_blank">UNTITLED&#58; art on the conditions of our time</a>, <a href="http://www.nae.org.uk" target="_blank">New Art Exchange</a>, Nottingham NG7
      -
        date: 2016
