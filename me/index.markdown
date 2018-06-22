@@ -4,6 +4,10 @@ title: me
 group: navigation
 class: me
 ---
+<b>2018</b>
+
+Words are never enough - that is why I make images.
+
 <b>2017</b>
 
 There is more to do, more to make, and more to see.

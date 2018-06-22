@@ -9,7 +9,7 @@ sections:
    entries:
      -
        date: 2018
-       description: BFI African Odysseys Philomela’s Chorus Film Screening, <a href="https://whatson.bfi.org.uk/" target="_blank">BFI</a>, London, SE1
+       description: BFI African Odysseys&#58; Philomela’s Chorus Film Screening, <a href="https://whatson.bfi.org.uk/" target="_blank">BFI</a>, London, SE1
      -
        date: 
        description: In whose eyes, <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a>, London SE11
