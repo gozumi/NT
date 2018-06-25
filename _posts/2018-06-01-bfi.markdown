@@ -5,7 +5,7 @@ date:   2018-06-01 00:00:00
 categories: News
 class: news
 ---
-NT’s film Mel’s Lament will be showing at the British Film Institute, <a href="https://whatson.bfi.org.uk/" target="_blank">BFI</a> as part of BFI’s African Odysseys: <a href="https://whatson.bfi.org.uk/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=86079DBB-576D-48B1-90F7-AE90750A130D&BOparam::WScontent::loadArticle::context_id=7327A727-71B3-4145-9063-1BAE3FB65F97" target="_blank"> Philomela’s Chorus Film Screening </a> this month. The programme also includes 3 other short films by the artists Beverley Bennett, Phoebe Boswell and Jay Bernard.
+NT’s film Mel’s Lament will be showing at the British Film Institute, <a href="" target="_blank"> Philomela’s Chorus Film Screening </a> this month. The programme also includes 3 other short films by the artists Beverley Bennett, Phoebe Boswell and Jay Bernard.
 
 Along with the screening of the films, there will be a Q&A with Gaylene Gould, BFI Head of Cinemas and Events and all 4 of the participating artists.
   
