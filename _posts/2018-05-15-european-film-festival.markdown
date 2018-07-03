@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  BFI African Odysseys
+title:  European Film Festival in Kenya
 date:   2018-05-15 00:00:00
 categories: News
 class: news
@@ -15,5 +15,5 @@ In addition to NT's Mel’s Lament, the screening programme will include short f
 23 May 2018  
 2pm, <a href="https://www.goethe.de/ins/ke/en/index.html" target="_blank">Goethe Institute</a>, Nairobi  
 Hosted by the <a href="https://www.britishcouncil.org/" target="_blank">British Council</a>  
-  
+
 ![mel's lament image ](/assets_posts/mels_lament.jpg)
