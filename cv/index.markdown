@@ -9,18 +9,18 @@ sections:
    entries:
      -
        date: 2018
-       description: BFI African Odysseys&#58; Philomela’s Chorus Film Screening, <a href="https://whatson.bfi.org.uk/" target="_blank">BFI</a>, London, SE1
-     -
-       date: 
-       description: <a href="http://beaconsfield.ltd.uk/projects/practice-in-dialogue/" target="_blank">In whose eyes?</a> <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a>, London SE11
-     -
-       date: 
        description: <a href="https://deptfordx.org" target="_blank">Deptford X Festival 2018</a>, London SE8   
  - 
    title: selected group shows and screenings
    entries:
      -
        date: 2018
+       description: <a href="http://beaconsfield.ltd.uk/projects/practice-in-dialogue/" target="_blank">In whose eyes?</a> <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a>, London SE11   
+     -
+       date:
+       description: BFI African Odysseys&#58; Philomela’s Chorus Film Screening, <a href="https://whatson.bfi.org.uk/" target="_blank">BFI</a>, London, SE1   
+     -
+       date:
        description: Philomela’s Chorus Film Screening, 27th European Film Festival, Kenya 
      -
        date: 2017

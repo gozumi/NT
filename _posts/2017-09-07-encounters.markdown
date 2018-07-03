@@ -13,7 +13,7 @@ NT will be showing Mel’s Lament as part of the <a href="http://encounters-fest
 Tickets for the screening are available online from both <a href="http://www.watershed.co.uk/whatson/8492/philomelas-chorus-screening/" target="_blank">Watershed</a> cinema directly and <a href="http://encounters-festival.org.uk/?post_type=events&p=10190" target="_blank">Encounters Film Festival</a>
 
 <a href="http://encounters-festival.org.uk" target="_blank">Encounters Film Festival</a>  
-<a href="http://www.watershed.co.uk" target="_blank">Watershed</a> Cinema 2 
+<a href="http://www.watershed.co.uk" target="_blank">Watershed</a> Cinema 2  
 1 Canons Road  
 Harbourside  
 Bristol   
