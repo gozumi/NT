@@ -5,7 +5,7 @@ date:   2018-06-20 00:00:00
 categories: News
 class: news
 ---
-NT will be showing s-time, at the <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a> Vauxhall, along with other members of <a href="http://feministpracticeindialogue.weebly.com/" target="_blank">Practice in Dialogue</a> to coincide with their exhibition <a href="http://beaconsfield.ltd.uk/projects/practice-in-dialogue" target="_blank">In Whose Eyes?</a> and their symposium</a>.
+NT will be showing <a href="http://ntpresents.com/work/films/s-time" target="_blank">s-time</a>, at <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a> Vauxhall, along with other members of <a href="http://feministpracticeindialogue.weebly.com/" target="_blank">Practice in Dialogue</a> to coincide with their exhibition <a href="http://beaconsfield.ltd.uk/projects/practice-in-dialogue" target="_blank">In Whose Eyes?</a> and their symposium</a>.
 
 <a href="http://beaconsfield.ltd.uk/projects/practice-in-dialogue" target="_blank">In Whose Eyes?</a>, is an exhibition and a programme of video works, performances, sound pieces and discussions which "explores questions of female subjectivity, representation and power in contemporary Western culture. Who is made visible – or excluded – and how they are represented in culture is highly political and impacts on people’s lives in numerous intersectional ways".  
 The exhibition runs from 4 July 2018 - 5 August, with the <a href="https://www.eventbrite.co.uk/e/in-whose-eyes-the-practice-in-dialogue-symposium-tickets-47163953655" target="_blank">Practice In Dialogue Symposium</a> taking place on 29 July 2018.  
@@ -24,7 +24,7 @@ Lauren Schneider, and
 Martina Schmuecker.
 
 <a href="http://beaconsfield.ltd.uk/projects/practice-in-dialogue" target="_blank">In Whose Eyes?</a>  
-Beconsfield Gallery Vauxhall  
+<a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a> Vauxhall  
 22 Newport Street  
 London  
 SE11 6AY  
