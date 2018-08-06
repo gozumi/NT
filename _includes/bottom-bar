@@ -4,6 +4,6 @@
 	<a href="/"><div class="logo"></div></a>
 	{% include navigation %}
 	<div class="copyright">
-		Copyright &copy; 2017, NT, All rights reserved.
+		Copyright &copy; 2018, NT, All rights reserved.
 	</div>
 </div>
