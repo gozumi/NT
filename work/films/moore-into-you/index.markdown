@@ -12,7 +12,7 @@ breadcrumb:
 images:
   - {
 		url: moore-into-you-1.html, 
-		src: thumbs/more-than-a-woman-1.jpg,
+		src: thumbs/moore-into-you-1.jpg,
 		label: 'moore into you - film excerpt',
 		information: ''
 	}
