@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mel's lament
+title: "Mel's lament"
 group: navigation
 class: work
 breadcrumb:
