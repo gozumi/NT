@@ -11,6 +11,12 @@ breadcrumb:
 	}
 images:
   - {
+		url: moore-into-you, 
+		src: thumbs/moore-into-you.jpg,
+		label: moore into you&#44; 2016,
+		information: 'For the love of form;...'
+	}
+  - {
 		url: more-than-a-woman, 
 		src: thumbs/more-than-a-woman.jpg,
 		label: more than a Woman&#44; 2015,
