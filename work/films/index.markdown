@@ -14,7 +14,7 @@ images:
 		url: mels-lament, 
 		src: thumbs/mels-lament.jpg,
 		label: Mel&#39;s lament&#44; 2017,
-		information: 'An ancient Greek myth made anew;...'
+		information: 'An ancient Greek myth made anew...'
 	}
   - {
 		url: moore-into-you, 
