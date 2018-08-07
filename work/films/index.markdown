@@ -20,7 +20,7 @@ images:
 		url: moore-into-you, 
 		src: thumbs/moore-into-you.jpg,
 		label: Moore into you&#44; 2016,
-		information: 'For the love of form;...'
+		information: 'For the love of form...'
 	}
   - {
 		url: more-than-a-woman, 
