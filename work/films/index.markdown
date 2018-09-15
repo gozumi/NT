@@ -13,7 +13,7 @@ images:
   - {
 		url: fox, 
 		src: thumbs/fox.jpg,
-		label: Fox&#44; 2017,
+		label: Fox&#44; 2018,
 		information: 'Watch and understand...'
 	}
   - {
