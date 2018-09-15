@@ -24,7 +24,7 @@ images:
 	}
   - {
 		url: fox-3.html, 
-		src: thumbs/mels-lament-3.jpg,
+		src: thumbs/fox-3.jpg,
 		label: "Fox - film still #3",
 		information: ''
 	}
