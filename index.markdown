@@ -11,14 +11,14 @@ class: nt-presents
 		bottom: 0;
 		left: 0;
 		right: 0;
-		background: url(/work/films/fox/assets/fox-3.jpg) center center no-repeat;
+		background: url(/work/films/fox/assets/fox.jpg) center center no-repeat;
 		background-size: 100%;
 		display: none;
 	}
 </style>
 
 <div id="showcase-frame">
-	<img alt="film still of Fox" src="/work/films/fox/assets/fox-3.jpg" />
+	<img alt="film still of Fox" src="/work/films/fox/assets/fox.jpg" />
 </div>
 <div id="showcase-cover" class="showcase-cover">
 	<div class="NT"></div>
