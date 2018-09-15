@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mel's lament"
+title: "Fox"
 group: navigation
 class: work
 breadcrumb:
@@ -11,30 +11,42 @@ breadcrumb:
 	}
 images:
   - {
-		url: mels-lament-1.html, 
-		src: thumbs/mels-lament-1.jpg,
-		label: "Mel's lament - film excerpt",
+		url: fox-1.html, 
+		src: thumbs/fox-1.jpg,
+		label: "Fox - film still #1",
 		information: ''
 	}
   - {
-		url: mels-lament-2.html, 
-		src: thumbs/mels-lament-2.jpg,
-		label: "Mel's lament - film still #1",
+		url: fox-2.html, 
+		src: thumbs/fox-2.jpg,
+		label: "Fox - film still #2",
 		information: ''
 	}
   - {
-		url: mels-lament-3.html, 
+		url: fox-3.html, 
 		src: thumbs/mels-lament-3.jpg,
-		label: "Mel's lament - film still #2",
+		label: "Fox - film still #3",
 		information: ''
 	}
   - {
-		url: mels-lament-4.html, 
-		src: thumbs/mels-lament-4.jpg,
-		label: "Mel's lament - film still #3",
+		url: fox-4.html, 
+		src: thumbs/fox-4.jpg,
+		label: "Fox - film still #4",
 		information: ''
 	}	
-
+  - {
+		url: fox-5.html, 
+		src: thumbs/fox-5.jpg,
+		label: "Fox - film still #5",
+		information: ''
+	}
+  - {
+		url: fox-6.html, 
+		src: thumbs/fox-6.jpg,
+		label: "Fox - film still #6",
+		information: ''
+	}
+	
 ---
 
 {% include gallery.html %}
