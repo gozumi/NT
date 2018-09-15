@@ -11,7 +11,7 @@ class: nt-presents
 		bottom: 0;
 		left: 0;
 		right: 0;
-		background: url(/work/films/sterling-eyes/assets/sterling-eyes-1.jpg) center center no-repeat;
+		background: url(/work/films/sterling-eyes/assets/fox-3.jpg) center center no-repeat;
 		background-size: 100%;
 		display: none;
 	}
