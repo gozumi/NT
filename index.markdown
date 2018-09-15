@@ -37,7 +37,7 @@ require([
 ], function(dom, has, domClass, domStyle, fx){
 
 	// if (has('touch')) {
-	// 	domStyle.set(dom.byId('showcase-frame'), 'display', 'none');
+		domStyle.set(dom.byId('showcase-frame'), 'display', 'none');
 		domStyle.set(dom.byId('fallback-cover'), 'display', 'block');
 	// }
 
