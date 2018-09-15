@@ -5,11 +5,11 @@ foo: whatever
 class: cv
 sections:
  - 
-   title: upcoming group shows
+   title: upcoming shows
    entries:
      -
        date: 2018
-       description: <a href="https://deptfordx.org/NT" target="_blank">NT</a> @ <a href="https://deptfordx.org" target="_blank">Deptford X Festival 2018</a>, London SE8
+       description: <a href="https://deptfordx.org/NT" target="_blank">NT</a> presents Fox, <a href="https://deptfordx.org/Platform-2018-1" target="_blank">Platform 2018</a>, <a href="https://deptfordx.org" target="_blank">Deptford X</a>, London SE8
  - 
    title: selected group shows and screenings
    entries:
