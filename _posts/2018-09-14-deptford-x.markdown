@@ -7,15 +7,10 @@ class: news
 ---
 This year, NT has been commissioned to create a new work as part of <a href="https://deptfordx.org" target="_blank">Deptford X</a>’s <a href="https://deptfordx.org/Platform-2018-1" target="_blank">Platform 2018</a> which commissions and showcases new work by emerging artists for the <a href="https://deptfordx.org" target="_blank">Deptford X</a> Art Festival.  
 
-The new work titled Fox, is a 2 screen installation shot in the heart of Deptford and will be shown for the first time during <a href="https://deptfordx.org" target="_blank">Deptford X</a>.  
+The new work titled <a href="http://ntpresents.com/work/films/fox" target="_blank">fox</a>, is a 2 screen installation shot in the heart of Deptford and will be shown for the first time during <a href="https://deptfordx.org" target="_blank">Deptford X</a>.  
 The other 4 featured <a href="https://deptfordx.org/Platform-2018-1" target="_blank">Platform 2018</a> artists for <a href="https://deptfordx.org" target="_blank">Deptford X</a> as nominated by Oreet Ashery, Melanie Keen, Bryony Bond and Sarah McCrory, are Shawanda Corbett, Georgia Lucas-Going, David Steans, Laura Yuile. NT was nominated by Larry Achiampong.
 
-<a href="https://deptfordx.org" target="_blank">Deptford X</a>
-<a href="https://deptfordx.org/Platform-2018-1" target="_blank">Platform 2018</a>
-<a href="https://deptfordx.org/NT" target="_blank">NT</a>
-<a href="http://ntpresents.com/work/films/fox" target="_blank">fox</a>
-
-<a href="https://deptfordx.org/NT" target="_blank">NT</a> presents Fox  
+<a href="https://deptfordx.org/NT" target="_blank">NT</a> presents <a href="http://ntpresents.com/work/films/fox" target="_blank">fox</a>  
 <a href="https://deptfordx.org" target="_blank">Deptford X</a>  
 <a href="https://deptfordx.org/Platform-2018-1" target="_blank">Platform 2018</a>  
 Unit 4, Carriage Way (Deptford Market Yard), SE8 4BZ  
