@@ -13,19 +13,19 @@ images:
   - {
 		url: fox-1.html, 
 		src: thumbs/fox-1.jpg,
-		label: 'fox - film still',
+		label: 'fox - film still #1',
 		information: ''
 	}
   - {
 		url: fox-2.html, 
 		src: thumbs/fox-2.jpg,
-		label: 'Fox - film excerpt',
+		label: 'Fox - film still #2',
 		information: ''
 	}
   - {
 		url: fox-3.html, 
 		src: thumbs/fox-3.jpg,
-		label: 'Fox - film excerpt',
+		label: 'Fox - film still #3',
 		information: ''
 	}
   - {
