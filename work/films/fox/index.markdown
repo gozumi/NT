@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Fox"
+title: Fox
 group: navigation
 class: work
 breadcrumb:
