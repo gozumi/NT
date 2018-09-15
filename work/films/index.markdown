@@ -11,12 +11,6 @@ breadcrumb:
 	}
 images:
   - {
-		url: fox, 
-		src: thumbs/fox.jpg,
-		label: Fox&#44; 2018,
-		information: 'Watch and you'll understand...'
-	}
-  - {
 		url: mels-lament, 
 		src: thumbs/mels-lament.jpg,
 		label: Mel&#39;s lament&#44; 2017,
