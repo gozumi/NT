@@ -1,6 +1,6 @@
 ---
 layout: default
-title: imitation 34/59
+title: Fox
 group: navigation
 class: work
 breadcrumb:
@@ -11,39 +11,39 @@ breadcrumb:
 	}
 images:
   - {
-		url: imitation-34-59-1.html, 
-		src: thumbs/imitation-34-59-1.jpg,
-		label: imitation 34/59 - film excerpt,
+		url: fox-1.html, 
+		src: thumbs/fox-1.jpg,
+		label: 'fox - film still',
 		information: ''
 	}
   - {
-		url: imitation-34-59-1.html, 
-		src: thumbs/imitation-34-59-1.jpg,
-		label: imitation 34/59 - film excerpt,
+		url: fox-2.html, 
+		src: thumbs/fox-2.jpg,
+		label: 'Fox - film excerpt',
 		information: ''
 	}
   - {
-		url: imitation-34-59-1.html, 
-		src: thumbs/imitation-34-59-1.jpg,
-		label: imitation 34/59 - film excerpt,
+		url: fox-3.html, 
+		src: thumbs/fox-3.jpg,
+		label: 'Fox - film excerpt',
 		information: ''
 	}
   - {
-		url: imitation-34-59-2.html, 
-		src: thumbs/imitation-34-59-2.jpg,
-		label: 'imitation 34/59 - film still #1',
+		url: fox-4.html, 
+		src: thumbs/fox-4.jpg,
+		label: 'Fox - film still #4',
 		information: ''
 	}
   - {
-		url: imitation-34-59-3.html, 
-		src: thumbs/imitation-34-59-3.jpg,
-		label: 'imitation 34/59 - film still #2',
+		url: fox-5.html, 
+		src: thumbs/fox-5.jpg,
+		label: 'Fox - film still #5',
 		information: ''
 	}
   - {
-		url: imitation-34-59-4.html, 
-		src: thumbs/imitation-34-59-4.jpg,
-		label: 'imitation 34/59 - film still #3',
+		url: fox-6.html, 
+		src: thumbs/fox-6.jpg,
+		label: 'Fox - film still #6',
 		information: ''
 	}
 
