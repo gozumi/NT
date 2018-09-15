@@ -17,6 +17,18 @@ images:
 		information: ''
 	}
   - {
+		url: imitation-34-59-1.html, 
+		src: thumbs/imitation-34-59-1.jpg,
+		label: imitation 34/59 - film excerpt,
+		information: ''
+	}
+  - {
+		url: imitation-34-59-1.html, 
+		src: thumbs/imitation-34-59-1.jpg,
+		label: imitation 34/59 - film excerpt,
+		information: ''
+	}
+  - {
 		url: imitation-34-59-2.html, 
 		src: thumbs/imitation-34-59-2.jpg,
 		label: 'imitation 34/59 - film still #1',
