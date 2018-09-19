@@ -14,7 +14,7 @@ The other 4 featured <a href="https://deptfordx.org/Platform-2018-1" target="_bl
 <a href="https://deptfordx.org" target="_blank">Deptford X</a>  
 <a href="https://deptfordx.org/Platform-2018-1" target="_blank">Platform 2018</a>  
 Unit 4, Carriage Way (Deptford Market Yard), SE8 4BZ  
-21- 30 September 2018  
+21 - 30 September 2018  
 
 Open: Sat 22, Sun 23, Wed 26, Thu 27, Sat 29 and Sun 30 Sept 12 - 6pm  
 Closed: Mon 24 and Tue 25 September  
