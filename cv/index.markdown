@@ -5,7 +5,7 @@ foo: whatever
 class: cv
 sections:
  - 
-   title: upcoming shows
+   title: current show
    entries:
      -
        date: 2018
