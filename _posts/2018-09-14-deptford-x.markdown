@@ -13,7 +13,8 @@ The other 4 featured <a href="https://deptfordx.org/Platform-2018-1" target="_bl
 <a href="https://deptfordx.org/NT" target="_blank">NT</a> presents <a href="http://ntpresents.com/work/films/fox" target="_blank">Fox</a>  
 <a href="https://deptfordx.org" target="_blank">Deptford X</a>  
 <a href="https://deptfordx.org/Platform-2018-1" target="_blank">Platform 2018</a>  
-Unit 4, Carriage Way [Deptford Market Yard], SE8 4BZ  
+Unit 4, Carriage Way [Deptford Market Yard]  
+SE8 4BZ  
 21 - 30 September 2018  
 
 Open: Sat 22, Sun 23, Wed 26, Thu 27, Sat 29 and Sun 30 September 12 - 6pm  
