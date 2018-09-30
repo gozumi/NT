@@ -13,7 +13,7 @@ images:
   - {
 		url: fox-1.html, 
 		src: thumbs/fox-1.jpg,
-		label: 'fox - film still #1',
+		label: 'Fox - film still #1',
 		information: ''
 	}
   - {
