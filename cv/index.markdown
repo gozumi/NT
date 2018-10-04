@@ -5,12 +5,6 @@ foo: whatever
 class: cv
 sections:
  - 
-   title: current show
-   entries:
-     -
-       date: 2018
-       description: <a href="https://deptfordx.org/NT" target="_blank">NT</a> presents <a href="http://ntpresents.com/work/films/fox" target="_blank">Fox</a>, <a href="https://deptfordx.org/Platform-2018-1" target="_blank">Platform 2018</a>, <a href="https://deptfordx.org" target="_blank">Deptford X</a>, London SE8
- - 
    title: selected group shows and screenings
    entries:
      -
