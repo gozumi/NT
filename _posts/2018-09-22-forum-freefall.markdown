@@ -5,7 +5,7 @@ date:   2018-09-22 00:00:00
 categories: News
 class: news
 ---
-In conjunction with the <a href="http://1-54.com/london/" target="_blank">1-54 Contemporary African Art Fair</a>, London there will be a series of talks curated by Ekow Eshun. The talks programme <a href="http://1-54.com/london/forum-3/" target="_blank">1-54 Forum</a>takes the concept of <b>Freefall</b> as "a point of departure from which to explore black artistic practice as a strategy of innovation, resistance and liberation".
+In conjunction with the <a href="http://1-54.com/london/" target="_blank">1-54 Contemporary African Art Fair</a>, London there will be a series of talks curated by Ekow Eshun. The talks programme <a href="http://1-54.com/london/forum-3/" target="_blank">1-54 Forum</a>takes the concept of <b>Freefall</b> as "a point of departure from which to explore black artistic practice as a strategy of innovation, resistance and liberation"..
 
 As part of <a href="http://1-54.com/london/forum-3/" target="_blank">1-54 Forum: Freefall</a> <a href="http://ntpresents.com" target="_blank">NT</a> will be taking part in the talk: <b>The Fugitive Image</b> alongside artists Appau Jnr Boakye-Yiadom and Onyeka Igwe with Gaylene Gould as chair.
 
