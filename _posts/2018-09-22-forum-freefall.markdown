@@ -26,3 +26,4 @@ South Wing, Strand
 London  
 WC2R 1LA
 
+![fox image](/assets_posts/fox-1.jpg)
