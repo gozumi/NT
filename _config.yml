@@ -1,7 +1,7 @@
 name: NT
 description: "This is the official website of the artist NT"
 markdown: redcarpet
-highlighter: true
+highlighter: rouge
 paginate: 5
 paginate_path: "news/page:num"
 url: "http://www.ntpresents.com"
