@@ -61,6 +61,6 @@ images:
 
 ---
 
-Focusing on a lone 13 year-old youngster as he travels through the night. The film FOX, aims to pose questions about the presence of a young boy within his urban environment, who much like the urban fox is tolerated and often hidden from consciousness, viewed consistently as menacing but also shrewd, fearless, and adapted to their environment.
+Focusing on a lone 13 year-old youngster as he travels through the night. The film aims to pose questions about the presence of a young boy within his urban environment, who much like the urban fox is tolerated and often hidden from consciousness, viewed consistently as menacing but also shrewd, fearless, and adapted to their environment.
 
 {% include gallery.html %}

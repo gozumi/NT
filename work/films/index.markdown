@@ -14,7 +14,7 @@ images:
 		url: fox, 
 		src: thumbs/fox.jpg,
 		label: Fox&#44; 2018,
-		information: 'Focusing on a lone 13 year-old youngster as he travels through the night. The film FOX, aims to pose questions...'
+		information: 'Focusing on a lone 13 year-old youngster as he travels through the night. The film, aims to pose questions...'
 	}
   - {
 		url: mels-lament, 
