@@ -22,4 +22,4 @@ Closed: Mon 24 and Tue 25 September
 Lates: Fri 21 and Fri 28 September till 8pm  
 Artist Talk: Sat 30 September at 16:30pm  
 
-![fox image](/assets_posts/fox-3.jpg)
+![fox image](/assets_posts/NT-Deptford-X.gif)
