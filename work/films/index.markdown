@@ -14,7 +14,7 @@ images:
 		url: fox, 
 		src: thumbs/fox.jpg,
 		label: Fox&#44; 2018,
-		information: 'Watch and understand...'
+		information: 'Focusing on a lone 13 year-old youngster as he travels through the night. The film FOX, aims to pose questions about the presence of a young boy within his urban environment...'
 	}
   - {
 		url: mels-lament, 
