@@ -48,22 +48,16 @@ images:
 	}
   - {
 		url: fox-7.html, 
-		src: thumbs/fox-installation-1.jpg,
+		src: thumbs/fox-installation-2.jpg,
 		label: 'Fox - installation shot #1',
 		information: ''
 	}
   - {
 		url: fox-8.html, 
-		src: thumbs/fox-installation-2.jpg,
+		src: thumbs/fox-installation-4.jpg,
 		label: 'Fox - installation shot #2',
 		information: ''
 	}
-  - {
-		url: fox-9.html, 
-		src: thumbs/fox-installation-4.jpg,
-		label: 'Fox - installation shot #3',
-		information: ''
-	}	
 ---
 
 {% include gallery.html %}
