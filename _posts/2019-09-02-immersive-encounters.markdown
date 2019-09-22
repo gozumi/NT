@@ -7,6 +7,8 @@ class: news
 ---
 NT's <a href="http://ntpresents.com/work/films/fox/" target="_blank">Fox</a> will be shown at this year’s <a href="https://www.encounters.film" target="_blank">Encounters Film Festival</a> as part of their Immersive Encounters Exhibition. The 2-channel installation will be showing from 10am to 4pm, Wednesday 25 September to Friday 27 September 2019.
 
+Encounters Film Festival provides an international platform for celebrating talent and innovation in short film, animation and virtual reality.
+
 Immersive Encounters  
 <a href="https://www.encounters.film" target="_blank">Encounters Film Festival</a>  
 25 - 27 September 2019  
