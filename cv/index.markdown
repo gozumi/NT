@@ -5,8 +5,20 @@ foo: whatever
 class: cv
 sections:
  - 
+   title: upcomming
+   entries:
+     -
+       date: 2020
+       description: UNTITLED <a href="https://www.kettlesyard.co.uk" target="_blank">Kettle's Yard</a>, Cambridge CB3   
+     -
+       date: 2019
+       description: Immersive Encounters, <a href="https://www.encounters.film" target="_blank">Encounters Film Festival</a>, Bristol BS1   
+ - 
    title: selected group shows and screenings
    entries:
+     -
+       date: 2019
+       description: Sixty Years&#58; Women’s Art in the Clifford Chance Art Collection, Clifford Chance, London E14   
      -
        date: 2018
        description: <a href="https://deptfordx.org/NT" target="_blank">NT</a> presents <a href="http://ntpresents.com/work/films/fox" target="_blank">Fox</a>, <a href="https://deptfordx.org/Platform-2018-1" target="_blank">Platform 2018</a>, <a href="https://deptfordx.org" target="_blank">Deptford X</a>, London SE8   
@@ -15,7 +27,7 @@ sections:
        description: <a href="http://beaconsfield.ltd.uk/projects/practice-in-dialogue/" target="_blank">In whose eyes?</a> <a href="http://beaconsfield.ltd.uk" target="_blank">Beaconsfield Gallery</a>, London SE11   
      -
        date:
-       description: BFI African Odysseys&#58; Philomela’s Chorus Film Screening, <a href="https://whatson.bfi.org.uk/" target="_blank">BFI</a>, London, SE1   
+       description: BFI African Odysseys&#58; Philomela’s Chorus Film Screening, <a href="https://whatson.bfi.org.uk/" target="_blank">BFI</a>, London SE1   
      -
        date:
        description: Philomela’s Chorus Film Screening, 27th European Film Festival, Kenya 
