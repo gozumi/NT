@@ -18,6 +18,9 @@ sections:
    entries:
      -
        date: 2019
+       description: Immersive Encounters, <a href="https://www.encounters.film" target="_blank">Encounters Film Festival</a>, Bristol BS1      
+     -
+       date:
        description: Sixty Years&#58; Women’s Art in the Clifford Chance Art Collection, Clifford Chance, London E14   
      -
        date: 2018
