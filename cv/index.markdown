@@ -8,11 +8,8 @@ sections:
    title: upcomming
    entries:
      -
-       date: 2020
+       date: 2021
        description: UNTITLED, <a href="https://www.kettlesyard.co.uk" target="_blank">Kettle's Yard</a>, Cambridge CB3   
-     -
-       date: 2019
-       description: Immersive Encounters, <a href="https://www.encounters.film" target="_blank">Encounters Film Festival</a>, Bristol BS1   
  - 
    title: selected group shows and screenings
    entries:
